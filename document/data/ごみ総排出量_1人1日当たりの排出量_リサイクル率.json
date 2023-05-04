@@ -1,0 +1,284 @@
+[
+  {
+    "prefectures": "北海道",
+    "totalEmissions": 1810945,
+    "dailyEmissions": 949,
+    "recyclingRate": 21.2
+  },
+  {
+    "prefectures": "青森県",
+    "totalEmissions": 457849,
+    "dailyEmissions": 993,
+    "recyclingRate": 12.8
+  },
+  {
+    "prefectures": "岩手県",
+    "totalEmissions": 405527,
+    "dailyEmissions": 908,
+    "recyclingRate": 16.1
+  },
+  {
+    "prefectures": "宮城県",
+    "totalEmissions": 814327,
+    "dailyEmissions": 977,
+    "recyclingRate": 15.5
+  },
+  {
+    "prefectures": "秋田県",
+    "totalEmissions": 350545,
+    "dailyEmissions": 987,
+    "recyclingRate": 14.5
+  },
+  {
+    "prefectures": "山形県",
+    "totalEmissions": 351454,
+    "dailyEmissions": 901,
+    "recyclingRate": 13.3
+  },
+  {
+    "prefectures": "福島県",
+    "totalEmissions": 710449,
+    "dailyEmissions": 1033,
+    "recyclingRate": 13.2
+  },
+  {
+    "prefectures": "茨城県",
+    "totalEmissions": 1026729,
+    "dailyEmissions": 969,
+    "recyclingRate": 17.6
+  },
+  {
+    "prefectures": "栃木県",
+    "totalEmissions": 661148,
+    "dailyEmissions": 925,
+    "recyclingRate": 15.8
+  },
+  {
+    "prefectures": "群馬県",
+    "totalEmissions": 708460,
+    "dailyEmissions": 990,
+    "recyclingRate": 13.2
+  },
+  {
+    "prefectures": "埼玉県",
+    "totalEmissions": 2324484,
+    "dailyEmissions": 861,
+    "recyclingRate": 21
+  },
+  {
+    "prefectures": "千葉県",
+    "totalEmissions": 2061897,
+    "dailyEmissions": 894,
+    "recyclingRate": 21.4
+  },
+  {
+    "prefectures": "東京都",
+    "totalEmissions": 4242734,
+    "dailyEmissions": 839,
+    "recyclingRate": 21.1
+  },
+  {
+    "prefectures": "神奈川県",
+    "totalEmissions": 2819079,
+    "dailyEmissions": 837,
+    "recyclingRate": 24.7
+  },
+  {
+    "prefectures": "新潟県",
+    "totalEmissions": 820134,
+    "dailyEmissions": 1016,
+    "recyclingRate": 21.1
+  },
+  {
+    "prefectures": "富山県",
+    "totalEmissions": 397704,
+    "dailyEmissions": 1039,
+    "recyclingRate": 22.2
+  },
+  {
+    "prefectures": "石川県",
+    "totalEmissions": 377643,
+    "dailyEmissions": 913,
+    "recyclingRate": 13.7
+  },
+  {
+    "prefectures": "福井県",
+    "totalEmissions": 265495,
+    "dailyEmissions": 938,
+    "recyclingRate": 13.4
+  },
+  {
+    "prefectures": "山梨県",
+    "totalEmissions": 291457,
+    "dailyEmissions": 972,
+    "recyclingRate": 17.2
+  },
+  {
+    "prefectures": "長野県",
+    "totalEmissions": 610650,
+    "dailyEmissions": 807,
+    "recyclingRate": 20.2
+  },
+  {
+    "prefectures": "岐阜県",
+    "totalEmissions": 634466,
+    "dailyEmissions": 878,
+    "recyclingRate": 14.1
+  },
+  {
+    "prefectures": "静岡県",
+    "totalEmissions": 1156091,
+    "dailyEmissions": 858,
+    "recyclingRate": 17.5
+  },
+  {
+    "prefectures": "愛知県",
+    "totalEmissions": 2469354,
+    "dailyEmissions": 895,
+    "recyclingRate": 21.5
+  },
+  {
+    "prefectures": "三重県",
+    "totalEmissions": 622282,
+    "dailyEmissions": 947,
+    "recyclingRate": 16.1
+  },
+  {
+    "prefectures": "滋賀県",
+    "totalEmissions": 425971,
+    "dailyEmissions": 822,
+    "recyclingRate": 15.3
+  },
+  {
+    "prefectures": "京都府",
+    "totalEmissions": 743452,
+    "dailyEmissions": 785,
+    "recyclingRate": 13.8
+  },
+  {
+    "prefectures": "大阪府",
+    "totalEmissions": 2950844,
+    "dailyEmissions": 915,
+    "recyclingRate": 13.3
+  },
+  {
+    "prefectures": "兵庫県",
+    "totalEmissions": 1814640,
+    "dailyEmissions": 901,
+    "recyclingRate": 14.6
+  },
+  {
+    "prefectures": "奈良県",
+    "totalEmissions": 433912,
+    "dailyEmissions": 883,
+    "recyclingRate": 15.8
+  },
+  {
+    "prefectures": "和歌山県",
+    "totalEmissions": 323712,
+    "dailyEmissions": 938,
+    "recyclingRate": 13.1
+  },
+  {
+    "prefectures": "鳥取県",
+    "totalEmissions": 202597,
+    "dailyEmissions": 995,
+    "recyclingRate": 24.5
+  },
+  {
+    "prefectures": "島根県",
+    "totalEmissions": 232553,
+    "dailyEmissions": 946,
+    "recyclingRate": 18.4
+  },
+  {
+    "prefectures": "岡山県",
+    "totalEmissions": 642895,
+    "dailyEmissions": 931,
+    "recyclingRate": 21.8
+  },
+  {
+    "prefectures": "広島県",
+    "totalEmissions": 900920,
+    "dailyEmissions": 877,
+    "recyclingRate": 12.8
+  },
+  {
+    "prefectures": "山口県",
+    "totalEmissions": 486523,
+    "dailyEmissions": 982,
+    "recyclingRate": 24.4
+  },
+  {
+    "prefectures": "徳島県",
+    "totalEmissions": 257335,
+    "dailyEmissions": 958,
+    "recyclingRate": 16.2
+  },
+  {
+    "prefectures": "香川県",
+    "totalEmissions": 302525,
+    "dailyEmissions": 850,
+    "recyclingRate": 16.5
+  },
+  {
+    "prefectures": "愛媛県",
+    "totalEmissions": 439521,
+    "dailyEmissions": 886,
+    "recyclingRate": 15.1
+  },
+  {
+    "prefectures": "高知県",
+    "totalEmissions": 245470,
+    "dailyEmissions": 958,
+    "recyclingRate": 13.4
+  },
+  {
+    "prefectures": "福岡県",
+    "totalEmissions": 1768645,
+    "dailyEmissions": 946,
+    "recyclingRate": 15.5
+  },
+  {
+    "prefectures": "佐賀県",
+    "totalEmissions": 264812,
+    "dailyEmissions": 886,
+    "recyclingRate": 16.8
+  },
+  {
+    "prefectures": "長崎県",
+    "totalEmissions": 474606,
+    "dailyEmissions": 972,
+    "recyclingRate": 13.2
+  },
+  {
+    "prefectures": "熊本県",
+    "totalEmissions": 566015,
+    "dailyEmissions": 881,
+    "recyclingRate": 16.1
+  },
+  {
+    "prefectures": "大分県",
+    "totalEmissions": 395733,
+    "dailyEmissions": 950,
+    "recyclingRate": 14.5
+  },
+  {
+    "prefectures": "宮崎県",
+    "totalEmissions": 384489,
+    "dailyEmissions": 968,
+    "recyclingRate": 16.9
+  },
+  {
+    "prefectures": "鹿児島県",
+    "totalEmissions": 543966,
+    "dailyEmissions": 921,
+    "recyclingRate": 14.8
+  },
+  {
+    "prefectures": "沖縄県",
+    "totalEmissions": 477063,
+    "dailyEmissions": 881,
+    "recyclingRate": 15.8
+  }
+]

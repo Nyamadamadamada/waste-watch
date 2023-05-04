@@ -1,0 +1,425 @@
+[
+  {
+    "name": "北海道",
+    "mixed_garbage": 33238,
+    "burnable_garbage": 712045,
+    "non_burnable_garbage": 105722,
+    "recyclable_garbage": 277199,
+    "other_garbage": 8776,
+    "oversized_garbage": 41103
+  },
+  {
+    "name": "青森県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 246216,
+    "non_burnable_garbage": 19313,
+    "recyclable_garbage": 33125,
+    "other_garbage": 100,
+    "oversized_garbage": 10140
+  },
+  {
+    "name": "岩手県",
+    "mixed_garbage": 5886,
+    "burnable_garbage": 205855,
+    "non_burnable_garbage": 13269,
+    "recyclable_garbage": 38963,
+    "other_garbage": 74,
+    "oversized_garbage": 7346
+  },
+  {
+    "name": "宮城県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 434750,
+    "non_burnable_garbage": 9710,
+    "recyclable_garbage": 90363,
+    "other_garbage": 423,
+    "oversized_garbage": 15844
+  },
+  {
+    "name": "秋田県",
+    "mixed_garbage": 57289,
+    "burnable_garbage": 135299,
+    "non_burnable_garbage": 5962,
+    "recyclable_garbage": 31635,
+    "other_garbage": 39,
+    "oversized_garbage": 6855
+  },
+  {
+    "name": "山形県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 194666,
+    "non_burnable_garbage": 13686,
+    "recyclable_garbage": 24980,
+    "other_garbage": 365,
+    "oversized_garbage": 4909
+  },
+  {
+    "name": "福島県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 399021,
+    "non_burnable_garbage": 25763,
+    "recyclable_garbage": 59260,
+    "other_garbage": 127,
+    "oversized_garbage": 10569
+  },
+  {
+    "name": "茨城県",
+    "mixed_garbage": 7658,
+    "burnable_garbage": 591290,
+    "non_burnable_garbage": 43335,
+    "recyclable_garbage": 79717,
+    "other_garbage": 594,
+    "oversized_garbage": 24060
+  },
+  {
+    "name": "栃木県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 379291,
+    "non_burnable_garbage": 22212,
+    "recyclable_garbage": 69408,
+    "other_garbage": 467,
+    "oversized_garbage": 11794
+  },
+  {
+    "name": "群馬県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 437901,
+    "non_burnable_garbage": 22409,
+    "recyclable_garbage": 50432,
+    "other_garbage": 2089,
+    "oversized_garbage": 16300
+  },
+  {
+    "name": "埼玉県",
+    "mixed_garbage": 113186,
+    "burnable_garbage": 1212408,
+    "non_burnable_garbage": 93771,
+    "recyclable_garbage": 285275,
+    "other_garbage": 2201,
+    "oversized_garbage": 46218
+  },
+  {
+    "name": "千葉県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 1085607,
+    "non_burnable_garbage": 75421,
+    "recyclable_garbage": 229629,
+    "other_garbage": 10406,
+    "oversized_garbage": 54847
+  },
+  {
+    "name": "東京都",
+    "mixed_garbage": 0,
+    "burnable_garbage": 2308576,
+    "non_burnable_garbage": 94655,
+    "recyclable_garbage": 627813,
+    "other_garbage": 1982,
+    "oversized_garbage": 108105
+  },
+  {
+    "name": "神奈川県",
+    "mixed_garbage": 374249,
+    "burnable_garbage": 1080640,
+    "non_burnable_garbage": 35556,
+    "recyclable_garbage": 409142,
+    "other_garbage": 807,
+    "oversized_garbage": 61064
+  },
+  {
+    "name": "新潟県",
+    "mixed_garbage": 1,
+    "burnable_garbage": 371941,
+    "non_burnable_garbage": 25454,
+    "recyclable_garbage": 127911,
+    "other_garbage": 843,
+    "oversized_garbage": 17500
+  },
+  {
+    "name": "富山県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 197159,
+    "non_burnable_garbage": 15694,
+    "recyclable_garbage": 29503,
+    "other_garbage": 938,
+    "oversized_garbage": 3349
+  },
+  {
+    "name": "石川県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 183983,
+    "non_burnable_garbage": 10420,
+    "recyclable_garbage": 31644,
+    "other_garbage": 1363,
+    "oversized_garbage": 13082
+  },
+  {
+    "name": "福井県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 142284,
+    "non_burnable_garbage": 17953,
+    "recyclable_garbage": 17673,
+    "other_garbage": 132,
+    "oversized_garbage": 9069
+  },
+  {
+    "name": "山梨県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 162667,
+    "non_burnable_garbage": 14102,
+    "recyclable_garbage": 25799,
+    "other_garbage": 133,
+    "oversized_garbage": 6740
+  },
+  {
+    "name": "長野県",
+    "mixed_garbage": 8,
+    "burnable_garbage": 300264,
+    "non_burnable_garbage": 20407,
+    "recyclable_garbage": 87430,
+    "other_garbage": 506,
+    "oversized_garbage": 4883
+  },
+  {
+    "name": "岐阜県",
+    "mixed_garbage": 390,
+    "burnable_garbage": 347208,
+    "non_burnable_garbage": 22574,
+    "recyclable_garbage": 40462,
+    "other_garbage": 2371,
+    "oversized_garbage": 21281
+  },
+  {
+    "name": "静岡県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 669408,
+    "non_burnable_garbage": 26068,
+    "recyclable_garbage": 94954,
+    "other_garbage": 818,
+    "oversized_garbage": 20149
+  },
+  {
+    "name": "愛知県",
+    "mixed_garbage": 24,
+    "burnable_garbage": 1317359,
+    "non_burnable_garbage": 87831,
+    "recyclable_garbage": 254644,
+    "other_garbage": 5223,
+    "oversized_garbage": 55318
+  },
+  {
+    "name": "三重県",
+    "mixed_garbage": 1102,
+    "burnable_garbage": 352430,
+    "non_burnable_garbage": 23522,
+    "recyclable_garbage": 55806,
+    "other_garbage": 5329,
+    "oversized_garbage": 12117
+  },
+  {
+    "name": "滋賀県",
+    "mixed_garbage": 838,
+    "burnable_garbage": 232934,
+    "non_burnable_garbage": 17642,
+    "recyclable_garbage": 41283,
+    "other_garbage": 814,
+    "oversized_garbage": 13582
+  },
+  {
+    "name": "京都府",
+    "mixed_garbage": 184401,
+    "burnable_garbage": 172448,
+    "non_burnable_garbage": 24612,
+    "recyclable_garbage": 51792,
+    "other_garbage": 1817,
+    "oversized_garbage": 12299
+  },
+  {
+    "name": "大阪府",
+    "mixed_garbage": 634539,
+    "burnable_garbage": 696678,
+    "non_burnable_garbage": 23873,
+    "recyclable_garbage": 201419,
+    "other_garbage": 1554,
+    "oversized_garbage": 104141
+  },
+  {
+    "name": "兵庫県",
+    "mixed_garbage": 17099,
+    "burnable_garbage": 893938,
+    "non_burnable_garbage": 50230,
+    "recyclable_garbage": 124133,
+    "other_garbage": 1567,
+    "oversized_garbage": 58966
+  },
+  {
+    "name": "奈良県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 224604,
+    "non_burnable_garbage": 18244,
+    "recyclable_garbage": 31549,
+    "other_garbage": 2267,
+    "oversized_garbage": 13463
+  },
+  {
+    "name": "和歌山県",
+    "mixed_garbage": 72627,
+    "burnable_garbage": 110751,
+    "non_burnable_garbage": 7190,
+    "recyclable_garbage": 27487,
+    "other_garbage": 609,
+    "oversized_garbage": 16814
+  },
+  {
+    "name": "鳥取県",
+    "mixed_garbage": 14,
+    "burnable_garbage": 88830,
+    "non_burnable_garbage": 6016,
+    "recyclable_garbage": 15489,
+    "other_garbage": 104,
+    "oversized_garbage": 2337
+  },
+  {
+    "name": "島根県",
+    "mixed_garbage": 5613,
+    "burnable_garbage": 120126,
+    "non_burnable_garbage": 9776,
+    "recyclable_garbage": 21152,
+    "other_garbage": 128,
+    "oversized_garbage": 2461
+  },
+  {
+    "name": "岡山県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 326200,
+    "non_burnable_garbage": 13179,
+    "recyclable_garbage": 37203,
+    "other_garbage": 172,
+    "oversized_garbage": 17086
+  },
+  {
+    "name": "広島県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 403178,
+    "non_burnable_garbage": 25333,
+    "recyclable_garbage": 105799,
+    "other_garbage": 863,
+    "oversized_garbage": 34438
+  },
+  {
+    "name": "山口県",
+    "mixed_garbage": 548,
+    "burnable_garbage": 240496,
+    "non_burnable_garbage": 15758,
+    "recyclable_garbage": 55449,
+    "other_garbage": 1331,
+    "oversized_garbage": 9197
+  },
+  {
+    "name": "徳島県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 135609,
+    "non_burnable_garbage": 17074,
+    "recyclable_garbage": 30040,
+    "other_garbage": 1227,
+    "oversized_garbage": 7096
+  },
+  {
+    "name": "香川県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 144658,
+    "non_burnable_garbage": 17161,
+    "recyclable_garbage": 41578,
+    "other_garbage": 203,
+    "oversized_garbage": 3630
+  },
+  {
+    "name": "愛媛県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 242276,
+    "non_burnable_garbage": 14345,
+    "recyclable_garbage": 44174,
+    "other_garbage": 424,
+    "oversized_garbage": 17104
+  },
+  {
+    "name": "高知県",
+    "mixed_garbage": 25069,
+    "burnable_garbage": 112484,
+    "non_burnable_garbage": 7470,
+    "recyclable_garbage": 23112,
+    "other_garbage": 492,
+    "oversized_garbage": 8923
+  },
+  {
+    "name": "福岡県",
+    "mixed_garbage": 157328,
+    "burnable_garbage": 777682,
+    "non_burnable_garbage": 42494,
+    "recyclable_garbage": 93355,
+    "other_garbage": 334,
+    "oversized_garbage": 41491
+  },
+  {
+    "name": "佐賀県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 145443,
+    "non_burnable_garbage": 10450,
+    "recyclable_garbage": 16228,
+    "other_garbage": 289,
+    "oversized_garbage": 12348
+  },
+  {
+    "name": "長崎県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 256081,
+    "non_burnable_garbage": 17258,
+    "recyclable_garbage": 31629,
+    "other_garbage": 1885,
+    "oversized_garbage": 4155
+  },
+  {
+    "name": "熊本県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 291581,
+    "non_burnable_garbage": 13200,
+    "recyclable_garbage": 65473,
+    "other_garbage": 50,
+    "oversized_garbage": 6970
+  },
+  {
+    "name": "大分県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 204745,
+    "non_burnable_garbage": 14707,
+    "recyclable_garbage": 40975,
+    "other_garbage": 29,
+    "oversized_garbage": 6949
+  },
+  {
+    "name": "宮崎県",
+    "mixed_garbage": 18,
+    "burnable_garbage": 195201,
+    "non_burnable_garbage": 15830,
+    "recyclable_garbage": 46863,
+    "other_garbage": 1301,
+    "oversized_garbage": 8747
+  },
+  {
+    "name": "鹿児島県",
+    "mixed_garbage": 1542,
+    "burnable_garbage": 280704,
+    "non_burnable_garbage": 16715,
+    "recyclable_garbage": 61969,
+    "other_garbage": 963,
+    "oversized_garbage": 14439
+  },
+  {
+    "name": "沖縄県",
+    "mixed_garbage": 0,
+    "burnable_garbage": 250063,
+    "non_burnable_garbage": 11434,
+    "recyclable_garbage": 52084,
+    "other_garbage": 1683,
+    "oversized_garbage": 12294
+  }
+]

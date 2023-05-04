@@ -1,0 +1,5390 @@
+[
+ {
+  "factory_type": "incineration_facility",
+  "name": "札幌市駒岡清掃工場",
+  "coordinates": "[141.354401, 43.062077]",
+  "address": "北海道札幌市",
+  "local_government": "札幌市(北海道)",
+  "annual_throughput": 117694,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "札幌市白石清掃工場",
+  "coordinates": "[141.396408, 43.045555]",
+  "address": "北海道札幌市白石区",
+  "local_government": "札幌市(北海道)",
+  "annual_throughput": 189448,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "札幌市発寒清掃工場",
+  "coordinates": "[141.354401, 43.062077]",
+  "address": "北海道札幌市",
+  "local_government": "札幌市(北海道)",
+  "annual_throughput": 128478,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "函館市日乃出清掃工場(3号炉)",
+  "coordinates": "[140.752518, 41.77433]",
+  "address": "北海道函館市日乃出町",
+  "local_government": "函館市(北海道)",
+  "annual_throughput": 50514,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "函館市日乃出清掃工場(1、2号炉)",
+  "coordinates": "[140.752518, 41.77433]",
+  "address": "北海道函館市日乃出町",
+  "local_government": "函館市(北海道)",
+  "annual_throughput": 31625,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "函館市恵山クリーンセンター焼却施設",
+  "coordinates": "[141.154785, 41.788414]",
+  "address": "北海道函館市恵山町",
+  "local_government": "函館市(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "旭川市近文清掃工場",
+  "coordinates": "[142.35466, 43.807224]",
+  "address": "北海道旭川市近文",
+  "local_government": "旭川市(北海道)",
+  "annual_throughput": 74033,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北見市廃棄物処理場ごみ処理施設",
+  "coordinates": "[143.894684, 43.802906]",
+  "address": "北海道北見市",
+  "local_government": "北見市(北海道)",
+  "annual_throughput": 30727,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岩見沢じん芥処理センター(焼却施設)",
+  "coordinates": "[141.77536, 43.19603]",
+  "address": "北海道岩見沢市",
+  "local_government": "岩見沢市(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "苫小牧市沼ノ端クリーンセンター",
+  "coordinates": "[141.710419, 42.670681]",
+  "address": "北海道苫小牧市沼ノ端",
+  "local_government": "苫小牧市(北海道)",
+  "annual_throughput": 49437.85,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "江別市環境クリーンセンター",
+  "coordinates": "[141.53624, 43.103745]",
+  "address": "北海道江別市",
+  "local_government": "江別市(北海道)",
+  "annual_throughput": 32481,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "根室市じん芥焼却場",
+  "coordinates": "[145.582794, 43.330067]",
+  "address": "北海道根室市",
+  "local_government": "根室市(北海道)",
+  "annual_throughput": 11571,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "千歳市焼却処理場",
+  "coordinates": "[141.651001, 42.821011]",
+  "address": "北海道千歳市",
+  "local_government": "千歳市(北海道)",
+  "annual_throughput": 26510,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "恵庭市ごみ焼却場",
+  "coordinates": "[141.577774, 42.882584]",
+  "address": "北海道恵庭市",
+  "local_government": "恵庭市(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "恵庭市焼却施設",
+  "coordinates": "[141.577774, 42.882584]",
+  "address": "北海道恵庭市",
+  "local_government": "恵庭市(北海道)",
+  "annual_throughput": 12745,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "石狩市北石狩衛生センターごみ処理施設",
+  "coordinates": "[141.392807, 43.23188]",
+  "address": "北海道石狩市北生振",
+  "local_government": "石狩市(北海道)",
+  "annual_throughput": 18361,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "奥尻町環境センター焼却処理場",
+  "coordinates": "[139.51413, 42.172287]",
+  "address": "北海道奥尻郡奥尻町",
+  "local_government": "奥尻町(北海道)",
+  "annual_throughput": 914,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "上富良野町クリーンセンター",
+  "coordinates": "[142.467087, 43.45565]",
+  "address": "北海道空知郡上富良野町",
+  "local_government": "上富良野町(北海道)",
+  "annual_throughput": 2686,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "幌加内町一般廃棄物焼却施設",
+  "coordinates": "[142.153824, 44.009796]",
+  "address": "北海道雨竜郡幌加内町",
+  "local_government": "幌加内町(北海道)",
+  "annual_throughput": 206,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "枝幸町水産廃棄物等処理施設",
+  "coordinates": "[142.58139, 44.938683]",
+  "address": "北海道枝幸郡枝幸町",
+  "local_government": "枝幸町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "礼文町衛生センターごみ焼却施設",
+  "coordinates": "[145.176834, 44.00769]",
+  "address": "北海道羅臼町礼文町",
+  "local_government": "礼文町(北海道)",
+  "annual_throughput": 857.36,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津別町クリーンセンター",
+  "coordinates": "[144.025238, 43.706261]",
+  "address": "北海道津別町",
+  "local_government": "津別町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "訓子府町一般廃棄物焼却施設",
+  "coordinates": "[143.741669, 43.725368]",
+  "address": "北海道訓子府町",
+  "local_government": "訓子府町(北海道)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "興部町一般廃棄物焼却炉",
+  "coordinates": "[143.123962, 44.469868]",
+  "address": "北海道興部町",
+  "local_government": "興部町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "雄武町廃棄物焼却処理場",
+  "coordinates": "[142.962006, 44.582504]",
+  "address": "北海道紋別郡雄武町",
+  "local_government": "雄武町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大空町一般廃棄物焼却処理施設",
+  "coordinates": "[143.152313, 42.87928]",
+  "address": "北海道帯広市大空町一丁目",
+  "local_government": "大空町(北海道)",
+  "annual_throughput": 852,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浦河町クリーンプラザ",
+  "coordinates": "[142.768204, 42.168343]",
+  "address": "北海道浦河郡浦河町",
+  "local_government": "浦河町(北海道)",
+  "annual_throughput": 2864,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "様似町クリーンセンター　焼却施設",
+  "coordinates": "[142.933884, 42.127777]",
+  "address": "北海道様似郡様似町",
+  "local_government": "様似町(北海道)",
+  "annual_throughput": 975,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "えりも町清掃センター",
+  "coordinates": "[143.148331, 42.016388]",
+  "address": "北海道えりも町",
+  "local_government": "えりも町(北海道)",
+  "annual_throughput": 1043,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新得町一般廃棄物中間処理施設",
+  "coordinates": "[142.834106, 43.083332]",
+  "address": "北海道新得町一条",
+  "local_government": "新得町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "標茶町クリーンセンター",
+  "coordinates": "[144.390717, 43.297096]",
+  "address": "北海道標茶町クチヨロ",
+  "local_government": "標茶町(北海道)",
+  "annual_throughput": 1933,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "弟子屈町廃棄物処理施設",
+  "coordinates": "[144.45932, 43.485214]",
+  "address": "北海道川上郡弟子屈町",
+  "local_government": "弟子屈町(北海道)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "白糠町クリーンセンター",
+  "coordinates": "[144.071732, 42.956165]",
+  "address": "北海道白糠郡白糠町",
+  "local_government": "白糠町(北海道)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "白糠町廃棄物簡易焼却炉",
+  "coordinates": "[144.071732, 42.956165]",
+  "address": "北海道白糠郡白糠町",
+  "local_government": "白糠町(北海道)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "根室北部広域ごみ処理施設",
+  "coordinates": "[145.582794, 43.330067]",
+  "address": "北海道根室振興局",
+  "local_government": "根室北部廃棄物処理広域連合(北海道)",
+  "annual_throughput": 11786,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北しりべし広域クリーンセンター",
+  "coordinates": "[141.340973, 43.090778]",
+  "address": "北海道札幌市北区",
+  "local_government": "北しりべし廃棄物処理広域連合(北海道)",
+  "annual_throughput": 35358,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岩内地方清掃センター",
+  "coordinates": "[140.51474, 42.979813]",
+  "address": "北海道岩内",
+  "local_government": "岩内地方衛生組合(北海道)",
+  "annual_throughput": 5811,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南渡島衛生センター",
+  "coordinates": "[141.634888, 43.081894]",
+  "address": "北海道南幌町南",
+  "local_government": "南渡島衛生施設組合(北海道)",
+  "annual_throughput": 186,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南十勝環境衛生センター",
+  "coordinates": "[141.634888, 43.081894]",
+  "address": "北海道南幌町南十線",
+  "local_government": "南十勝複合事務組合(北海道)",
+  "annual_throughput": 3581,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南部桧山清掃センター",
+  "coordinates": "[140.77626, 42.737492]",
+  "address": "北海道真狩村南部",
+  "local_government": "南部桧山衛生処理組合(北海道)",
+  "annual_throughput": 4893,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日高中部環境センター",
+  "coordinates": "[142.074295, 42.480335]",
+  "address": "北海道沙流郡日高町",
+  "local_government": "日高中部衛生施設組合(北海道)",
+  "annual_throughput": 9616,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "遠軽地区広域組合えんがるクリーンセンター",
+  "coordinates": "[143.528046, 44.061962]",
+  "address": "北海道遠軽",
+  "local_government": "遠軽地区広域組合(北海道)",
+  "annual_throughput": 8514,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "愛別町外3町塵芥処理組合富沢衛生センター",
+  "coordinates": "[142.57782, 43.906673]",
+  "address": "北海道愛別町",
+  "local_government": "愛別町外3町塵芥処理組合(北海道)",
+  "annual_throughput": 7045,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西胆振地域廃棄物広域処理施設",
+  "coordinates": "[141.300903, 43.074455]",
+  "address": "北海道札幌市西区",
+  "local_government": "西いぶり広域連合(北海道)",
+  "annual_throughput": 37101,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南後志清掃センター",
+  "coordinates": "[141.634888, 43.081894]",
+  "address": "北海道南幌町南",
+  "local_government": "南部後志衛生施設組合(北海道)",
+  "annual_throughput": 1866,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "しらかば清掃センター",
+  "coordinates": "[141.692429, 43.014477]",
+  "address": "北海道長沼町しらかば",
+  "local_government": "大雪清掃組合(北海道)",
+  "annual_throughput": 7746,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "平取町外2町衛生施設組合清掃センター第1工場(焼却)",
+  "coordinates": "[142.128693, 42.58514]",
+  "address": "北海道沙流郡平取町",
+  "local_government": "平取町外2町衛生施設組合(北海道)",
+  "annual_throughput": 5655,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "留萌南部衛生組合有害鳥獣焼却処理施設",
+  "coordinates": "[141.636932, 43.941006]",
+  "address": "北海道留萌振興局",
+  "local_government": "留萌南部衛生組合(北海道)",
+  "annual_throughput": 44,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北十勝2町環境衛生処理組合ごみ処理施設",
+  "coordinates": "[142.476227, 43.932865]",
+  "address": "北海道比布町北十線",
+  "local_government": "北十勝2町環境衛生処理組合(北海道)",
+  "annual_throughput": 1901,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "釧路広域連合清掃工場",
+  "coordinates": "[144.46608, 42.996174]",
+  "address": "北海道釧路総合振興局",
+  "local_government": "釧路広域連合(北海道)",
+  "annual_throughput": 62700,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西紋別地区広域ごみ処理センター",
+  "coordinates": "[141.300903, 43.074455]",
+  "address": "北海道札幌市西区",
+  "local_government": "西紋別地区環境衛生施設組合(北海道)",
+  "annual_throughput": 7379,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "青森市清掃工場",
+  "coordinates": "[140.657318, 40.904491]",
+  "address": "青森県青森市清水",
+  "local_government": "青森市(青森県)",
+  "annual_throughput": 91452,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三沢市清掃センター",
+  "coordinates": "[141.36908, 40.683071]",
+  "address": "青森県三沢市",
+  "local_government": "三沢市(青森県)",
+  "annual_throughput": 13841,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "外ヶ浜町ごみ処理施設",
+  "coordinates": "[140.632431, 41.043259]",
+  "address": "青森県外ヶ浜町",
+  "local_government": "外ヶ浜町(青森県)",
+  "annual_throughput": 2049.58,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "弘前地区環境整備センター",
+  "coordinates": "[140.464035, 40.603096]",
+  "address": "青森県弘前市",
+  "local_government": "弘前地区環境整備事務組合(青森県)",
+  "annual_throughput": 42439,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三戸地区クリーンセンター",
+  "coordinates": "[141.258743, 40.378445]",
+  "address": "青森県三戸郡",
+  "local_government": "三戸地区環境整備事務組合(青森県)",
+  "annual_throughput": 8073,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八戸清掃工場第一工場",
+  "coordinates": "[141.488449, 40.512302]",
+  "address": "青森県八戸市",
+  "local_government": "八戸地域広域市町村圏事務組合(青森県)",
+  "annual_throughput": 49585,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八戸清掃工場第二工場",
+  "coordinates": "[141.488449, 40.512302]",
+  "address": "青森県八戸市",
+  "local_government": "八戸地域広域市町村圏事務組合(青森県)",
+  "annual_throughput": 21377,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "十和田地域広域事務組合十和田ごみ焼却施設",
+  "coordinates": "[141.205383, 40.612507]",
+  "address": "青森県十和田市",
+  "local_government": "十和田地域広域事務組合(青森県)",
+  "annual_throughput": 33551,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "盛岡市クリーンセンター",
+  "coordinates": "[141.154465, 39.702068]",
+  "address": "岩手県盛岡市",
+  "local_government": "盛岡市(岩手県)",
+  "annual_throughput": 66580,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "花巻市清掃センター焼却施設",
+  "coordinates": "[141.116898, 39.388611]",
+  "address": "岩手県花巻市",
+  "local_government": "花巻市(岩手県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北上市清掃事業所1号棟",
+  "coordinates": "[141.113235, 39.286774]",
+  "address": "岩手県北上市",
+  "local_government": "北上市(岩手県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "遠野市清養園クリーンセンターごみ焼却施設",
+  "coordinates": "[141.531387, 39.330688]",
+  "address": "岩手県遠野市",
+  "local_government": "遠野市(岩手県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八幡平市清掃センター",
+  "coordinates": "[141.047073, 40.104256]",
+  "address": "岩手県八幡平市清水",
+  "local_government": "八幡平市(岩手県)",
+  "annual_throughput": 8245,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "葛巻町清掃センター",
+  "coordinates": "[141.436569, 40.039818]",
+  "address": "岩手県葛巻町",
+  "local_government": "葛巻町(岩手県)",
+  "annual_throughput": 1058,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "軽米地区クリーンセンター",
+  "coordinates": "[141.460327, 40.326687]",
+  "address": "岩手県九戸郡軽米町",
+  "local_government": "二戸地区広域行政事務組合(岩手県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "二戸地区クリーンセンター",
+  "coordinates": "[141.30481, 40.271206]",
+  "address": "岩手県二戸郡",
+  "local_government": "二戸地区広域行政事務組合(岩手県)",
+  "annual_throughput": 12966,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久慈地区ごみ焼却場",
+  "coordinates": "[141.77565, 40.190449]",
+  "address": "岩手県久慈市",
+  "local_government": "久慈広域連合(岩手県)",
+  "annual_throughput": 16081,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "一関清掃センターごみ焼却施設",
+  "coordinates": "[141.126648, 38.934711]",
+  "address": "岩手県一関市",
+  "local_government": "一関地区広域行政組合(岩手県)",
+  "annual_throughput": 22105,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "滝沢清掃センター",
+  "coordinates": "[141.170654, 38.900661]",
+  "address": "岩手県一関市滝沢清水尻",
+  "local_government": "滝沢・雫石環境組合(岩手県)",
+  "annual_throughput": 23273,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "雫石清掃センター",
+  "coordinates": "[140.975739, 39.696255]",
+  "address": "岩手県岩手郡雫石町",
+  "local_government": "滝沢・雫石環境組合(岩手県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "塩竈市清掃工場",
+  "coordinates": "[141.008209, 38.331158]",
+  "address": "宮城県塩竈市清水沢",
+  "local_government": "塩竈市(宮城県)",
+  "annual_throughput": 20189,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "気仙沼市ごみ焼却場",
+  "coordinates": "[141.570068, 38.90807]",
+  "address": "宮城県気仙沼市",
+  "local_government": "気仙沼市(宮城県)",
+  "annual_throughput": 17237,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "登米市環境事業所クリーンセンター（新）",
+  "coordinates": "[141.187683, 38.691895]",
+  "address": "宮城県登米市",
+  "local_government": "登米市(宮城県)",
+  "annual_throughput": 19600,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "栗原市クリーンセンター可燃ごみ処理施設",
+  "coordinates": "[141.021271, 38.730076]",
+  "address": "宮城県栗原市",
+  "local_government": "栗原市(宮城県)",
+  "annual_throughput": 16681,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "亘理清掃センター",
+  "coordinates": "[140.86792, 38.044262]",
+  "address": "宮城県亘理郡",
+  "local_government": "亘理名取共立衛生処理組合(宮城県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岩沼東部環境センター",
+  "coordinates": "[140.870193, 38.104275]",
+  "address": "宮城県岩沼市",
+  "local_government": "亘理名取共立衛生処理組合(宮城県)",
+  "annual_throughput": 46721,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "石巻広域クリーンセンター",
+  "coordinates": "[141.302734, 38.43425]",
+  "address": "宮城県石巻市",
+  "local_government": "石巻地区広域行政事務組合(宮城県)",
+  "annual_throughput": 57734,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "秋田県県北地区広域汚泥資源化施設",
+  "coordinates": "[140.102386, 39.718624]",
+  "address": "秋田県",
+  "local_government": "秋田県(秋田県)",
+  "annual_throughput": 6940,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "秋田市総合環境センター溶融施設",
+  "coordinates": "[140.103516, 39.719959]",
+  "address": "秋田県秋田市",
+  "local_government": "秋田市(秋田県)",
+  "annual_throughput": 98176.84,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "本荘清掃センター焼却施設",
+  "coordinates": "[140.046494, 39.390785]",
+  "address": "秋田県由利本荘市本荘",
+  "local_government": "由利本荘市(秋田県)",
+  "annual_throughput": 22923,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "潟上市クリーンセンター",
+  "coordinates": "[140.013046, 39.857227]",
+  "address": "秋田県潟上市",
+  "local_government": "潟上市(秋田県)",
+  "annual_throughput": 9953,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北秋田市クリーンリサイクルセンター",
+  "coordinates": "[140.370712, 40.226074]",
+  "address": "秋田県北秋田市",
+  "local_government": "北秋田市(秋田県)",
+  "annual_throughput": 10945,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "にかほ市環境プラザ",
+  "coordinates": "[139.907806, 39.203003]",
+  "address": "秋田県にかほ市",
+  "local_government": "にかほ市(秋田県)",
+  "annual_throughput": 7132,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "能代山本広域市町村圏組合南部清掃工場",
+  "coordinates": "[140.027084, 40.211853]",
+  "address": "秋田県能代市",
+  "local_government": "能代山本広域市町村圏組合(秋田県)",
+  "annual_throughput": 23109,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鹿角ごみ処理場　焼却場",
+  "coordinates": "[140.788544, 40.215794]",
+  "address": "秋田県鹿角郡",
+  "local_government": "鹿角広域行政組合(秋田県)",
+  "annual_throughput": 11819,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鶴岡市ごみ焼却施設",
+  "coordinates": "[139.826675, 38.727219]",
+  "address": "山形県鶴岡市",
+  "local_government": "鶴岡市(山形県)",
+  "annual_throughput": 38774,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東根市外二市一町共立衛生処理組合ごみ焼却処理施設",
+  "coordinates": "[140.391129, 38.431381]",
+  "address": "山形県東根市",
+  "local_government": "東根市外二市一町共立衛生処理組合(山形県)",
+  "annual_throughput": 40244,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "酒田地区広域行政組合ごみ焼却施設",
+  "coordinates": "[139.836594, 38.914841]",
+  "address": "山形県酒田市",
+  "local_government": "酒田地区広域行政組合(山形県)",
+  "annual_throughput": 43914,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "尾花沢市大石田町環境衛生事業組合ごみ処理施設",
+  "coordinates": "[140.406845, 38.601078]",
+  "address": "山形県尾花沢市",
+  "local_government": "尾花沢市大石田町環境衛生事業組合(山形県)",
+  "annual_throughput": 5543,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "郡山市富久山クリーンセンター",
+  "coordinates": "[140.367905, 37.434044]",
+  "address": "福島県郡山市富久山町八山田",
+  "local_government": "郡山市(福島県)",
+  "annual_throughput": 74129.57,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "郡山市河内クリーンセンター",
+  "coordinates": "[140.359741, 37.400555]",
+  "address": "福島県郡山市",
+  "local_government": "郡山市(福島県)",
+  "annual_throughput": 61939,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "須賀川地方衛生センターごみ処理施設",
+  "coordinates": "[140.372574, 37.286934]",
+  "address": "福島県須賀川市",
+  "local_government": "須賀川地方保健環境組合(福島県)",
+  "annual_throughput": 28318,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "田村西部環境センター",
+  "coordinates": "[140.576324, 37.440639]",
+  "address": "福島県田村郡",
+  "local_government": "田村広域行政組合(福島県)",
+  "annual_throughput": 11923,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "田村東部環境センター",
+  "coordinates": "[140.576324, 37.440639]",
+  "address": "福島県田村郡",
+  "local_government": "田村広域行政組合(福島県)",
+  "annual_throughput": 5205,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "田村西部環境センター",
+  "coordinates": "[140.576324, 37.440639]",
+  "address": "福島県田村郡",
+  "local_government": "田村広域行政組合(福島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "光陽クリーンセンター",
+  "coordinates": "[140.931396, 37.83514]",
+  "address": "福島県相馬市光陽",
+  "local_government": "相馬方部衛生組合(福島県)",
+  "annual_throughput": 12567,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "水戸市清掃工場（ごみ焼却施設）",
+  "coordinates": "[140.471588, 36.365852]",
+  "address": "茨城県水戸市",
+  "local_government": "水戸市(茨城県)",
+  "annual_throughput": 89888,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日立市清掃センター",
+  "coordinates": "[140.65062, 36.599152]",
+  "address": "茨城県日立市",
+  "local_government": "日立市(茨城県)",
+  "annual_throughput": 54592,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "土浦市清掃センター",
+  "coordinates": "[140.204193, 36.078354]",
+  "address": "茨城県土浦市",
+  "local_government": "土浦市(茨城県)",
+  "annual_throughput": 38253,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "笠間市環境センター",
+  "coordinates": "[140.30426, 36.345196]",
+  "address": "茨城県笠間市",
+  "local_government": "笠間市(茨城県)",
+  "annual_throughput": 16227,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "牛久クリーンセンター",
+  "coordinates": "[140.149597, 35.979355]",
+  "address": "茨城県牛久市",
+  "local_government": "牛久市(茨城県)",
+  "annual_throughput": 29829,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "潮来クリーンセンター",
+  "coordinates": "[140.555405, 35.947117]",
+  "address": "茨城県潮来市",
+  "local_government": "潮来市(茨城県)",
+  "annual_throughput": 7904,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "行方市環境美化センターごみ焼却施設",
+  "coordinates": "[140.489014, 35.990482]",
+  "address": "茨城県行方市",
+  "local_government": "行方市(茨城県)",
+  "annual_throughput": 9033,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鉾田クリーンセンター",
+  "coordinates": "[140.516403, 36.158607]",
+  "address": "茨城県鉾田市",
+  "local_government": "鉾田市(茨城県)",
+  "annual_throughput": 8044,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "城里町環境センター",
+  "coordinates": "[140.376328, 36.47924]",
+  "address": "茨城県城里町",
+  "local_government": "城里町(茨城県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "城里町環境センター",
+  "coordinates": "[140.376328, 36.47924]",
+  "address": "茨城県城里町",
+  "local_government": "城里町(茨城県)",
+  "annual_throughput": 5038,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大子町環境センター",
+  "coordinates": "[140.355331, 36.768127]",
+  "address": "茨城県久慈郡大子町",
+  "local_government": "大子町(茨城県)",
+  "annual_throughput": 4799,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "阿見町霞クリーンセンター",
+  "coordinates": "[140.215012, 36.03083]",
+  "address": "茨城県阿見町",
+  "local_government": "阿見町(茨城県)",
+  "annual_throughput": 15417,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大洗、鉾田、水戸環境組合クリーンセンター",
+  "coordinates": "[140.574875, 36.313343]",
+  "address": "茨城県大洗",
+  "local_government": "大洗、鉾田、水戸環境組合(茨城県)",
+  "annual_throughput": 10606,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "江戸崎地方衛生土木組合環境センター",
+  "coordinates": "[140.318985, 35.960327]",
+  "address": "茨城県稲敷市江戸崎",
+  "local_government": "江戸崎地方衛生土木組合(茨城県)",
+  "annual_throughput": 20188,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "筑西広域市町村圏事務組合環境センター",
+  "coordinates": "[139.979401, 36.305267]",
+  "address": "茨城県筑西市",
+  "local_government": "筑西広域市町村圏事務組合(茨城県)",
+  "annual_throughput": 61049,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "常総環境センターごみ焼却施設",
+  "coordinates": "[139.993683, 36.023487]",
+  "address": "茨城県常総市",
+  "local_government": "常総地方広域市町村圏事務組合(茨城県)",
+  "annual_throughput": 67600,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "ひたちなか・東海クリーンセンター",
+  "coordinates": "[140.534729, 36.39669]",
+  "address": "茨城県ひたちなか市",
+  "local_government": "ひたちなか・東海広域事務組合(茨城県)",
+  "annual_throughput": 58244,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇都宮市南清掃センター",
+  "coordinates": "[139.863419, 36.563904]",
+  "address": "栃木県宇都宮市南一の沢町",
+  "local_government": "宇都宮市(栃木県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇都宮市クリーンセンター　下田原",
+  "coordinates": "[139.882599, 36.555115]",
+  "address": "栃木県宇都宮市",
+  "local_government": "宇都宮市(栃木県)",
+  "annual_throughput": 51596,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "足利市南部クリーンセンター",
+  "coordinates": "[139.422699, 36.321087]",
+  "address": "栃木県足利市南大町",
+  "local_government": "足利市(栃木県)",
+  "annual_throughput": 47928,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "佐野市みかもクリーンセンター",
+  "coordinates": "[139.578415, 36.314484]",
+  "address": "栃木県佐野市",
+  "local_government": "佐野市(栃木県)",
+  "annual_throughput": 24482,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日光市クリーンセンター",
+  "coordinates": "[139.697617, 36.720013]",
+  "address": "栃木県日光市",
+  "local_government": "日光市(栃木県)",
+  "annual_throughput": 27219,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "那須塩原クリーンセンター",
+  "coordinates": "[140.046127, 36.961666]",
+  "address": "栃木県那須塩原市",
+  "local_government": "那須塩原市(栃木県)",
+  "annual_throughput": 34871,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "壬生町清掃センター焼却施設",
+  "coordinates": "[139.814667, 36.442177]",
+  "address": "栃木県下都賀郡壬生町",
+  "local_government": "壬生町(栃木県)",
+  "annual_throughput": 8894,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "前橋市亀泉清掃工場",
+  "coordinates": "[139.125015, 36.400871]",
+  "address": "群馬県前橋市亀泉町",
+  "local_government": "前橋市(群馬県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "前橋市六供清掃工場",
+  "coordinates": "[139.075806, 36.36874]",
+  "address": "群馬県前橋市六供町",
+  "local_government": "前橋市(群馬県)",
+  "annual_throughput": 89239,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "前橋市大胡クリーンセンター",
+  "coordinates": "[139.159668, 36.410831]",
+  "address": "群馬県前橋市大胡町",
+  "local_government": "前橋市(群馬県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "桐生市清掃センターごみ焼却施設",
+  "coordinates": "[139.325089, 36.40662]",
+  "address": "群馬県桐生市清瀬町",
+  "local_government": "桐生市(群馬県)",
+  "annual_throughput": 62849,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊勢崎市清掃リサイクルセンター21",
+  "coordinates": "[139.196671, 36.311386]",
+  "address": "群馬県伊勢崎市",
+  "local_government": "伊勢崎市(群馬県)",
+  "annual_throughput": 58712,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "太田市清掃センター第4号焼却炉",
+  "coordinates": "[139.386307, 36.345112]",
+  "address": "群馬県太田市清原町",
+  "local_government": "太田市(群馬県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "太田市清掃センター第3号焼却炉",
+  "coordinates": "[139.386307, 36.345112]",
+  "address": "群馬県太田市清原町",
+  "local_government": "太田市(群馬県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "藤岡市清掃センター",
+  "coordinates": "[139.074722, 36.25861]",
+  "address": "群馬県藤岡市",
+  "local_government": "藤岡市(群馬県)",
+  "annual_throughput": 22631,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "富岡市清掃センター",
+  "coordinates": "[138.889709, 36.259785]",
+  "address": "群馬県富岡市",
+  "local_government": "富岡市(群馬県)",
+  "annual_throughput": 17518,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "草津町クリーンセンター",
+  "coordinates": "[138.596115, 36.620556]",
+  "address": "群馬県吾妻郡草津町",
+  "local_government": "草津町(群馬県)",
+  "annual_throughput": 3415,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "玉村町クリーンセンター",
+  "coordinates": "[139.115005, 36.304443]",
+  "address": "群馬県玉村町",
+  "local_government": "玉村町(群馬県)",
+  "annual_throughput": 10984,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "甘楽西部環境衛生施設組合清掃センター",
+  "coordinates": "[138.921768, 36.243004]",
+  "address": "群馬県甘楽郡",
+  "local_government": "甘楽西部環境衛生施設組合(群馬県)",
+  "annual_throughput": 2023,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大泉町外二町清掃センター",
+  "coordinates": "[139.404846, 36.247925]",
+  "address": "群馬県大泉町",
+  "local_government": "大泉町外二町環境衛生施設組合(群馬県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "太田市外三町広域清掃組合クリーンプラザ",
+  "coordinates": "[139.375504, 36.291157]",
+  "address": "群馬県太田市",
+  "local_government": "太田市外三町広域清掃組合(群馬県)",
+  "annual_throughput": 90251,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "さいたま市クリーンセンター大崎第二工場",
+  "coordinates": "[139.645676, 35.861683]",
+  "address": "埼玉県さいたま市",
+  "local_government": "さいたま市(埼玉県)",
+  "annual_throughput": 116544,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "さいたま市東部環境センター",
+  "coordinates": "[139.645676, 35.861683]",
+  "address": "埼玉県さいたま市",
+  "local_government": "さいたま市(埼玉県)",
+  "annual_throughput": 61627,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "さいたま市西部環境センター",
+  "coordinates": "[139.579727, 35.925198]",
+  "address": "埼玉県さいたま市西区",
+  "local_government": "さいたま市(埼玉県)",
+  "annual_throughput": 76761,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "さいたま市桜環境センター",
+  "coordinates": "[139.610321, 35.856171]",
+  "address": "埼玉県さいたま市桜区",
+  "local_government": "さいたま市(埼玉県)",
+  "annual_throughput": 113286,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川越市東清掃センター焼却施設",
+  "coordinates": "[139.477036, 35.909462]",
+  "address": "埼玉県川越市東田町",
+  "local_government": "川越市(埼玉県)",
+  "annual_throughput": 22044.91,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川越市資源化センター熱回収施設",
+  "coordinates": "[139.485825, 35.925098]",
+  "address": "埼玉県川越市",
+  "local_government": "川越市(埼玉県)",
+  "annual_throughput": 66350.42,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川口市戸塚環境センター西棟(4号炉)",
+  "coordinates": "[139.754181, 35.863064]",
+  "address": "埼玉県川口市戸塚",
+  "local_government": "川口市(埼玉県)",
+  "annual_throughput": 30099,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川口市戸塚環境センター西棟(3号炉)",
+  "coordinates": "[139.754181, 35.863064]",
+  "address": "埼玉県川口市戸塚",
+  "local_government": "川口市(埼玉県)",
+  "annual_throughput": 28960,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川口市朝日環境センター",
+  "coordinates": "[139.745255, 35.806961]",
+  "address": "埼玉県川口市朝日",
+  "local_government": "川口市(埼玉県)",
+  "annual_throughput": 91426,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "所沢市西部クリーンセンターごみ焼却施設",
+  "coordinates": "[139.407715, 35.804592]",
+  "address": "埼玉県所沢市西狭山ケ丘",
+  "local_government": "所沢市(埼玉県)",
+  "annual_throughput": 27066,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "所沢市東部クリーンセンターごみ焼却施設",
+  "coordinates": "[139.423538, 35.812645]",
+  "address": "埼玉県所沢市東狭山ケ丘",
+  "local_government": "所沢市(埼玉県)",
+  "annual_throughput": 51503,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "飯能市クリーンセンター",
+  "coordinates": "[139.327621, 35.855656]",
+  "address": "埼玉県飯能市",
+  "local_government": "飯能市(埼玉県)",
+  "annual_throughput": 18199,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "加須クリーンセンターごみ焼却施設",
+  "coordinates": "[139.601944, 36.13139]",
+  "address": "埼玉県加須市",
+  "local_government": "加須市(埼玉県)",
+  "annual_throughput": 22184,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東松山市クリーンセンター",
+  "coordinates": "[139.400009, 36.042221]",
+  "address": "埼玉県東松山市",
+  "local_government": "東松山市(埼玉県)",
+  "annual_throughput": 24488,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "狭山市稲荷山環境センター(旧名称：　狭山市第二環境センター)",
+  "coordinates": "[139.397537, 35.847969]",
+  "address": "埼玉県狭山市稲荷山",
+  "local_government": "狭山市(埼玉県)",
+  "annual_throughput": 33514,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "羽生市清掃センター",
+  "coordinates": "[139.548477, 36.172634]",
+  "address": "埼玉県羽生市",
+  "local_government": "羽生市(埼玉県)",
+  "annual_throughput": 13750,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "上尾市西貝塚環境センター",
+  "coordinates": "[139.554123, 35.937237]",
+  "address": "埼玉県上尾市西貝塚",
+  "local_government": "上尾市(埼玉県)",
+  "annual_throughput": 52177.65,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "入間市総合クリーンセンター",
+  "coordinates": "[139.391113, 35.835835]",
+  "address": "埼玉県入間市",
+  "local_government": "入間市(埼玉県)",
+  "annual_throughput": 35136,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "入間市清掃事業所",
+  "coordinates": "[139.391113, 35.835835]",
+  "address": "埼玉県入間市",
+  "local_government": "入間市(埼玉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "朝霞市クリーンセンター",
+  "coordinates": "[139.593735, 35.797188]",
+  "address": "埼玉県朝霞市",
+  "local_government": "朝霞市(埼玉県)",
+  "annual_throughput": 28064.99,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "朝霞市クリーンセンター",
+  "coordinates": "[139.593735, 35.797188]",
+  "address": "埼玉県朝霞市",
+  "local_government": "朝霞市(埼玉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "和光市清掃センター",
+  "coordinates": "[139.605835, 35.781387]",
+  "address": "埼玉県和光市",
+  "local_government": "和光市(埼玉県)",
+  "annual_throughput": 19597.59,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "桶川市ごみ焼却施設",
+  "coordinates": "[139.55838, 36.002766]",
+  "address": "埼玉県桶川市",
+  "local_government": "桶川市(埼玉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "坂戸市西清掃センター",
+  "coordinates": "[139.382431, 35.965279]",
+  "address": "埼玉県坂戸市西インター",
+  "local_government": "坂戸市(埼玉県)",
+  "annual_throughput": 21068,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "坂戸市東清掃センター焼却施設",
+  "coordinates": "[139.441193, 35.952766]",
+  "address": "埼玉県坂戸市東坂戸",
+  "local_government": "坂戸市(埼玉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "ふじみ野市・三芳町環境センター",
+  "coordinates": "[139.519516, 35.879272]",
+  "address": "埼玉県ふじみ野市",
+  "local_government": "ふじみ野市(埼玉県)",
+  "annual_throughput": 34029,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊奈町クリーンセンター",
+  "coordinates": "[139.623947, 35.999958]",
+  "address": "埼玉県伊奈町",
+  "local_government": "伊奈町(埼玉県)",
+  "annual_throughput": 10756.89,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川島町環境センターごみ処理施設",
+  "coordinates": "[139.484238, 35.992493]",
+  "address": "埼玉県川島町",
+  "local_government": "川島町(埼玉県)",
+  "annual_throughput": 4836,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "杉戸町環境センター",
+  "coordinates": "[139.736679, 36.025555]",
+  "address": "埼玉県杉戸町",
+  "local_government": "杉戸町(埼玉県)",
+  "annual_throughput": 20630,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "蓮田白岡衛生組合ごみ焼却施設",
+  "coordinates": "[139.66214, 35.99435]",
+  "address": "埼玉県蓮田市",
+  "local_government": "蓮田白岡衛生組合(埼玉県)",
+  "annual_throughput": 27448,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久喜宮代清掃センター75t／24hごみ処理施設(1号炉)",
+  "coordinates": "[139.666946, 36.062222]",
+  "address": "埼玉県久喜市",
+  "local_government": "久喜宮代衛生組合(埼玉県)",
+  "annual_throughput": 11800,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久喜宮代清掃センター75t／24hごみ処理施設(2号炉)",
+  "coordinates": "[139.666946, 36.062222]",
+  "address": "埼玉県久喜市",
+  "local_government": "久喜宮代衛生組合(埼玉県)",
+  "annual_throughput": 9187,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八甫清掃センターごみ焼却施設",
+  "coordinates": "[139.69136, 36.09634]",
+  "address": "埼玉県久喜市八甫",
+  "local_government": "久喜宮代衛生組合(埼玉県)",
+  "annual_throughput": 15863,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小針クリーンセンター",
+  "coordinates": "[139.505051, 36.13332]",
+  "address": "埼玉県行田市小針",
+  "local_government": "彩北広域清掃組合(埼玉県)",
+  "annual_throughput": 31018,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "秩父広域市町村圏組合秩父クリーンセンター",
+  "coordinates": "[139.085251, 35.991596]",
+  "address": "埼玉県秩父郡",
+  "local_government": "秩父広域市町村圏組合(埼玉県)",
+  "annual_throughput": 27586,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新港清掃工場",
+  "coordinates": "[140.092636, 35.610844]",
+  "address": "千葉県千葉市美浜区新港",
+  "local_government": "千葉市(千葉県)",
+  "annual_throughput": 105576,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "銚子市清掃センター(焼却施設)",
+  "coordinates": "[140.848953, 35.732414]",
+  "address": "千葉県銚子市清水町",
+  "local_government": "銚子市(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "市川市クリーンセンター(ごみ焼却処理施設)",
+  "coordinates": "[139.931061, 35.721855]",
+  "address": "千葉県市川市",
+  "local_government": "市川市(千葉県)",
+  "annual_throughput": 124966,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "船橋市北部清掃工場",
+  "coordinates": "[139.98204, 35.710369]",
+  "address": "千葉県船橋市北本町",
+  "local_government": "船橋市(千葉県)",
+  "annual_throughput": 79882.85,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "船橋市南部清掃工場",
+  "coordinates": "[140.02269, 35.733475]",
+  "address": "千葉県船橋市南三咲",
+  "local_government": "船橋市(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "船橋市南部清掃工場",
+  "coordinates": "[140.02269, 35.733475]",
+  "address": "千葉県船橋市南三咲",
+  "local_government": "船橋市(千葉県)",
+  "annual_throughput": 86893.25,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "館山市清掃センター",
+  "coordinates": "[139.869965, 34.996559]",
+  "address": "千葉県館山市",
+  "local_government": "館山市(千葉県)",
+  "annual_throughput": 16651,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松戸市和名ヶ谷クリーンセンター",
+  "coordinates": "[139.925476, 35.777344]",
+  "address": "千葉県松戸市和名ケ谷",
+  "local_government": "松戸市(千葉県)",
+  "annual_throughput": 82335,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "野田市清掃工場",
+  "coordinates": "[139.857178, 35.955612]",
+  "address": "千葉県野田市清水",
+  "local_government": "野田市(千葉県)",
+  "annual_throughput": 23414,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "旭市クリーンセンター焼却施設",
+  "coordinates": "[140.648178, 35.716034]",
+  "address": "千葉県旭市",
+  "local_government": "旭市(千葉県)",
+  "remarks": "廃止"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "芝園清掃工場",
+  "coordinates": "[140.019821, 35.661659]",
+  "address": "千葉県習志野市芝園",
+  "local_government": "習志野市(千葉県)",
+  "annual_throughput": 54038.55,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "柏市清掃工場",
+  "coordinates": "[139.975937, 35.867508]",
+  "address": "千葉県柏市",
+  "local_government": "柏市(千葉県)",
+  "annual_throughput": 67536,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "柏市第二清掃工場",
+  "coordinates": "[139.975937, 35.867508]",
+  "address": "千葉県柏市",
+  "local_government": "柏市(千葉県)",
+  "annual_throughput": 39029,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "勝浦市クリーンセンター",
+  "coordinates": "[140.320923, 35.152233]",
+  "address": "千葉県勝浦市",
+  "local_government": "勝浦市(千葉県)",
+  "annual_throughput": 5659,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "市原市福増クリーンセンター第一工場",
+  "coordinates": "[140.139389, 35.475063]",
+  "address": "千葉県市原市福増",
+  "local_government": "市原市(千葉県)",
+  "annual_throughput": 27706.55,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "市原市福増クリーンセンター第二工場",
+  "coordinates": "[140.139389, 35.475063]",
+  "address": "千葉県市原市福増",
+  "local_government": "市原市(千葉県)",
+  "annual_throughput": 51067.93,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "流山市クリーンセンターごみ焼却施設",
+  "coordinates": "[139.90274, 35.856285]",
+  "address": "千葉県流山市",
+  "local_government": "流山市(千葉県)",
+  "annual_throughput": 42882,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八千代市清掃センター(3号炉)",
+  "coordinates": "[140.099731, 35.7225]",
+  "address": "千葉県八千代市",
+  "local_government": "八千代市(千葉県)",
+  "annual_throughput": 22249,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八千代市清掃センター(1・2号炉)",
+  "coordinates": "[140.099731, 35.7225]",
+  "address": "千葉県八千代市",
+  "local_government": "八千代市(千葉県)",
+  "annual_throughput": 27512,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "我孫子市クリーンセンター(2号炉)",
+  "coordinates": "[140.028336, 35.864166]",
+  "address": "千葉県我孫子市",
+  "local_government": "我孫子市(千葉県)",
+  "annual_throughput": 12720,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "我孫子市クリーンセンター(1号炉)",
+  "coordinates": "[140.028336, 35.864166]",
+  "address": "千葉県我孫子市",
+  "local_government": "我孫子市(千葉県)",
+  "annual_throughput": 16817,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "我孫子市クリーンセンター",
+  "coordinates": "[140.028336, 35.864166]",
+  "address": "千葉県我孫子市",
+  "local_government": "我孫子市(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "新設（建設中）"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鎌ヶ谷市クリーンセンター",
+  "coordinates": "[140.000839, 35.776943]",
+  "address": "千葉県鎌ケ谷市",
+  "local_government": "鎌ケ谷市(千葉県)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "君津市清掃工場",
+  "coordinates": "[139.990723, 35.259441]",
+  "address": "千葉県君津市清和市場",
+  "local_government": "君津市(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浦安市クリーンセンター(ごみ処理施設)",
+  "coordinates": "[139.901978, 35.65316]",
+  "address": "千葉県浦安市",
+  "local_government": "浦安市(千葉県)",
+  "annual_throughput": 43607,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "四街道市クリーンセンターごみ焼却施設",
+  "coordinates": "[140.167969, 35.669819]",
+  "address": "千葉県四街道市",
+  "local_government": "四街道市(千葉県)",
+  "annual_throughput": 22102,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "袖ヶ浦市クリーンセンターごみ焼却施設",
+  "coordinates": "[139.954453, 35.429874]",
+  "address": "千葉県袖ケ浦市",
+  "local_government": "袖ケ浦市(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八街市クリーンセンター",
+  "coordinates": "[140.318008, 35.665878]",
+  "address": "千葉県八街市",
+  "local_government": "八街市(千葉県)",
+  "annual_throughput": 18699,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "いすみクリーンセンター",
+  "coordinates": "[140.385284, 35.253887]",
+  "address": "千葉県いすみ市",
+  "local_government": "いすみ市(千葉県)",
+  "annual_throughput": 8565,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "御宿町清掃センター",
+  "coordinates": "[140.348618, 35.191666]",
+  "address": "千葉県夷隅郡御宿町",
+  "local_government": "御宿町(千葉県)",
+  "annual_throughput": 6580,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "酒々井リサイクル文化センター焼却処理施設(AB系)",
+  "coordinates": "[140.269562, 35.724865]",
+  "address": "千葉県印旛郡酒々井町",
+  "local_government": "佐倉市、酒々井町清掃組合(千葉県)",
+  "annual_throughput": 11988,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "酒々井リサイクル文化センター焼却処理施設(C系)",
+  "coordinates": "[140.269562, 35.724865]",
+  "address": "千葉県印旛郡酒々井町",
+  "local_government": "佐倉市、酒々井町清掃組合(千葉県)",
+  "annual_throughput": 18310,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "酒々井リサイクル文化センター焼却処理施設(D系)",
+  "coordinates": "[140.269562, 35.724865]",
+  "address": "千葉県印旛郡酒々井町",
+  "local_government": "佐倉市、酒々井町清掃組合(千葉県)",
+  "annual_throughput": 20283,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東金市外三市町環境クリーンセンター(焼却施設)",
+  "coordinates": "[140.366119, 35.559998]",
+  "address": "千葉県東金市",
+  "local_government": "東金市外三市町清掃組合(千葉県)",
+  "annual_throughput": 41969,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東金市外三市町環境クリーンセンター(廃棄物再生利用施設)",
+  "coordinates": "[140.366119, 35.559998]",
+  "address": "千葉県東金市",
+  "local_government": "東金市外三市町清掃組合(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "匝瑳市ほか二町環境衛生組合松山清掃工場",
+  "coordinates": "[140.564224, 35.707909]",
+  "address": "千葉県匝瑳市",
+  "local_government": "匝瑳市ほか二町環境衛生組合(千葉県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊地山クリーンセンター",
+  "coordinates": "[140.487717, 35.828018]",
+  "address": "千葉県香取市伊地山",
+  "local_government": "香取広域市町村圏事務組合(千葉県)",
+  "annual_throughput": 21764,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "印西クリーンセンター",
+  "coordinates": "[140.145798, 35.832336]",
+  "address": "千葉県印西市",
+  "local_government": "印西地区環境整備事業組合(千葉県)",
+  "annual_throughput": 46667,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八王子市戸吹清掃工場",
+  "coordinates": "[139.2892, 35.707138]",
+  "address": "東京都八王子市戸吹町",
+  "local_government": "八王子市(東京都)",
+  "annual_throughput": 66877,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八王子市北野清掃工場",
+  "coordinates": "[139.355286, 35.626408]",
+  "address": "東京都八王子市北野台",
+  "local_government": "八王子市(東京都)",
+  "annual_throughput": 19750,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "立川市清掃工場",
+  "coordinates": "[139.407776, 35.71389]",
+  "address": "東京都立川市",
+  "local_government": "立川市(東京都)",
+  "annual_throughput": 28704,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "立川市クリーンセンタ－（建設中）",
+  "coordinates": "[139.407776, 35.71389]",
+  "address": "東京都立川市",
+  "local_government": "立川市(東京都)",
+  "annual_throughput": 0,
+  "remarks": "新設（建設中）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "昭島市清掃センター",
+  "coordinates": "[139.353607, 35.705673]",
+  "address": "東京都昭島市",
+  "local_government": "昭島市(東京都)",
+  "annual_throughput": 22665,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "町田市バイオエネルギーセンター",
+  "coordinates": "[139.438644, 35.546604]",
+  "address": "東京都町田市",
+  "local_government": "町田市(東京都)",
+  "annual_throughput": 18389,
+  "remarks": "新設（建設中）",
+  "industrial_waste": " 新設（新規稼働）"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日野市クリーンセンターごみ焼却施設",
+  "coordinates": "[139.395004, 35.671391]",
+  "address": "東京都日野市",
+  "local_government": "日野市(東京都)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東村山市秋水園",
+  "coordinates": "[139.493683, 35.773056]",
+  "address": "東京都東村山市秋津町",
+  "local_government": "東村山市(東京都)",
+  "annual_throughput": 23518,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "国分寺市清掃センター",
+  "coordinates": "[139.463272, 35.71035]",
+  "address": "東京都国分寺市",
+  "local_government": "国分寺市(東京都)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "利島村清掃センター",
+  "coordinates": "[139.282074, 34.52943]",
+  "address": "東京都利島村",
+  "local_government": "利島村(東京都)",
+  "annual_throughput": 64,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新島村清掃センター",
+  "coordinates": "[139.256958, 34.377151]",
+  "address": "東京都新島村",
+  "local_government": "新島村(東京都)",
+  "annual_throughput": 1284,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "神津島村清掃センター",
+  "coordinates": "[139.134521, 34.20549]",
+  "address": "東京都神津島村",
+  "local_government": "神津島村(東京都)",
+  "annual_throughput": 900,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三宅村クリーンセンター",
+  "coordinates": "[139.479721, 34.075832]",
+  "address": "東京都三宅島三宅村",
+  "local_government": "三宅村(東京都)",
+  "annual_throughput": 1314,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "御蔵島じん芥処理施設",
+  "coordinates": "[139.595917, 33.897301]",
+  "address": "東京都御蔵島村",
+  "local_government": "御蔵島村(東京都)",
+  "annual_throughput": 210,
+  "remarks": "能力変更",
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八丈町クリーンセンター",
+  "coordinates": "[139.789062, 33.112785]",
+  "address": "東京都八丈島八丈町",
+  "local_government": "八丈町(東京都)",
+  "annual_throughput": 2844,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "父島クリーンセンター",
+  "coordinates": "[142.20961, 27.071243]",
+  "address": "東京都小笠原村父島",
+  "local_government": "小笠原村(東京都)",
+  "annual_throughput": 700,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "多摩清掃工場",
+  "coordinates": "[139.446396, 35.636944]",
+  "address": "東京都多摩市",
+  "local_government": "多摩ニュータウン環境組合(東京都)",
+  "annual_throughput": 56179,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "王禅寺処理センター",
+  "coordinates": "[139.522263, 35.586147]",
+  "address": "神奈川県川崎市麻生区王禅寺",
+  "local_government": "川崎市(神奈川県)",
+  "annual_throughput": 106566,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鎌倉市名越クリーンセンター",
+  "coordinates": "[139.546936, 35.319225]",
+  "address": "神奈川県鎌倉市",
+  "local_government": "鎌倉市(神奈川県)",
+  "annual_throughput": 28483,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "藤沢市北部環境事業所",
+  "coordinates": "[139.491241, 35.338879]",
+  "address": "神奈川県藤沢市",
+  "local_government": "藤沢市(神奈川県)",
+  "annual_throughput": 38572,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "藤沢市石名坂環境事業所",
+  "coordinates": "[139.450394, 35.374363]",
+  "address": "神奈川県藤沢市石川",
+  "local_government": "藤沢市(神奈川県)",
+  "annual_throughput": 53120.72,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小田原市清掃工場",
+  "coordinates": "[139.143311, 35.28828]",
+  "address": "神奈川県小田原市清水新田",
+  "local_government": "小田原市(神奈川県)",
+  "annual_throughput": 14286,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小田原市清掃工場",
+  "coordinates": "[139.143311, 35.28828]",
+  "address": "神奈川県小田原市清水新田",
+  "local_government": "小田原市(神奈川県)",
+  "annual_throughput": 33924,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "茅ヶ崎市ごみ焼却処理施設",
+  "coordinates": "[139.403687, 35.333874]",
+  "address": "神奈川県茅ヶ崎市",
+  "local_government": "茅ヶ崎市(神奈川県)",
+  "annual_throughput": 66164,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "逗子市清掃センターじん芥処理場",
+  "coordinates": "[139.580429, 35.295574]",
+  "address": "神奈川県逗子市",
+  "local_government": "逗子市(神奈川県)",
+  "annual_throughput": 16311,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "厚木市環境センター",
+  "coordinates": "[139.362503, 35.443054]",
+  "address": "神奈川県厚木市",
+  "local_government": "厚木市(神奈川県)",
+  "annual_throughput": 61349,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大和市環境管理センター",
+  "coordinates": "[139.458054, 35.487499]",
+  "address": "神奈川県大和市",
+  "local_government": "大和市(神奈川県)",
+  "annual_throughput": 53604,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南足柄市清掃工場",
+  "coordinates": "[139.100006, 35.320557]",
+  "address": "神奈川県南足柄市",
+  "local_government": "南足柄市(神奈川県)",
+  "annual_throughput": 9046,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "箱根町環境センター清掃第1プラントごみ処理施設",
+  "coordinates": "[139.106949, 35.232388]",
+  "address": "神奈川県足柄下郡箱根町",
+  "local_government": "箱根町(神奈川県)",
+  "annual_throughput": 11432,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "愛川町美化プラント",
+  "coordinates": "[139.321671, 35.528889]",
+  "address": "神奈川県愛甲郡愛川町",
+  "local_government": "愛川町(神奈川県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "湯河原町真鶴町衛生組合湯河原美化センター",
+  "coordinates": "[139.108337, 35.147778]",
+  "address": "神奈川県足柄下郡湯河原町",
+  "local_government": "湯河原町真鶴町衛生組合(神奈川県)",
+  "annual_throughput": 13126,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新潟市亀田清掃センター",
+  "coordinates": "[139.036545, 37.916077]",
+  "address": "新潟県新潟市",
+  "local_government": "新潟市(新潟県)",
+  "annual_throughput": 96568,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新潟市鎧潟クリーンセンター",
+  "coordinates": "[139.036545, 37.916077]",
+  "address": "新潟県新潟市",
+  "local_government": "新潟市(新潟県)",
+  "annual_throughput": 17449,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新潟市新田清掃センター焼却施設",
+  "coordinates": "[139.036545, 37.916077]",
+  "address": "新潟県新潟市",
+  "local_government": "新潟市(新潟県)",
+  "annual_throughput": 89221.9,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三条市清掃センター流動床式ガス化溶融炉",
+  "coordinates": "[138.96167, 37.636387]",
+  "address": "新潟県三条市",
+  "local_government": "三条市(新潟県)",
+  "annual_throughput": 32363,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "時水清掃工場",
+  "coordinates": "[138.76326, 37.301304]",
+  "address": "新潟県小千谷市時水",
+  "local_government": "小千谷市(新潟県)",
+  "annual_throughput": 11902,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "見附市清掃センター",
+  "coordinates": "[138.912781, 37.531593]",
+  "address": "新潟県見附市",
+  "local_government": "見附市(新潟県)",
+  "annual_throughput": 10468,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "村上市ごみ処理場(エコパークむらかみ)",
+  "coordinates": "[139.480011, 38.224163]",
+  "address": "新潟県村上市",
+  "local_government": "村上市(新潟県)",
+  "annual_throughput": 24315,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "糸魚川市清掃センターごみ処理施設",
+  "coordinates": "[137.860199, 37.038052]",
+  "address": "新潟県糸魚川市清崎",
+  "local_government": "糸魚川市(新潟県)",
+  "annual_throughput": 12268,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "妙高クリーンセンター",
+  "coordinates": "[138.253342, 37.025269]",
+  "address": "新潟県妙高市",
+  "local_government": "妙高市(新潟県)",
+  "annual_throughput": 9315,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "上越市クリーンセンター",
+  "coordinates": "[138.236099, 37.147865]",
+  "address": "新潟県上越市",
+  "local_government": "上越市(新潟県)",
+  "annual_throughput": 49740,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "阿賀野市環境センター",
+  "coordinates": "[139.225952, 37.834469]",
+  "address": "新潟県阿賀野市",
+  "local_government": "阿賀野市(新潟県)",
+  "annual_throughput": 8871,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "阿賀町クリーンセンター",
+  "coordinates": "[139.458771, 37.675606]",
+  "address": "新潟県阿賀町",
+  "local_government": "阿賀町(新潟県)",
+  "annual_throughput": 3167,
+  "remarks": "能力変更",
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "粟島浦村ごみ焼却処理施設",
+  "coordinates": "[139.25441, 38.468304]",
+  "address": "新潟県粟島浦村",
+  "local_government": "粟島浦村(新潟県)",
+  "annual_throughput": 47,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津南地域衛生施設組合ごみ処理場",
+  "coordinates": "[138.652496, 37.014168]",
+  "address": "新潟県中魚沼郡津南町",
+  "local_government": "津南地域衛生施設組合(新潟県)",
+  "annual_throughput": 3298,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "燕・弥彦総合事務組合環境センター(流動床炉)",
+  "coordinates": "[138.882095, 37.673161]",
+  "address": "新潟県燕市",
+  "local_government": "燕・弥彦総合事務組合(新潟県)",
+  "annual_throughput": 11493,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "燕・弥彦総合事務組合・環境センター(ストーカ炉)",
+  "coordinates": "[138.882095, 37.673161]",
+  "address": "新潟県燕市",
+  "local_government": "燕・弥彦総合事務組合(新潟県)",
+  "annual_throughput": 13893,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "中条地区塵芥焼却場",
+  "coordinates": "[139.393021, 38.044724]",
+  "address": "新潟県胎内市中条",
+  "local_government": "新発田地域広域事務組合(新潟県)",
+  "annual_throughput": 18100,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新発田広域クリーンセンター",
+  "coordinates": "[139.327103, 37.947952]",
+  "address": "新潟県新発田市",
+  "local_government": "新発田地域広域事務組合(新潟県)",
+  "annual_throughput": 25050.67,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "射水市クリーンピア射水",
+  "coordinates": "[137.075394, 36.730549]",
+  "address": "富山県射水市",
+  "local_government": "射水市(富山県)",
+  "annual_throughput": 27830,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "輪島クリーンセンター焼却処理施設",
+  "coordinates": "[136.89917, 37.390553]",
+  "address": "石川県輪島市",
+  "local_government": "輪島市(石川県)",
+  "annual_throughput": 4872,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "加賀市環境美化センター加賀ごみ処理施設",
+  "coordinates": "[136.315002, 36.302776]",
+  "address": "石川県加賀市",
+  "local_government": "加賀市(石川県)",
+  "annual_throughput": 19087,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "加賀市環境美化センター山中美化センター",
+  "coordinates": "[136.315002, 36.302776]",
+  "address": "石川県加賀市",
+  "local_government": "加賀市(石川県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "能美市美化センター",
+  "coordinates": "[136.554169, 36.446991]",
+  "address": "石川県能美市",
+  "local_government": "能美市(石川県)",
+  "annual_throughput": 13559,
+  "remarks": "能力変更",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "敦賀市清掃センター",
+  "coordinates": "[136.076767, 35.651669]",
+  "address": "福井県敦賀市清水町",
+  "local_government": "敦賀市(福井県)",
+  "annual_throughput": 21563.06,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小浜市クリーンセンター",
+  "coordinates": "[135.746674, 35.495556]",
+  "address": "福井県小浜市",
+  "local_government": "小浜市(福井県)",
+  "annual_throughput": 14284,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鯖江広域衛生施設組合　鯖江クリーンセンター　ごみ焼却施設",
+  "coordinates": "[136.184448, 35.956665]",
+  "address": "福井県鯖江市",
+  "local_government": "鯖江広域衛生施設組合(福井県)",
+  "annual_throughput": 25454,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "富士吉田市環境美化センターごみ処理施設",
+  "coordinates": "[138.807861, 35.487507]",
+  "address": "山梨県富士吉田市",
+  "local_government": "富士吉田市(山梨県)",
+  "annual_throughput": 29724,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "上野原市クリーンセンターごみ焼却施設",
+  "coordinates": "[139.108612, 35.63028]",
+  "address": "山梨県上野原市",
+  "local_government": "上野原市(山梨県)",
+  "annual_throughput": 4224,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "山中湖村クリーンセンターごみ焼却施設",
+  "coordinates": "[138.861084, 35.410591]",
+  "address": "山梨県山中湖村",
+  "local_government": "山中湖村(山梨県)",
+  "annual_throughput": 3627,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "甲府・峡東クリーンセンター(エネルギー棟)",
+  "coordinates": "[138.568298, 35.662231]",
+  "address": "山梨県甲府市",
+  "local_government": "甲府・峡東地域ごみ処理施設事務組合(山梨県)",
+  "annual_throughput": 98674,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小海町草刈久保焼却施設",
+  "coordinates": "[138.483612, 36.095001]",
+  "address": "長野県小海町",
+  "local_government": "小海町(長野県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川上村営ゴミ処理場",
+  "coordinates": "[138.578354, 35.975445]",
+  "address": "長野県川上村",
+  "local_government": "川上村(長野県)",
+  "annual_throughput": 39,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "川上村・南牧村共同焼却炉",
+  "coordinates": "[138.578354, 35.975445]",
+  "address": "長野県川上村",
+  "local_government": "川上村(長野県)",
+  "annual_throughput": 434,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "穂高クリーンセンターごみ焼却施設",
+  "coordinates": "[137.879013, 36.332363]",
+  "address": "長野県安曇野市穂高",
+  "local_government": "穂高広域施設組合(長野県)",
+  "annual_throughput": 32962,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "穂高クリーンセンターごみ焼却施設",
+  "coordinates": "[137.879013, 36.332363]",
+  "address": "長野県安曇野市穂高",
+  "local_government": "穂高広域施設組合(長野県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大町市環境プラント",
+  "coordinates": "[137.850922, 36.502983]",
+  "address": "長野県大町市",
+  "local_government": "北アルプス広域連合(長野県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": " 移管"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "木曽クリーンセンター",
+  "coordinates": "[137.691666, 35.842499]",
+  "address": "長野県木曽郡",
+  "local_government": "木曽広域連合(長野県)",
+  "annual_throughput": 5284,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大垣市クリーンセンター",
+  "coordinates": "[136.612793, 35.35989]",
+  "address": "岐阜県大垣市",
+  "local_government": "大垣市(岐阜県)",
+  "annual_throughput": 44996,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高山市資源リサイクルセンター焼却施設",
+  "coordinates": "[137.252243, 36.146049]",
+  "address": "岐阜県高山市",
+  "local_government": "高山市(岐阜県)",
+  "annual_throughput": 19829.2,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高山市久々野クリーンセンター焼却施設",
+  "coordinates": "[137.325134, 36.003368]",
+  "address": "岐阜県高山市久々野町阿多粕",
+  "local_government": "高山市(岐阜県)",
+  "annual_throughput": 1485.1,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "多治見市三の倉センター",
+  "coordinates": "[137.076996, 35.311054]",
+  "address": "岐阜県多治見市三の倉町西洞",
+  "local_government": "多治見市(岐阜県)",
+  "annual_throughput": 46410,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "多治見市笠原クリーンセンター焼却施設",
+  "coordinates": "[137.160492, 35.293427]",
+  "address": "岐阜県多治見市笠原町",
+  "local_government": "多治見市(岐阜県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "中津川市環境センター",
+  "coordinates": "[137.500549, 35.487499]",
+  "address": "岐阜県中津川市",
+  "local_government": "中津川市(岐阜県)",
+  "annual_throughput": 24007,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "瑞浪市クリーンセンター",
+  "coordinates": "[137.254608, 35.361736]",
+  "address": "岐阜県瑞浪市",
+  "local_government": "瑞浪市(岐阜県)",
+  "annual_throughput": 10115,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "恵那市恵南クリーンセンターあおぞら",
+  "coordinates": "[137.412827, 35.449322]",
+  "address": "岐阜県恵那市",
+  "local_government": "恵那市(岐阜県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "土岐市環境センター",
+  "coordinates": "[137.182999, 35.352261]",
+  "address": "岐阜県土岐市",
+  "local_government": "土岐市(岐阜県)",
+  "annual_throughput": 15360,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "各務原市北清掃センター",
+  "coordinates": "[136.84848, 35.398621]",
+  "address": "岐阜県各務原市",
+  "local_government": "各務原市(岐阜県)",
+  "annual_throughput": 40877,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "山県市クリーンセンター",
+  "coordinates": "[136.781387, 35.506111]",
+  "address": "岐阜県山県市",
+  "local_government": "山県市(岐阜県)",
+  "annual_throughput": 7215,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "飛騨市クリーンセンター",
+  "coordinates": "[137.186111, 36.238331]",
+  "address": "岐阜県飛騨市",
+  "local_government": "飛騨市(岐阜県)",
+  "annual_throughput": 5334,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "郡上クリーンセンター",
+  "coordinates": "[136.964447, 35.748611]",
+  "address": "岐阜県郡上郡",
+  "local_government": "郡上市(岐阜県)",
+  "annual_throughput": 10594,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "下呂市クリーンセンター",
+  "coordinates": "[137.244171, 35.805832]",
+  "address": "岐阜県下呂市",
+  "local_government": "下呂市(岐阜県)",
+  "annual_throughput": 10666,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "垂井町クリーンセンター",
+  "coordinates": "[136.537964, 35.366249]",
+  "address": "岐阜県垂井町",
+  "local_government": "垂井町(岐阜県)",
+  "annual_throughput": 7923,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市南部清掃工場",
+  "coordinates": "[137.752289, 34.667278]",
+  "address": "静岡県浜松市南区",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 122531,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市浜北清掃センター(90t)",
+  "coordinates": "[137.783157, 34.791546]",
+  "address": "静岡県浜松市浜北区",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市浜北清掃センター(40t)",
+  "coordinates": "[137.783157, 34.791546]",
+  "address": "静岡県浜松市浜北区",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市天竜ごみ処理工場",
+  "coordinates": "[137.816116, 34.87278]",
+  "address": "静岡県浜松市天竜区",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市はるのクリーンセンター",
+  "coordinates": "[137.726303, 34.710808]",
+  "address": "静岡県浜松市",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市水窪・佐久間クリーンセンター",
+  "coordinates": "[137.726303, 34.710808]",
+  "address": "静岡県浜松市",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浜松市西部清掃工場",
+  "coordinates": "[137.645279, 34.69278]",
+  "address": "静岡県浜松市西区",
+  "local_government": "浜松市(静岡県)",
+  "annual_throughput": 112642,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "沼津市清掃プラント",
+  "coordinates": "[138.863617, 35.095554]",
+  "address": "静岡県沼津市",
+  "local_government": "沼津市(静岡県)",
+  "annual_throughput": 54314,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "熱海市エコ・プラント姫の沢",
+  "coordinates": "[139.071747, 35.096352]",
+  "address": "静岡県熱海市",
+  "local_government": "熱海市(静岡県)",
+  "annual_throughput": 20525,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "熱海市初島清掃工場廃棄物焼却炉",
+  "coordinates": "[139.171539, 35.040001]",
+  "address": "静岡県熱海市初島",
+  "local_government": "熱海市(静岡県)",
+  "annual_throughput": 99,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三島市ごみ処理施設",
+  "coordinates": "[138.918564, 35.118507]",
+  "address": "静岡県三島市",
+  "local_government": "三島市(静岡県)",
+  "annual_throughput": 26930,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "富士宮市清掃センター",
+  "coordinates": "[138.621613, 35.221977]",
+  "address": "静岡県富士宮市",
+  "local_government": "富士宮市(静岡県)",
+  "annual_throughput": 36832,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊東市環境美化センター",
+  "coordinates": "[139.101944, 34.965832]",
+  "address": "静岡県伊東市",
+  "local_government": "伊東市(静岡県)",
+  "annual_throughput": 29282,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "磐田市クリーンセンター(3号炉・4号炉)",
+  "coordinates": "[137.851532, 34.717903]",
+  "address": "静岡県磐田市",
+  "local_government": "磐田市(静岡県)",
+  "annual_throughput": 40030,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "下田市営じん芥処理場",
+  "coordinates": "[138.945343, 34.679543]",
+  "address": "静岡県下田市",
+  "local_government": "下田市(静岡県)",
+  "annual_throughput": 7920,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "裾野市美化センター",
+  "coordinates": "[138.906662, 35.173889]",
+  "address": "静岡県裾野市",
+  "local_government": "裾野市(静岡県)",
+  "annual_throughput": 12951,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "湖西市環境センター",
+  "coordinates": "[137.531647, 34.718472]",
+  "address": "静岡県湖西市",
+  "local_government": "湖西市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊豆市清掃センターごみ焼却施設",
+  "coordinates": "[138.946732, 34.97657]",
+  "address": "静岡県伊豆市",
+  "local_government": "伊豆市(静岡県)",
+  "annual_throughput": 6386,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大仁清掃センター",
+  "coordinates": "[138.940216, 34.994087]",
+  "address": "静岡県伊豆の国市大仁",
+  "local_government": "伊豆の国市(静岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南伊豆町清掃センター",
+  "coordinates": "[138.858444, 34.651314]",
+  "address": "静岡県賀茂郡南伊豆町",
+  "local_government": "南伊豆町(静岡県)",
+  "annual_throughput": 2846,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西伊豆町クリーンセンター",
+  "coordinates": "[138.775284, 34.771667]",
+  "address": "静岡県賀茂郡西伊豆町",
+  "local_government": "西伊豆町(静岡県)",
+  "annual_throughput": 2730,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "函南町ごみ焼却場",
+  "coordinates": "[138.953339, 35.08889]",
+  "address": "静岡県田方郡函南町",
+  "local_government": "函南町(静岡県)",
+  "annual_throughput": 15417,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "長泉町塵芥焼却場",
+  "coordinates": "[138.897171, 35.137657]",
+  "address": "静岡県駿東郡長泉町",
+  "local_government": "長泉町(静岡県)",
+  "annual_throughput": 7814,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "牧之原市御前崎市広域施設組合環境保全センター",
+  "coordinates": "[138.224655, 34.740009]",
+  "address": "静岡県牧之原市",
+  "local_government": "牧之原市御前崎市広域施設組合(静岡県)",
+  "annual_throughput": 12827,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市猪子石工場",
+  "coordinates": "[136.90657, 35.181438]",
+  "address": "愛知県名古屋市",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 132521.51,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市南陽工場",
+  "coordinates": "[136.931107, 35.095001]",
+  "address": "愛知県名古屋市南区",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市富田工場",
+  "coordinates": "[136.90657, 35.181438]",
+  "address": "愛知県名古屋市",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 112504,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市五条川工場",
+  "coordinates": "[136.90657, 35.181438]",
+  "address": "愛知県名古屋市",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 94848.36,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市鳴海工場",
+  "coordinates": "[136.90657, 35.181438]",
+  "address": "愛知県名古屋市",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 132160.28,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名古屋市北名古屋工場",
+  "coordinates": "[136.911667, 35.194168]",
+  "address": "愛知県名古屋市北区",
+  "local_government": "名古屋市(愛知県)",
+  "annual_throughput": 168922,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊橋市資源化センター(焼却施設3号炉)",
+  "coordinates": "[137.391388, 34.769169]",
+  "address": "愛知県豊橋市",
+  "local_government": "豊橋市(愛知県)",
+  "annual_throughput": 26536,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊橋市資源化センター(焼却施設1・2号炉)",
+  "coordinates": "[137.391388, 34.769169]",
+  "address": "愛知県豊橋市",
+  "local_government": "豊橋市(愛知県)",
+  "annual_throughput": 86013,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡崎市旧中央クリーンセンターごみ焼却施設(リサイクルプラザ内)",
+  "coordinates": "[137.173065, 34.954803]",
+  "address": "愛知県岡崎市",
+  "local_government": "岡崎市(愛知県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡崎市八帖クリーンセンターごみ焼却施設2号炉",
+  "coordinates": "[137.150909, 34.957607]",
+  "address": "愛知県岡崎市八帖町",
+  "local_government": "岡崎市(愛知県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡崎市八帖クリーンセンターごみ焼却施設1号炉",
+  "coordinates": "[137.150909, 34.957607]",
+  "address": "愛知県岡崎市八帖町",
+  "local_government": "岡崎市(愛知県)",
+  "annual_throughput": 29972,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡崎市中央クリーンセンター　ガス化溶融施設",
+  "coordinates": "[137.129242, 34.92701]",
+  "address": "愛知県岡崎市中之郷町",
+  "local_government": "岡崎市(愛知県)",
+  "annual_throughput": 97325.55,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "一宮市環境センター",
+  "coordinates": "[136.802979, 35.303837]",
+  "address": "愛知県一宮市",
+  "local_government": "一宮市(愛知県)",
+  "annual_throughput": 102306.25,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "半田市クリーンセンター",
+  "coordinates": "[136.938004, 34.891808]",
+  "address": "愛知県半田市",
+  "local_government": "半田市(愛知県)",
+  "annual_throughput": 25323,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "春日井市クリーンセンター1、2号炉",
+  "coordinates": "[136.972229, 35.247501]",
+  "address": "愛知県春日井市",
+  "local_government": "春日井市(愛知県)",
+  "annual_throughput": 2826.03,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "春日井市クリーンセンター3、4号炉",
+  "coordinates": "[136.972229, 35.247501]",
+  "address": "愛知県春日井市",
+  "local_government": "春日井市(愛知県)",
+  "annual_throughput": 77123.81,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊川市清掃工場(1、3号炉)",
+  "coordinates": "[137.375839, 34.826942]",
+  "address": "愛知県豊川市",
+  "local_government": "豊川市(愛知県)",
+  "annual_throughput": 27564,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊川市清掃工場(5、6号炉)",
+  "coordinates": "[137.375839, 34.826942]",
+  "address": "愛知県豊川市",
+  "local_government": "豊川市(愛知県)",
+  "annual_throughput": 34363,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "安城市環境クリーンセンター",
+  "coordinates": "[137.080276, 34.958614]",
+  "address": "愛知県安城市",
+  "local_government": "安城市(愛知県)",
+  "annual_throughput": 51527,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西尾市クリーンセンター(ごみ焼却施設)",
+  "coordinates": "[137.061951, 34.861942]",
+  "address": "愛知県西尾市",
+  "local_government": "西尾市(愛知県)",
+  "annual_throughput": 54052,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "蒲郡市クリーンセンター",
+  "coordinates": "[137.219727, 34.826389]",
+  "address": "愛知県蒲郡市",
+  "local_government": "蒲郡市(愛知県)",
+  "annual_throughput": 25091,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "犬山市都市美化センター",
+  "coordinates": "[136.944427, 35.378441]",
+  "address": "愛知県犬山市",
+  "local_government": "犬山市(愛知県)",
+  "annual_throughput": 17425,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "稲沢市環境センター",
+  "coordinates": "[136.780273, 35.248055]",
+  "address": "愛知県稲沢市",
+  "local_government": "稲沢市(愛知県)",
+  "annual_throughput": 33984,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新城市クリーンセンター",
+  "coordinates": "[137.497757, 34.89893]",
+  "address": "愛知県新城市",
+  "local_government": "新城市(愛知県)",
+  "annual_throughput": 12007,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東海市清掃センター",
+  "coordinates": "[136.902328, 35.022957]",
+  "address": "愛知県東海市",
+  "local_government": "東海市(愛知県)",
+  "annual_throughput": 31628,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "知多市清掃センター",
+  "coordinates": "[136.874832, 34.98896]",
+  "address": "愛知県知多市清水が丘",
+  "local_government": "知多市(愛知県)",
+  "annual_throughput": 19902,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "常滑武豊衛生組合クリーンセンターごみ処理施設",
+  "coordinates": "[136.854477, 34.896088]",
+  "address": "愛知県常滑市",
+  "local_government": "常滑武豊衛生組合(愛知県)",
+  "annual_throughput": 22117,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "知多南部クリーンセンター(ごみ処理施設)",
+  "coordinates": "[136.864761, 34.996532]",
+  "address": "愛知県知多郡",
+  "local_government": "知多南部衛生組合(愛知県)",
+  "annual_throughput": 9155,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "知多南部広域環境センター",
+  "coordinates": "[136.864761, 34.996532]",
+  "address": "愛知県知多郡",
+  "local_government": "知多南部広域環境組合(愛知県)",
+  "annual_throughput": 13596,
+  "remarks": "新設（建設中）",
+  "industrial_waste": " 新設（新規稼働）"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津市西部クリーンセンター(1号炉)",
+  "coordinates": "[136.50444, 34.700497]",
+  "address": "三重県津市西阿漕町岩田",
+  "local_government": "津市(三重県)",
+  "annual_throughput": 23314,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津市西部クリーンセンター(2号炉)",
+  "coordinates": "[136.50444, 34.700497]",
+  "address": "三重県津市西阿漕町岩田",
+  "local_government": "津市(三重県)",
+  "annual_throughput": 27881,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津市クリーンセンターおおたか",
+  "coordinates": "[136.505676, 34.718613]",
+  "address": "三重県津市",
+  "local_government": "津市(三重県)",
+  "annual_throughput": 36966,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "四日市市クリーンセンター",
+  "coordinates": "[136.624451, 34.965118]",
+  "address": "三重県四日市市",
+  "local_government": "四日市市(三重県)",
+  "annual_throughput": 97273,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松阪市クリーンセンター",
+  "coordinates": "[136.527618, 34.577972]",
+  "address": "三重県松阪市",
+  "local_government": "松阪市(三重県)",
+  "annual_throughput": 49371,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鈴鹿市清掃センター",
+  "coordinates": "[136.584213, 34.881855]",
+  "address": "三重県鈴鹿市",
+  "local_government": "鈴鹿市(三重県)",
+  "annual_throughput": 59963,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "尾鷲市清掃工場",
+  "coordinates": "[136.190979, 34.070786]",
+  "address": "三重県尾鷲市",
+  "local_government": "尾鷲市(三重県)",
+  "annual_throughput": 5424,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "亀山市総合環境センター",
+  "coordinates": "[136.45166, 34.855831]",
+  "address": "三重県亀山市",
+  "local_government": "亀山市(三重県)",
+  "annual_throughput": 20577,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鳥羽市答志島清掃センター",
+  "coordinates": "[136.891861, 34.524464]",
+  "address": "三重県鳥羽市答志町",
+  "local_government": "鳥羽市(三重県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "熊野市クリーンセンター(ごみ処理施設)",
+  "coordinates": "[136.100281, 33.888611]",
+  "address": "三重県熊野市",
+  "local_government": "熊野市(三重県)",
+  "annual_throughput": 4859,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "志摩市阿児清掃センター",
+  "coordinates": "[136.897079, 34.358669]",
+  "address": "三重県志摩市阿児町安乗",
+  "local_government": "志摩市(三重県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "志摩市阿児清掃センター",
+  "coordinates": "[136.897079, 34.358669]",
+  "address": "三重県志摩市阿児町安乗",
+  "local_government": "志摩市(三重県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "志摩市志摩清掃センター",
+  "coordinates": "[136.785141, 34.266602]",
+  "address": "三重県志摩市志摩町越賀",
+  "local_government": "志摩市(三重県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "菰野町清掃センター",
+  "coordinates": "[136.507507, 35.02]",
+  "address": "三重県菰野町",
+  "local_government": "菰野町(三重県)",
+  "annual_throughput": 9988,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊賀南部クリーンセンター",
+  "coordinates": "[136.142258, 34.749832]",
+  "address": "三重県伊賀市",
+  "local_government": "伊賀南部環境衛生組合(三重県)",
+  "annual_throughput": 20221,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "桑名広域清掃事業組合可燃ごみ焼却施設",
+  "coordinates": "[136.683884, 35.062222]",
+  "address": "三重県桑名郡",
+  "local_government": "桑名広域清掃事業組合(三重県)",
+  "annual_throughput": 43159,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大津市環境美化センター焼却施設",
+  "coordinates": "[135.854721, 35.017776]",
+  "address": "滋賀県大津市",
+  "local_government": "大津市(滋賀県)",
+  "annual_throughput": 45424,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大津市北部クリーンセンター焼却施設",
+  "coordinates": "[135.961655, 35.259445]",
+  "address": "滋賀県大津市北小松",
+  "local_government": "大津市(滋賀県)",
+  "annual_throughput": 35751,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "彦根市清掃センター",
+  "coordinates": "[136.210388, 35.227692]",
+  "address": "滋賀県彦根市清崎町",
+  "local_government": "彦根市(滋賀県)",
+  "annual_throughput": 29246,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "近江八幡市環境エネルギーセンター",
+  "coordinates": "[136.097961, 35.128323]",
+  "address": "滋賀県近江八幡市",
+  "local_government": "近江八幡市(滋賀県)",
+  "annual_throughput": 21381,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "草津市立クリーンセンター(熱回収施設)",
+  "coordinates": "[135.959991, 35.01318]",
+  "address": "滋賀県草津市",
+  "local_government": "草津市(滋賀県)",
+  "annual_throughput": 32896.54,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "守山市環境センター熱回収施設",
+  "coordinates": "[135.994446, 35.058887]",
+  "address": "滋賀県守山市",
+  "local_government": "守山市(滋賀県)",
+  "annual_throughput": 8920,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "栗東市環境センター",
+  "coordinates": "[135.998062, 35.021667]",
+  "address": "滋賀県栗東市",
+  "local_government": "栗東市(滋賀県)",
+  "annual_throughput": 16031,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "野洲クリーンセンター",
+  "coordinates": "[136.025833, 35.067501]",
+  "address": "滋賀県野洲郡",
+  "local_government": "野洲市(滋賀県)",
+  "annual_throughput": 11963,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高島市環境センター",
+  "coordinates": "[136.035797, 35.353054]",
+  "address": "滋賀県高島市",
+  "local_government": "高島市(滋賀県)",
+  "annual_throughput": 13606,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "甲賀広域行政組合衛生センター第2施設(ごみ処理施設)",
+  "coordinates": "[136.166275, 34.966091]",
+  "address": "滋賀県甲賀郡",
+  "local_government": "甲賀広域行政組合(滋賀県)",
+  "annual_throughput": 36299,
+  "remarks": "能力変更",
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京都市北部クリーンセンター",
+  "coordinates": "[135.75415, 35.041039]",
+  "address": "京都府京都市北区",
+  "local_government": "京都市(京都府)",
+  "annual_throughput": 116231,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京都市東北部クリーンセンター",
+  "coordinates": "[135.776398, 34.997093]",
+  "address": "京都府京都市東山区",
+  "local_government": "京都市(京都府)",
+  "annual_throughput": 81432.3,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京都市南部クリーンセンター（焼却施設）",
+  "coordinates": "[135.746429, 34.97665]",
+  "address": "京都府京都市南区",
+  "local_government": "京都市(京都府)",
+  "annual_throughput": 149877.844783526,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福知山市ごみ焼却施設",
+  "coordinates": "[135.126389, 35.296665]",
+  "address": "京都府福知山市",
+  "local_government": "福知山市(京都府)",
+  "annual_throughput": 17270,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "舞鶴市清掃事務所(第二工場)",
+  "coordinates": "[135.36528, 35.454136]",
+  "address": "京都府舞鶴市清道",
+  "local_government": "舞鶴市(京都府)",
+  "annual_throughput": 7196,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "舞鶴市清掃事務所(第一工場)",
+  "coordinates": "[135.36528, 35.454136]",
+  "address": "京都府舞鶴市清道",
+  "local_government": "舞鶴市(京都府)",
+  "annual_throughput": 12945,
+  "remarks": "能力変更",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "綾部市クリーンセンター",
+  "coordinates": "[135.258606, 35.298889]",
+  "address": "京都府綾部市",
+  "local_government": "綾部市(京都府)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京丹後市峰山クリーンセンター",
+  "coordinates": "[135.057114, 35.622234]",
+  "address": "京都府京丹後市峰山町千歳",
+  "local_government": "京丹後市(京都府)",
+  "annual_throughput": 6992,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京丹後市峰山クリーンセンター",
+  "coordinates": "[135.057114, 35.622234]",
+  "address": "京都府京丹後市峰山町千歳",
+  "local_government": "京丹後市(京都府)",
+  "annual_throughput": 7504,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "京都中部クリーンセンター(ごみ処理施設)",
+  "coordinates": "[135.768112, 35.011669]",
+  "address": "京都府京都市",
+  "local_government": "船井郡衛生管理組合(京都府)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "相楽東部クリーンセンター",
+  "coordinates": "[135.80304, 34.739216]",
+  "address": "京都府木津川市相楽東戸崎",
+  "local_government": "相楽東部広域連合(京都府)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "堺市クリーンセンター東工場第二工場",
+  "coordinates": "[135.483063, 34.573334]",
+  "address": "大阪府堺市",
+  "local_government": "堺市(大阪府)",
+  "annual_throughput": 110598.37,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "堺市クリーンセンター東工場第一工場",
+  "coordinates": "[135.483063, 34.573334]",
+  "address": "大阪府堺市",
+  "local_government": "堺市(大阪府)",
+  "annual_throughput": 1588.83,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "堺市クリーンセンター南工場",
+  "coordinates": "[135.483063, 34.573334]",
+  "address": "大阪府堺市",
+  "local_government": "堺市(大阪府)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "堺市クリーンセンター臨海工場",
+  "coordinates": "[135.483063, 34.573334]",
+  "address": "大阪府堺市",
+  "local_government": "堺市(大阪府)",
+  "annual_throughput": 132630.88,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "池田市クリーンセンター",
+  "coordinates": "[135.428604, 34.821667]",
+  "address": "大阪府池田市",
+  "local_government": "池田市(大阪府)",
+  "annual_throughput": 27102,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "吹田市資源循環エネルギーセンター",
+  "coordinates": "[135.516876, 34.75946]",
+  "address": "大阪府吹田市",
+  "local_government": "吹田市(大阪府)",
+  "annual_throughput": 101928,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "穂谷川清掃工場第3プラント",
+  "coordinates": "[135.72937, 34.793934]",
+  "address": "大阪府枚方市穂谷",
+  "local_government": "枚方市(大阪府)",
+  "annual_throughput": 33610,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "寝屋川市クリーンセンター焼却施設",
+  "coordinates": "[135.628052, 34.766109]",
+  "address": "大阪府寝屋川市",
+  "local_government": "寝屋川市(大阪府)",
+  "annual_throughput": 53344,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "箕面市環境クリーンセンター",
+  "coordinates": "[135.470551, 34.826942]",
+  "address": "大阪府箕面市",
+  "local_government": "箕面市(大阪府)",
+  "annual_throughput": 40310,
+  "remarks": "能力変更",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "島本町清掃工場",
+  "coordinates": "[135.662781, 34.883888]",
+  "address": "大阪府三島郡島本町",
+  "local_government": "島本町(大阪府)",
+  "annual_throughput": 6854,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "忠岡町クリーンセンター",
+  "coordinates": "[135.401382, 34.487171]",
+  "address": "大阪府泉北郡忠岡町",
+  "local_government": "忠岡町(大阪府)",
+  "annual_throughput": 4584,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "熊取町環境センター",
+  "coordinates": "[135.355988, 34.401459]",
+  "address": "大阪府熊取町",
+  "local_government": "熊取町(大阪府)",
+  "annual_throughput": 11254,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊中市伊丹市クリーンランドごみ焼却施設",
+  "coordinates": "[135.469757, 34.781288]",
+  "address": "大阪府豊中市",
+  "local_government": "豊中市伊丹市クリーンランド(大阪府)",
+  "annual_throughput": 150100,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "泉佐野市田尻町清掃施設組合第二事業所",
+  "coordinates": "[135.327362, 34.406837]",
+  "address": "大阪府泉佐野市",
+  "local_government": "泉佐野市田尻町清掃施設組合(大阪府)",
+  "annual_throughput": 48748,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岸和田市貝塚市クリーンセンター",
+  "coordinates": "[135.37088, 34.46059]",
+  "address": "大阪府岸和田市",
+  "local_government": "岸和田市貝塚市清掃施設組合(大阪府)",
+  "annual_throughput": 89791.97,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八尾工場",
+  "coordinates": "[135.60083, 34.626945]",
+  "address": "大阪府八尾市",
+  "local_government": "大阪広域環境施設組合(大阪府)",
+  "annual_throughput": 124346,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "舞洲工場",
+  "coordinates": "[135.233643, 34.339424]",
+  "address": "大阪府阪南市舞",
+  "local_government": "大阪広域環境施設組合(大阪府)",
+  "annual_throughput": 213281,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "港島クリーンセンター",
+  "coordinates": "[135.228668, 34.665691]",
+  "address": "兵庫県神戸市中央区港島",
+  "local_government": "神戸市(兵庫県)",
+  "annual_throughput": 134713.21,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "芦屋市環境処理センター",
+  "coordinates": "[135.304123, 34.726952]",
+  "address": "兵庫県芦屋市",
+  "local_government": "芦屋市(兵庫県)",
+  "annual_throughput": 27203,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "丹波市クリーンセンター",
+  "coordinates": "[135.035828, 35.177223]",
+  "address": "兵庫県丹波市",
+  "local_government": "丹波市(兵庫県)",
+  "annual_throughput": 12541,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "稲美町清掃センター",
+  "coordinates": "[134.912949, 34.74839]",
+  "address": "兵庫県稲美町",
+  "local_government": "稲美町(兵庫県)",
+  "annual_throughput": 8012,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "国崎クリーンセンター",
+  "coordinates": "[135.423233, 34.923374]",
+  "address": "兵庫県川西市国崎",
+  "local_government": "猪名川上流広域ごみ処理施設組合(兵庫県)",
+  "annual_throughput": 53042,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "奈良市環境清美工場ごみ焼却処理施設",
+  "coordinates": "[135.804718, 34.685001]",
+  "address": "奈良県奈良市",
+  "local_government": "奈良市(奈良県)",
+  "annual_throughput": 80567,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大和高田市クリーンセンター(一般炉)",
+  "coordinates": "[135.737381, 34.515751]",
+  "address": "奈良県大和高田市",
+  "local_government": "大和高田市(奈良県)",
+  "annual_throughput": 19525,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大和郡山市クリーンセンター・清掃センター",
+  "coordinates": "[135.782715, 34.649616]",
+  "address": "奈良県大和郡山市",
+  "local_government": "大和郡山市(奈良県)",
+  "annual_throughput": 28874,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "天理市環境クリーンセンター焼却施設",
+  "coordinates": "[135.837219, 34.596668]",
+  "address": "奈良県天理市",
+  "local_government": "天理市(奈良県)",
+  "annual_throughput": 26610,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "桜井市ごみ焼却炉棟",
+  "coordinates": "[135.842743, 34.518841]",
+  "address": "奈良県桜井市",
+  "local_government": "桜井市(奈良県)",
+  "annual_throughput": 17850,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "生駒市清掃センター",
+  "coordinates": "[135.700562, 34.691944]",
+  "address": "奈良県生駒市",
+  "local_government": "生駒市(奈良県)",
+  "annual_throughput": 29569,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "葛城市クリーンセンター",
+  "coordinates": "[135.726669, 34.489166]",
+  "address": "奈良県葛城市",
+  "local_government": "葛城市(奈良県)",
+  "annual_throughput": 11774,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇陀クリーンセンター",
+  "coordinates": "[135.952347, 34.528011]",
+  "address": "奈良県宇陀郡",
+  "local_government": "宇陀市(奈良県)",
+  "annual_throughput": 4470,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "平群町清掃センター",
+  "coordinates": "[135.700562, 34.629166]",
+  "address": "奈良県生駒郡平群町",
+  "local_government": "平群町(奈良県)",
+  "annual_throughput": 4657,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三郷町清掃センター",
+  "coordinates": "[135.695511, 34.600163]",
+  "address": "奈良県三郷町",
+  "local_government": "三郷町(奈良県)",
+  "annual_throughput": 5179,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "十津川村衛生センター",
+  "coordinates": "[135.792496, 33.988609]",
+  "address": "奈良県吉野郡十津川村",
+  "local_government": "十津川村(奈良県)",
+  "annual_throughput": 1038,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "田辺市ごみ処理場(焼却施設)",
+  "coordinates": "[135.377777, 33.728058]",
+  "address": "和歌山県田辺市",
+  "local_government": "田辺市(和歌山県)",
+  "annual_throughput": 26335,
+  "remarks": "能力変更",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新宮市クリーンセンター",
+  "coordinates": "[135.992538, 33.724136]",
+  "address": "和歌山県新宮市",
+  "local_government": "新宮市(和歌山県)",
+  "annual_throughput": 9342,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "すさみ町ゴミ焼却場",
+  "coordinates": "[135.496674, 33.550133]",
+  "address": "和歌山県すさみ町",
+  "local_government": "すさみ町(和歌山県)",
+  "annual_throughput": 1200,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "那智勝浦町清掃管理事務所(那智勝浦町クリーンセンター)",
+  "coordinates": "[135.941025, 33.62603]",
+  "address": "和歌山県東牟婁郡那智勝浦町",
+  "local_government": "那智勝浦町(和歌山県)",
+  "annual_throughput": 4891,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "御坊広域清掃センター",
+  "coordinates": "[135.152374, 33.891476]",
+  "address": "和歌山県御坊市",
+  "local_government": "御坊広域行政事務組合(和歌山県)",
+  "annual_throughput": 16617,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鳥取市神谷清掃工場",
+  "coordinates": "[134.222153, 35.494453]",
+  "address": "鳥取県鳥取市",
+  "local_government": "鳥取市(鳥取県)",
+  "annual_throughput": 54807,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "米子市クリーンセンター",
+  "coordinates": "[133.330948, 35.428158]",
+  "address": "鳥取県米子市",
+  "local_government": "米子市(鳥取県)",
+  "annual_throughput": 53411.2,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大山町名和クリーンセンター",
+  "coordinates": "[133.499359, 35.500259]",
+  "address": "鳥取県大山町名和",
+  "local_government": "大山町(鳥取県)",
+  "annual_throughput": 1541,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西ノ島町ごみ焼却施設「清美苑」",
+  "coordinates": "[133.013474, 36.091824]",
+  "address": "島根県隠岐郡西ノ島町",
+  "local_government": "西ノ島町(島根県)",
+  "annual_throughput": 1081,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "益田地区広域クリーンセンター",
+  "coordinates": "[131.842896, 34.67487]",
+  "address": "島根県益田市",
+  "local_government": "益田地区広域市町村圏事務組合(島根県)",
+  "annual_throughput": 16817,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡山市東部クリーンセンター",
+  "coordinates": "[134.029465, 34.651375]",
+  "address": "岡山県岡山市東区",
+  "local_government": "岡山市(岡山県)",
+  "annual_throughput": 104668.96,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡山市岡南環境センター",
+  "coordinates": "[133.919754, 34.655186]",
+  "address": "岡山県岡山市",
+  "local_government": "岡山市(岡山県)",
+  "annual_throughput": 50096,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡山市当新田環境センター",
+  "coordinates": "[133.919754, 34.655186]",
+  "address": "岡山県岡山市",
+  "local_government": "岡山市(岡山県)",
+  "annual_throughput": 50575.48,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "倉敷市水島清掃工場",
+  "coordinates": "[133.73378, 34.525703]",
+  "address": "岡山県倉敷市水島海岸通",
+  "local_government": "倉敷市(岡山県)",
+  "annual_throughput": 87905,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "玉野市東清掃センター",
+  "coordinates": "[133.93132, 34.551018]",
+  "address": "岡山県玉野市東七区",
+  "local_government": "玉野市(岡山県)",
+  "annual_throughput": 18279,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新見市クリーンセンター",
+  "coordinates": "[133.470352, 34.977039]",
+  "address": "岡山県新見市",
+  "local_government": "新見市(岡山県)",
+  "annual_throughput": 7717,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "赤磐市環境センター",
+  "coordinates": "[134.018799, 34.755386]",
+  "address": "岡山県赤磐市",
+  "local_government": "赤磐市(岡山県)",
+  "annual_throughput": 11468,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "美作クリーンセンター",
+  "coordinates": "[134.148605, 35.00861]",
+  "address": "岡山県美作市",
+  "local_government": "美作市(岡山県)",
+  "annual_throughput": 6634,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "柵原クリーンセンター",
+  "coordinates": "[134.063492, 34.957943]",
+  "address": "岡山県美咲町柵原",
+  "local_government": "美咲町(岡山県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡山県西部環境整備施設組合里庄清掃工場",
+  "coordinates": "[134.335693, 35.171764]",
+  "address": "岡山県西粟倉",
+  "local_government": "岡山県西部環境整備施設組合(岡山県)",
+  "annual_throughput": 22659,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "倉敷西部清掃施設組合清掃工場",
+  "coordinates": "[133.771942, 34.584999]",
+  "address": "岡山県倉敷市",
+  "local_government": "倉敷西部清掃施設組合(岡山県)",
+  "annual_throughput": 23738.56,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "岡山県中部環境施設組合コスモスクリーンセンターごみ処理施設",
+  "coordinates": "[133.935028, 34.661739]",
+  "address": "岡山県",
+  "local_government": "岡山県中部環境施設組合(岡山県)",
+  "annual_throughput": 4518,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高梁地域事務組合クリーンセンター",
+  "coordinates": "[133.616821, 34.790981]",
+  "address": "岡山県高梁市",
+  "local_government": "高梁地域事務組合(岡山県)",
+  "annual_throughput": 11598,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "津山圏域クリーンセンター",
+  "coordinates": "[134.004532, 35.069126]",
+  "address": "岡山県津山市",
+  "local_government": "津山圏域資源循環施設組合(岡山県)",
+  "annual_throughput": 36442,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "広島市中工場",
+  "coordinates": "[132.455017, 34.386288]",
+  "address": "広島県広島市中区",
+  "local_government": "広島市(広島県)",
+  "annual_throughput": 148621,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "広島市安佐北工場",
+  "coordinates": "[132.507782, 34.518333]",
+  "address": "広島県広島市安佐北区",
+  "local_government": "広島市(広島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "広島市南工場",
+  "coordinates": "[132.469009, 34.379898]",
+  "address": "広島県広島市南区",
+  "local_government": "広島市(広島県)",
+  "annual_throughput": 65665,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "安佐南工場焼却施設",
+  "coordinates": "[132.471664, 34.451942]",
+  "address": "広島県広島市安佐南区",
+  "local_government": "広島市(広島県)",
+  "annual_throughput": 71831,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三原市清掃工場",
+  "coordinates": "[133.07811, 34.397724]",
+  "address": "広島県三原市",
+  "local_government": "三原市(広島県)",
+  "annual_throughput": 30613,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "尾道市クリーンセンター",
+  "coordinates": "[133.205627, 34.409161]",
+  "address": "広島県尾道市",
+  "local_government": "尾道市(広島県)",
+  "annual_throughput": 35141,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "尾道市因瀬クリーンセンター",
+  "coordinates": "[133.192078, 34.296787]",
+  "address": "広島県尾道市因島三庄町",
+  "local_government": "尾道市(広島県)",
+  "annual_throughput": 7831,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福山市西部清掃工場",
+  "coordinates": "[133.357346, 34.484459]",
+  "address": "広島県福山市西桜町",
+  "local_government": "福山市(広島県)",
+  "annual_throughput": 31270,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福山市新市クリーンセンター",
+  "coordinates": "[133.246048, 34.622246]",
+  "address": "広島県福山市新市町",
+  "local_government": "福山市(広島県)",
+  "annual_throughput": 4951.61,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福山市深品クリーンセンター",
+  "coordinates": "[133.362503, 34.485832]",
+  "address": "広島県福山市",
+  "local_government": "福山市(広島県)",
+  "annual_throughput": 18541,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "庄原市備北クリーンセンター",
+  "coordinates": "[133.017242, 34.857742]",
+  "address": "広島県庄原市",
+  "local_government": "庄原市(広島県)",
+  "annual_throughput": 6033,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "庄原市備北クリーンセンター（新）",
+  "coordinates": "[133.017242, 34.857742]",
+  "address": "広島県庄原市",
+  "local_government": "庄原市(広島県)",
+  "annual_throughput": 0,
+  "remarks": "新設（建設中）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "廿日市市大野清掃センター",
+  "coordinates": "[132.201309, 34.302475]",
+  "address": "広島県廿日市市大野",
+  "local_government": "廿日市市(広島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "廿日市市佐伯クリーンセンター",
+  "coordinates": "[132.328247, 34.370068]",
+  "address": "広島県廿日市市佐方",
+  "local_government": "廿日市市(広島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "安芸クリーンセンター",
+  "coordinates": "[132.525558, 34.371666]",
+  "address": "広島県広島市安芸区",
+  "local_government": "安芸地区衛生施設管理組合(広島県)",
+  "annual_throughput": 31203,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "賀茂環境衛生センター(1、2号炉)",
+  "coordinates": "[132.976257, 34.570347]",
+  "address": "広島県世羅町賀茂",
+  "local_government": "広島中央環境衛生組合(広島県)",
+  "annual_throughput": 2920,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "賀茂環境衛生センター(3号炉)",
+  "coordinates": "[132.976257, 34.570347]",
+  "address": "広島県世羅町賀茂",
+  "local_government": "広島中央環境衛生組合(広島県)",
+  "annual_throughput": 15460,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大崎上島環境センター",
+  "coordinates": "[132.915283, 34.269722]",
+  "address": "広島県大崎上島",
+  "local_government": "広島中央環境衛生組合(広島県)",
+  "annual_throughput": 1872,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇部市環境保全センター(新焼却炉)",
+  "coordinates": "[131.247314, 33.951824]",
+  "address": "山口県宇部市",
+  "local_government": "宇部市(山口県)",
+  "annual_throughput": 48655,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "山口市清掃工場",
+  "coordinates": "[131.473892, 34.178333]",
+  "address": "山口県山口市",
+  "local_government": "山口市(山口県)",
+  "annual_throughput": 58667,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "見島ごみ焼却場",
+  "coordinates": "[131.140091, 34.778282]",
+  "address": "山口県萩市見島",
+  "local_government": "萩市(山口県)",
+  "annual_throughput": 189,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "防府市クリーンセンター可燃ごみ処理施設焼却施設",
+  "coordinates": "[131.562775, 34.051945]",
+  "address": "山口県防府市",
+  "local_government": "防府市(山口県)",
+  "annual_throughput": 31225,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "山陽小野田市環境衛生センター",
+  "coordinates": "[131.181808, 34.003166]",
+  "address": "山口県山陽小野田市",
+  "local_government": "山陽小野田市(山口県)",
+  "annual_throughput": 17882,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "周防大島町清掃センター",
+  "coordinates": "[132.195282, 33.927502]",
+  "address": "山口県周防大島町",
+  "local_government": "周防大島町(山口県)",
+  "annual_throughput": 3659,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "徳島市西部環境事務所",
+  "coordinates": "[134.545502, 34.057529]",
+  "address": "徳島県徳島市西二軒屋町",
+  "local_government": "徳島市(徳島県)",
+  "annual_throughput": 37090,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "徳島市東部環境事務所",
+  "coordinates": "[134.597244, 34.058296]",
+  "address": "徳島県徳島市東沖洲",
+  "local_government": "徳島市(徳島県)",
+  "annual_throughput": 36250,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鳴門市クリーンセンターごみ焼却場",
+  "coordinates": "[134.608871, 34.172535]",
+  "address": "徳島県鳴門市",
+  "local_government": "鳴門市(徳島県)",
+  "annual_throughput": 16497,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小松島市環境衛生センター",
+  "coordinates": "[134.590714, 34.004658]",
+  "address": "徳島県小松島市",
+  "local_government": "小松島市(徳島県)",
+  "annual_throughput": 11376,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "阿南市クリーンセンター",
+  "coordinates": "[134.659744, 33.922031]",
+  "address": "徳島県阿南市",
+  "local_government": "阿南市(徳島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "木屋平村ごみ焼却場",
+  "coordinates": "[134.174301, 33.921307]",
+  "address": "徳島県美馬市木屋平",
+  "local_government": "美馬市(徳島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三好市東祖谷一般廃棄物処理場",
+  "coordinates": "[133.936279, 33.873302]",
+  "address": "徳島県三好市東祖谷九鬼",
+  "local_government": "三好市(徳島県)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "那賀町清掃センター",
+  "coordinates": "[134.496643, 33.857437]",
+  "address": "徳島県那賀郡那賀町",
+  "local_government": "那賀町(徳島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "那賀町クリーンセンター",
+  "coordinates": "[134.496643, 33.857437]",
+  "address": "徳島県那賀郡那賀町",
+  "local_government": "那賀町(徳島県)",
+  "annual_throughput": 1607,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松茂町第二環境センター",
+  "coordinates": "[134.580612, 34.133774]",
+  "address": "徳島県松茂町",
+  "local_government": "松茂町(徳島県)",
+  "annual_throughput": 4894,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "藍住町西クリーンステーション",
+  "coordinates": "[134.495117, 34.126633]",
+  "address": "徳島県板野郡藍住町",
+  "local_government": "藍住町(徳島県)",
+  "annual_throughput": 7858,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "板野町環境センター",
+  "coordinates": "[134.462601, 34.144356]",
+  "address": "徳島県板野郡板野町",
+  "local_government": "板野町(徳島県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高松市南部クリーンセンター",
+  "coordinates": "[134.049316, 34.340336]",
+  "address": "香川県高松市南新町",
+  "local_government": "高松市(香川県)",
+  "annual_throughput": 55904,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高松市西部クリーンセンター",
+  "coordinates": "[134.047974, 34.349865]",
+  "address": "香川県高松市西の丸町",
+  "local_government": "高松市(香川県)",
+  "annual_throughput": 55660,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "直島町焼却施設",
+  "coordinates": "[133.995605, 34.459911]",
+  "address": "香川県香川郡直島町",
+  "local_government": "直島町(香川県)",
+  "annual_throughput": 1310,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "坂出、宇多津広域行政事務組合角山環境センター",
+  "coordinates": "[133.860504, 34.316692]",
+  "address": "香川県坂出市",
+  "local_government": "坂出、宇多津広域行政事務組合(香川県)",
+  "annual_throughput": 20602,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松山市南クリーンセンター",
+  "coordinates": "[132.703964, 33.827938]",
+  "address": "愛媛県松山市南吉田町",
+  "local_government": "松山市(愛媛県)",
+  "annual_throughput": 36876.58,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松山市北条クリーンセンター",
+  "coordinates": "[132.779617, 33.978985]",
+  "address": "愛媛県松山市北条",
+  "local_government": "松山市(愛媛県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松山市中島クリーンセンター",
+  "coordinates": "[132.63858, 34.001694]",
+  "address": "愛媛県松山市中島粟井",
+  "local_government": "松山市(愛媛県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "松山市西クリーンセンター",
+  "coordinates": "[132.772491, 33.846249]",
+  "address": "愛媛県松山市西一万町",
+  "local_government": "松山市(愛媛県)",
+  "annual_throughput": 88907.8,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "今治市クリーンセンター　可燃ごみ処理施設",
+  "coordinates": "[132.967163, 34.049244]",
+  "address": "愛媛県今治市クリエイティブヒルズ",
+  "local_government": "今治市(愛媛県)",
+  "annual_throughput": 48338,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新居浜市清掃センター",
+  "coordinates": "[133.311539, 33.961494]",
+  "address": "愛媛県新居浜市清住町",
+  "local_government": "新居浜市(愛媛県)",
+  "annual_throughput": 33957,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西条市道前クリーンセンター",
+  "coordinates": "[133.181122, 33.919495]",
+  "address": "愛媛県西条市",
+  "local_government": "西条市(愛媛県)",
+  "annual_throughput": 32141,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大洲市環境センター",
+  "coordinates": "[132.544495, 33.50618]",
+  "address": "愛媛県大洲市",
+  "local_government": "大洲市(愛媛県)",
+  "annual_throughput": 11918,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "四国中央市クリーンセンター",
+  "coordinates": "[133.549988, 33.980591]",
+  "address": "愛媛県四国中央市",
+  "local_government": "四国中央市(愛媛県)",
+  "annual_throughput": 30277,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "東温市クリーンセンター",
+  "coordinates": "[132.872269, 33.791031]",
+  "address": "愛媛県東温市",
+  "local_government": "東温市(愛媛県)",
+  "annual_throughput": 5192,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "魚島クリーンセンター",
+  "coordinates": "[133.320114, 34.177055]",
+  "address": "愛媛県上島町魚島",
+  "local_government": "上島町(愛媛県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "内子町クリーンセンター",
+  "coordinates": "[132.658127, 33.533039]",
+  "address": "愛媛県喜多郡内子町",
+  "local_government": "内子町(愛媛県)",
+  "annual_throughput": 3550,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊予地区清掃センター",
+  "coordinates": "[132.703842, 33.757866]",
+  "address": "愛媛県伊予郡",
+  "local_government": "伊予地区ごみ処理施設管理組合(愛媛県)",
+  "annual_throughput": 17126,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇和島地区広域事務組合　環境センター",
+  "coordinates": "[132.560608, 33.223282]",
+  "address": "愛媛県宇和島市",
+  "local_government": "宇和島地区広域事務組合(愛媛県)",
+  "annual_throughput": 31098,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "高知市清掃工場",
+  "coordinates": "[133.531097, 33.558723]",
+  "address": "高知県高知市",
+  "local_government": "高知市(高知県)",
+  "annual_throughput": 110480,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北九州市新門司工場",
+  "coordinates": "[130.875229, 33.883411]",
+  "address": "福岡県北九州市",
+  "local_government": "北九州市(福岡県)",
+  "annual_throughput": 138222,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北九州市日明工場",
+  "coordinates": "[130.875229, 33.883411]",
+  "address": "福岡県北九州市",
+  "local_government": "北九州市(福岡県)",
+  "annual_throughput": 105774,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北九州市皇后崎工場",
+  "coordinates": "[130.875229, 33.883411]",
+  "address": "福岡県北九州市",
+  "local_government": "北九州市(福岡県)",
+  "annual_throughput": 176455,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福岡市臨海工場",
+  "coordinates": "[130.401672, 33.59]",
+  "address": "福岡県福岡市",
+  "local_government": "福岡市(福岡県)",
+  "annual_throughput": 179078.49,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福岡市西部工場",
+  "coordinates": "[130.323059, 33.582779]",
+  "address": "福岡県福岡市西区",
+  "local_government": "福岡市(福岡県)",
+  "annual_throughput": 113305.84,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "福岡市玄界島焼却場",
+  "coordinates": "[130.401672, 33.59]",
+  "address": "福岡県福岡市",
+  "local_government": "福岡市(福岡県)",
+  "annual_throughput": 94.46,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久留米市上津クリーンセンター",
+  "coordinates": "[130.526886, 33.288002]",
+  "address": "福岡県久留米市上津",
+  "local_government": "久留米市(福岡県)",
+  "annual_throughput": 46469.38,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久留米市宮ノ陣クリーンセンター",
+  "coordinates": "[130.529633, 33.33009]",
+  "address": "福岡県久留米市宮ノ陣",
+  "local_government": "久留米市(福岡県)",
+  "annual_throughput": 32028.5,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "柳川市クリーンセンター",
+  "coordinates": "[130.406113, 33.163055]",
+  "address": "福岡県柳川市",
+  "local_government": "柳川市(福岡県)",
+  "annual_throughput": 14392,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大川市清掃センター",
+  "coordinates": "[130.383957, 33.206596]",
+  "address": "福岡県大川市",
+  "local_government": "大川市(福岡県)",
+  "annual_throughput": 9471,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "みやま市清掃センター",
+  "coordinates": "[130.474716, 33.1525]",
+  "address": "福岡県みやま市",
+  "local_government": "みやま市(福岡県)",
+  "annual_throughput": 3967,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "糸島市クリーンセンターごみ処理場",
+  "coordinates": "[130.195557, 33.55722]",
+  "address": "福岡県糸島市",
+  "local_government": "糸島市(福岡県)",
+  "annual_throughput": 31649,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "古賀清掃工場焼却施設",
+  "coordinates": "[130.683578, 33.86306]",
+  "address": "福岡県水巻町古賀",
+  "local_government": "玄界環境組合(福岡県)",
+  "annual_throughput": 53562,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八女西部クリーンセンター",
+  "coordinates": "[130.557785, 33.211945]",
+  "address": "福岡県八女郡",
+  "local_government": "八女西部広域事務組合(福岡県)",
+  "annual_throughput": 34704,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊前市外二町清掃センター",
+  "coordinates": "[131.12999, 33.611507]",
+  "address": "福岡県豊前市",
+  "local_government": "豊前市外二町清掃施設組合(福岡県)",
+  "annual_throughput": 13242,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "田川市川崎町清掃センター",
+  "coordinates": "[130.793777, 33.642696]",
+  "address": "福岡県田川市川宮",
+  "local_government": "田川地区清掃施設組合(福岡県)",
+  "annual_throughput": 19731,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大牟田・荒尾清掃施設組合新開クリーンセンター",
+  "coordinates": "[130.446106, 33.030277]",
+  "address": "福岡県大牟田市",
+  "local_government": "大牟田・荒尾清掃施設組合(福岡県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "飯塚市クリーンセンター清掃工場",
+  "coordinates": "[130.691254, 33.646446]",
+  "address": "福岡県飯塚市",
+  "local_government": "ふくおか県央環境広域施設組合(福岡県)",
+  "annual_throughput": 25387,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "嘉麻市嘉麻クリーンセンター",
+  "coordinates": "[130.700012, 33.541946]",
+  "address": "福岡県嘉麻市嘉穂才田",
+  "local_government": "ふくおか県央環境広域施設組合(福岡県)",
+  "annual_throughput": 5684,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "佐賀市清掃工場",
+  "coordinates": "[130.300888, 33.263512]",
+  "address": "佐賀県佐賀市",
+  "local_government": "佐賀市(佐賀県)",
+  "annual_throughput": 68550,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "唐津市清掃センター",
+  "coordinates": "[129.968201, 33.450092]",
+  "address": "佐賀県唐津市",
+  "local_government": "唐津市(佐賀県)",
+  "annual_throughput": 34035,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "佐世保市西部クリーンセンター",
+  "coordinates": "[129.710861, 33.176353]",
+  "address": "長崎県佐世保市西大久保町",
+  "local_government": "佐世保市(長崎県)",
+  "annual_throughput": 30235,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "諫早市環境センター",
+  "coordinates": "[130.053162, 32.84343]",
+  "address": "長崎県諫早市",
+  "local_government": "諫早市(長崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "諫早市環境センター(溶融施設)",
+  "coordinates": "[130.053162, 32.84343]",
+  "address": "長崎県諫早市",
+  "local_government": "諫早市(長崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大村市環境センター",
+  "coordinates": "[129.958328, 32.900002]",
+  "address": "長崎県大村市",
+  "local_government": "大村市(長崎県)",
+  "annual_throughput": 10852,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "対馬クリーンセンター",
+  "coordinates": "[129.287506, 34.202778]",
+  "address": "長崎県対馬支庁",
+  "local_government": "対馬市(長崎県)",
+  "annual_throughput": 11649,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "壱岐市クリーンセンター",
+  "coordinates": "[129.691345, 33.749958]",
+  "address": "長崎県壱岐市",
+  "local_government": "壱岐市(長崎県)",
+  "annual_throughput": 6979,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "五島市クリーンセンター",
+  "coordinates": "[128.840897, 32.695778]",
+  "address": "長崎県五島市",
+  "local_government": "五島市(長崎県)",
+  "annual_throughput": 11231,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "五島市福江清掃センター",
+  "coordinates": "[128.846939, 32.698601]",
+  "address": "長崎県五島市福江町",
+  "local_government": "五島市(長崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "五島市富江クリーンセンター",
+  "coordinates": "[128.773361, 32.589523]",
+  "address": "長崎県五島市富江町岳",
+  "local_government": "五島市(長崎県)",
+  "annual_throughput": 54,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "五島市三井楽清掃センター",
+  "coordinates": "[128.65271, 32.754772]",
+  "address": "長崎県五島市三井楽町丑ノ浦",
+  "local_government": "五島市(長崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "五島市奈留清掃センター",
+  "coordinates": "[128.937347, 32.836933]",
+  "address": "長崎県五島市奈留町浦",
+  "local_government": "五島市(長崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "西海市炭化センター",
+  "coordinates": "[129.643051, 32.933056]",
+  "address": "長崎県西海市",
+  "local_government": "西海市(長崎県)",
+  "annual_throughput": 6753,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南島原市南有馬クリーンセンター",
+  "coordinates": "[130.24205, 32.631485]",
+  "address": "長崎県南島原市南有馬町乙",
+  "local_government": "南島原市(長崎県)",
+  "annual_throughput": 11640,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小値賀町ごみ焼却場",
+  "coordinates": "[129.058899, 33.191029]",
+  "address": "長崎県小値賀町",
+  "local_government": "小値賀町(長崎県)",
+  "annual_throughput": 452,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "佐々クリーンセンター",
+  "coordinates": "[129.650558, 33.238335]",
+  "address": "長崎県佐々",
+  "local_government": "佐々町(長崎県)",
+  "annual_throughput": 4595,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "新上五島町クリーンセンター・ごみ焼却施設",
+  "coordinates": "[129.073334, 32.984444]",
+  "address": "長崎県新上五島町",
+  "local_government": "新上五島町(長崎県)",
+  "annual_throughput": 7360,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "八代市環境センター",
+  "coordinates": "[130.648941, 32.562752]",
+  "address": "熊本県八代市",
+  "local_government": "八代市(熊本県)",
+  "annual_throughput": 32952,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "山鹿市環境センター",
+  "coordinates": "[130.69136, 33.017574]",
+  "address": "熊本県山鹿市",
+  "local_government": "山鹿市(熊本県)",
+  "annual_throughput": 12572,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小峰クリーンセンター",
+  "coordinates": "[130.773392, 32.801529]",
+  "address": "熊本県熊本市東区小峯",
+  "local_government": "山都町(熊本県)",
+  "annual_throughput": 2930,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "菊池環境工場　クリーンの森合志",
+  "coordinates": "[130.813217, 32.979736]",
+  "address": "熊本県菊池郡",
+  "local_government": "菊池環境保全組合(熊本県)",
+  "annual_throughput": 43171,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "御船甲佐クリーンセンター",
+  "coordinates": "[130.801895, 32.714584]",
+  "address": "熊本県御船",
+  "local_government": "御船町甲佐町衛生施設組合(熊本県)",
+  "annual_throughput": 7181,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "益城クリーンセンター",
+  "coordinates": "[130.817017, 32.80061]",
+  "address": "熊本県益城",
+  "local_government": "益城、嘉島、西原環境衛生施設組合(熊本県)",
+  "annual_throughput": 14084,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "人吉球磨クリーンプラザ(焼却施設)",
+  "coordinates": "[130.760162, 32.205631]",
+  "address": "熊本県人吉市",
+  "local_government": "人吉球磨広域行政組合(熊本県)",
+  "annual_throughput": 20576,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "水俣芦北広域行政事務組合クリーンセンター",
+  "coordinates": "[130.408615, 32.211746]",
+  "address": "熊本県水俣市",
+  "local_government": "水俣芦北広域行政事務組合(熊本県)",
+  "annual_throughput": 7976,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇城クリーンセンターごみ処理施設",
+  "coordinates": "[130.684357, 32.647846]",
+  "address": "熊本県宇城市",
+  "local_government": "宇城広域連合(熊本県)",
+  "annual_throughput": 25829,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大分市福宗環境センター福宗清掃工場",
+  "coordinates": "[131.509216, 33.167061]",
+  "address": "大分県大分市福宗",
+  "local_government": "大分市(大分県)",
+  "annual_throughput": 89731,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "大分市佐野清掃センター清掃工場",
+  "coordinates": "[131.729553, 33.198582]",
+  "address": "大分県大分市佐野",
+  "local_government": "大分市(大分県)",
+  "annual_throughput": 81703,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "中津市クリーンプラザ",
+  "coordinates": "[131.188339, 33.598331]",
+  "address": "大分県中津市",
+  "local_government": "中津市(大分県)",
+  "annual_throughput": 25344,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日田市清掃センター",
+  "coordinates": "[130.941391, 33.32111]",
+  "address": "大分県日田市",
+  "local_government": "日田市(大分県)",
+  "annual_throughput": 16607.88,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "保戸島焼却場",
+  "coordinates": "[132.010986, 33.104336]",
+  "address": "大分県津久見市保戸島",
+  "local_government": "津久見市(大分県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊後高田市ごみ清掃工場",
+  "coordinates": "[131.447083, 33.556187]",
+  "address": "大分県豊後高田市",
+  "local_government": "豊後高田市(大分県)",
+  "annual_throughput": 6104,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宇佐市ごみ焼却センター",
+  "coordinates": "[131.350342, 33.532326]",
+  "address": "大分県宇佐市",
+  "local_government": "宇佐市(大分県)",
+  "annual_throughput": 15827,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "豊後大野市清掃センター",
+  "coordinates": "[131.50827, 32.954296]",
+  "address": "大分県豊後大野市清川町三玉",
+  "local_government": "豊後大野市(大分県)",
+  "annual_throughput": 10387,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "国東市クリーンセンター",
+  "coordinates": "[131.732269, 33.563328]",
+  "address": "大分県国東市",
+  "local_government": "国東市(大分県)",
+  "annual_throughput": 7364,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "姫島村清掃センター",
+  "coordinates": "[131.645157, 33.724514]",
+  "address": "大分県東国東郡姫島村",
+  "local_government": "姫島村(大分県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "姫島村清掃センター",
+  "coordinates": "[131.645157, 33.724514]",
+  "address": "大分県東国東郡姫島村",
+  "local_government": "姫島村(大分県)",
+  "annual_throughput": 491,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "玖珠清掃センター",
+  "coordinates": "[131.151382, 33.283333]",
+  "address": "大分県玖珠郡",
+  "local_government": "玖珠九重行政事務組合(大分県)",
+  "annual_throughput": 6543,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "都城市クリーンセンター",
+  "coordinates": "[131.061661, 31.719723]",
+  "address": "宮崎県都城市",
+  "local_government": "都城市(宮崎県)",
+  "annual_throughput": 64224,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "延岡市清掃工場",
+  "coordinates": "[131.66507, 32.582176]",
+  "address": "宮崎県延岡市",
+  "local_government": "延岡市(宮崎県)",
+  "annual_throughput": 42338,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日南市南郷清掃センター",
+  "coordinates": "[131.306686, 31.543034]",
+  "address": "宮崎県日南市南郷町榎原",
+  "local_government": "日南市(宮崎県)",
+  "annual_throughput": 0,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日南市クリーンセンター",
+  "coordinates": "[131.378738, 31.60195]",
+  "address": "宮崎県日南市",
+  "local_government": "日南市(宮崎県)",
+  "annual_throughput": 25759,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "小林市清掃工場",
+  "coordinates": "[130.973038, 31.996765]",
+  "address": "宮崎県小林市",
+  "local_government": "小林市(宮崎県)",
+  "annual_throughput": 0,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "えびの市美化センター",
+  "coordinates": "[130.811111, 32.045555]",
+  "address": "宮崎県えびの市",
+  "local_government": "えびの市(宮崎県)",
+  "annual_throughput": 7010,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "綾町資源活用クリーンセンター",
+  "coordinates": "[131.25293, 31.999063]",
+  "address": "宮崎県綾町",
+  "local_government": "綾町(宮崎県)",
+  "annual_throughput": 0,
+  "remarks": "廃止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鹿児島市南部清掃工場",
+  "coordinates": "[130.526581, 31.52244]",
+  "address": "鹿児島県鹿児島市南栄",
+  "local_government": "鹿児島市(鹿児島県)",
+  "annual_throughput": 31516,
+  "remarks": "休止",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鹿児島市北部清掃工場",
+  "coordinates": "[130.557022, 31.596861]",
+  "address": "鹿児島県鹿児島市",
+  "local_government": "鹿児島市(鹿児島県)",
+  "annual_throughput": 106626.91,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "鹿児島市南部清掃工場",
+  "coordinates": "[130.526581, 31.52244]",
+  "address": "鹿児島県鹿児島市南栄",
+  "local_government": "鹿児島市(鹿児島県)",
+  "annual_throughput": 32723,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "日置市クリーン・リサイクルセンター",
+  "coordinates": "[130.40239, 31.633722]",
+  "address": "鹿児島県日置市",
+  "local_government": "日置市(鹿児島県)",
+  "annual_throughput": 11863,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "曽於市クリーンセンター",
+  "coordinates": "[131.019165, 31.65361]",
+  "address": "鹿児島県曽於市",
+  "local_government": "曽於市(鹿児島県)",
+  "annual_throughput": 5883,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "霧島市敷根清掃センターごみ処理施設",
+  "coordinates": "[130.76329, 31.740877]",
+  "address": "鹿児島県霧島市",
+  "local_government": "霧島市(鹿児島県)",
+  "annual_throughput": 34094,
+  "remarks": "新設（建設中）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "三島村黒島大里地区焼却処理施設",
+  "coordinates": "[129.936325, 30.831541]",
+  "address": "鹿児島県三島村黒島",
+  "local_government": "三島村(鹿児島県)",
+  "annual_throughput": 18,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "さつま町クリーンセンター",
+  "coordinates": "[130.45578, 31.905766]",
+  "address": "鹿児島県さつま町",
+  "local_government": "さつま町(鹿児島県)",
+  "annual_throughput": 5420,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南種子町清掃センター",
+  "coordinates": "[130.90094, 30.413904]",
+  "address": "鹿児島県熊毛郡南種子町",
+  "local_government": "南種子町(鹿児島県)",
+  "annual_throughput": 1089,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "屋久島クリーンサポートセンター",
+  "coordinates": "[130.651108, 30.390165]",
+  "address": "鹿児島県屋久島",
+  "local_government": "屋久島町(鹿児島県)",
+  "annual_throughput": 2214,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "喜界町クリーンセンター",
+  "coordinates": "[129.940002, 28.316944]",
+  "address": "鹿児島県喜界町",
+  "local_government": "喜界町(鹿児島県)",
+  "annual_throughput": 2500,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "与論ｸﾘｰﾝｾﾝﾀｰ美ら島",
+  "coordinates": "[128.421631, 27.044947]",
+  "address": "鹿児島県大島郡与論町",
+  "local_government": "与論町(鹿児島県)",
+  "annual_throughput": 1969,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "指宿広域クリーンセンター",
+  "coordinates": "[130.633057, 31.252777]",
+  "address": "鹿児島県指宿市",
+  "local_government": "指宿広域市町村圏組合(鹿児島県)",
+  "annual_throughput": 13953,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名瀬クリーンセンタ-",
+  "coordinates": "[129.4832, 28.330383]",
+  "address": "鹿児島県奄美市名瀬",
+  "local_government": "大島地区衛生組合(鹿児島県)",
+  "annual_throughput": 19369,
+  "industrial_waste": "有り"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "徳之島愛ランドクリーンセンター",
+  "coordinates": "[129.018616, 27.726667]",
+  "address": "鹿児島県大島郡徳之島町",
+  "local_government": "徳之島愛ランド広域連合(鹿児島県)",
+  "annual_throughput": 5965,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "石垣市クリーンセンター",
+  "coordinates": "[124.185249, 24.344419]",
+  "address": "沖縄県石垣市",
+  "local_government": "石垣市(沖縄県)",
+  "annual_throughput": 15458,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "浦添市クリーンセンター",
+  "coordinates": "[127.72184, 26.245716]",
+  "address": "沖縄県浦添市",
+  "local_government": "浦添市(沖縄県)",
+  "annual_throughput": 30919,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "名護市環境センター",
+  "coordinates": "[127.977501, 26.591667]",
+  "address": "沖縄県名護市",
+  "local_government": "名護市(沖縄県)",
+  "annual_throughput": 15904,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "宮古島市クリーンセンター（焼却棟）",
+  "coordinates": "[125.294754, 24.78997]",
+  "address": "沖縄県宮古島市",
+  "local_government": "宮古島市(沖縄県)",
+  "annual_throughput": 17286,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊江村E＆Cセンター",
+  "coordinates": "[127.807076, 26.713442]",
+  "address": "沖縄県伊江村",
+  "local_government": "伊江村(沖縄県)",
+  "annual_throughput": 1376,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "渡嘉敷村クリーンセンター",
+  "coordinates": "[127.364365, 26.197502]",
+  "address": "沖縄県渡嘉敷村",
+  "local_government": "渡嘉敷村(沖縄県)",
+  "annual_throughput": 292,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "南大東村クリーンセンター",
+  "coordinates": "[131.232101, 25.828751]",
+  "address": "沖縄県島尻郡南大東村",
+  "local_government": "南大東村(沖縄県)",
+  "annual_throughput": 410,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "北大東村ごみ処理施設",
+  "coordinates": "[131.299042, 25.945831]",
+  "address": "沖縄県島尻郡北大東村",
+  "local_government": "北大東村(沖縄県)",
+  "annual_throughput": 104,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊平屋村クリーンセンター",
+  "coordinates": "[127.968666, 27.039186]",
+  "address": "沖縄県伊平屋村",
+  "local_government": "伊平屋村(沖縄県)",
+  "annual_throughput": 351,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "伊是名村ごみ処理施設",
+  "coordinates": "[127.941208, 26.928347]",
+  "address": "沖縄県伊是名村",
+  "local_government": "伊是名村(沖縄県)",
+  "annual_throughput": 323,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "久米島ニュークリーンセンター",
+  "coordinates": "[126.804947, 26.340694]",
+  "address": "沖縄県久米島",
+  "local_government": "久米島町(沖縄県)",
+  "annual_throughput": 2771,
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "与那国町ごみ焼却施設",
+  "coordinates": "[123.004601, 24.468012]",
+  "address": "沖縄県八重山郡与那国町",
+  "local_government": "与那国町(沖縄県)",
+  "annual_throughput": 472.8,
+  "remarks": "新設（新規稼働）",
+  "industrial_waste": "無し"
+ },
+ {
+  "factory_type": "incineration_facility",
+  "name": "那覇・南風原クリーンセンター",
+  "coordinates": "[127.679108, 26.212374]",
+  "address": "沖縄県那覇市",
+  "local_government": "那覇市・南風原町環境施設組合(沖縄県)",
+  "annual_throughput": 90922.06,
+  "industrial_waste": "無し"
+ }
+]
