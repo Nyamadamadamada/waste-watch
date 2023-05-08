@@ -1,15 +1,11 @@
 import requests
-import csv
 
-prefectural_capital_file = "./data/prefectural_capital.csv"
-
-
-def get_coordinate(facility_name, prefecture):
+def get_coordinate(place_name, prefecture= ""):
     """
     国土地理院APIを使用して、住所から緯度経度を取得する関数。
     """
     url = "https://msearch.gsi.go.jp/address-search/AddressSearch"
-    params = {"q": facility_name}
+    params = {"q": place_name}
     r = requests.get(url, params=params)
     data = r.json()
     if "error" in data:
@@ -17,15 +13,29 @@ def get_coordinate(facility_name, prefecture):
         return None, None
     if not data:
         return None, None
-
     else:
+        # レスポンスと施設名が一致する緯度経度を返す
+        for row in data:
+            if row["properties"]["title"].startswith(place_name):
+                coordinate = row["geometry"]["coordinates"]
+                title = row["properties"]["title"]
+                return coordinate, title
+        # レスポンス値と都道府県が一致する緯度経度を返す
         for row in data:
             if row["properties"]["title"].startswith(prefecture):
                 coordinates = row["geometry"]["coordinates"]
-                address = row["properties"]["title"]
-                return coordinates, address
-            else:
-                return None, None
+                title = row["properties"]["title"]
+                return coordinates, title
+        # 見つからない場合
+        return None, None
+
+        
+# coordinates1,title1 = get_coordinate("東京タワー")
+# coordinates2,title2 = get_coordinate("町田リス園", "東京都")
+# print("有名施設：東京タワー",coordinates1,title1)
+# print("あまり有名でない施設：町田リス園",coordinates2,title2)
+
+
 
 
 def find_prefectural_capital(prefecture):
