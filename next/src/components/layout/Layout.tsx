@@ -56,7 +56,7 @@ const Layout = ({ children }: PropsWithChildren) => {
   const [factory, setFactory] = useState<FactoryStruct>({
     factoryType: "",
     name: "",
-    address: "",
+    title: "",
     coordinates: { lat: 0, lng: 0 },
     local_government: "",
     annual_throughput: "",

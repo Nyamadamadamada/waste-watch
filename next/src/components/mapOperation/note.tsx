@@ -1,4 +1,4 @@
-import { NoteTextStruct } from "./type";
+import { NoteTextStruct } from "../note/type";
 
 type Props = {
   note: NoteTextStruct;
