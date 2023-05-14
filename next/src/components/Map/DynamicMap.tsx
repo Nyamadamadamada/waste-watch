@@ -1,4 +1,11 @@
-import { MapContainer, GeoJSON, TileLayer, Marker, Popup } from "react-leaflet";
+import {
+  MapContainer,
+  GeoJSON,
+  TileLayer,
+  Marker,
+  Popup,
+  LayersControl,
+} from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { useContext, useEffect } from "react";
 
@@ -69,7 +76,6 @@ const DynamicMap = ({ features, factories }: Props) => {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
         />
-        {operation && <Legend legend={legendList[operation]} />}
         {features && operation === "total" && (
           <GeoJSON
             data={features}
@@ -91,7 +97,12 @@ const DynamicMap = ({ features, factories }: Props) => {
             onEachFeature={onEachFeatureDay}
           />
         )}
-        <MapLayersControl factories={factories} />
+        {operation && operation !== "facility" && (
+          <Legend legend={legendList[operation]} />
+        )}
+        {/* {features && operation === "facility" && (
+          <MapLayersControl factories={factories} />
+        )} */}
       </MapContainer>
     </div>
   );

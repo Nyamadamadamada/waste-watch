@@ -2,7 +2,8 @@ import csv
 from get_coordinate import get_coordinate
 
 # 入力ファイル名
-input_file = "./data/bulky_waste.csv"
+input_file = "./data/test.csv"
+
 
 # 出力ファイル名
 output_file = "./output/output.csv"
@@ -24,17 +25,16 @@ def process_csv(input_file, output_file):
                     "factory_type",
                     "name",
                     "coordinates",
-                    "address",
                     "local_government",
                     "annual_throughput",
-                    "remarks",
-                    "industrial_waste",
                     "resource_recovery",
                     "waste_for_processing",
                     "processing_method",
                     "facility_changes",
-                    "industrial_waste_transport",
+                    "industrial_waste",
+                    "remarks",
                     "reuse_and_repair_features",
+                    "title",
                 ]
             )
             writer_error = csv.writer(errorfile)
@@ -47,7 +47,7 @@ def process_csv(input_file, output_file):
             # 産業廃棄物の搬入の有無: Industrial waste transport
             # リユース・リペア機能・内容: Reuse and repair features/content
             for row in reader:
-                coordinates, address = get_coordinate(row[2], row[0])
+                coordinates, title = get_coordinate(row[2], row[0])
                 if not coordinates:
                     writer_error.writerow([row[2]])
                 else:
@@ -65,16 +65,16 @@ def process_csv(input_file, output_file):
                             "bulky_waste",
                             row[2],
                             coordinates,
-                            address,
                             local_government,
                             annual_throughput,
-                            remarks,
-                            industrial_waste,
                             resource_recovery,
                             waste_for_processing,
                             processing_method,
                             facility_changes,
+                            industrial_waste,
+                            remarks,
                             reuse_and_repair_features,
+                            title,
                         ]
                     )
     return "CSVファイルの処理が完了しました。"

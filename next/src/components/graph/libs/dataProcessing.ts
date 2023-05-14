@@ -1,6 +1,7 @@
 import TotalIncomingAmountJson from "@/assets/data/total_incoming_amount.json";
 import HouseholdClassificationJson from "@/assets/data/household_classification.json";
 import BusinessClassificationJson from "@/assets/data/business_classification.json";
+import DeviationValueJson from "@/assets/data/deviation_value.json";
 
 export const getTotalIncomingAmount = (
   key: number
@@ -97,4 +98,24 @@ export const getBusinessClassification = (
     value: businessClassification.data["burnable_garbage"],
   });
   return { name: businessClassification.data.name, data: data };
+};
+
+export const getWasteDetail = (key: number): WasteDetail => {
+  const wasteData = DeviationValueJson.find((data) => data.key === key);
+  if (typeof wasteData === "undefined") {
+    return {
+      dailyText: "",
+      businessText: "",
+      rank_total: 0,
+      rank_day: 0,
+      rank_recycling: 0,
+    };
+  }
+  return {
+    dailyText: wasteData.data.dailyText,
+    businessText: wasteData.data.businessText,
+    rank_total: wasteData.data.rank_total,
+    rank_day: wasteData.data.rank_day,
+    rank_recycling: wasteData.data.rank_recycling,
+  };
 };

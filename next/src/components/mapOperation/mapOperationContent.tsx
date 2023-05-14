@@ -21,11 +21,11 @@ const mapOperation: OperationStruct[] = [
     name: "リサイクル率",
     description: "様々な要因があります",
   },
-  {
-    key: "facility",
-    name: "施設整備",
-    description: "廃棄物処理施設の場所と情報",
-  },
+  // {
+  //   key: "facility",
+  //   name: "処理施設",
+  //   description: "廃棄物処理施設の場所と情報",
+  // },
 ];
 
 const MapOperationContent = () => {

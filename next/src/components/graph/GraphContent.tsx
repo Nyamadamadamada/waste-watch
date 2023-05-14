@@ -7,14 +7,14 @@ import TotalIncomingGraph from "./TotalIncomingGraph";
 import classNames from "classnames";
 import CategoricalGraph from "./CategoricalGraph";
 
-import TextGraph from "./TestGraph";
 import { PrefContext } from "../layout/Layout";
-import useClassificationData from "./hooks/useClassificationData";
+import useGraphData from "./hooks/useGraphData";
+import WasteDetail from "./WasteDetail";
 
 const GraphContent = () => {
   const [open, setOpen] = useState<boolean>(false);
-  const { name, totalData, householdData, businessData } =
-    useClassificationData();
+  const { name, totalData, householdData, businessData, wasteDate } =
+    useGraphData();
 
   const handleClick = () => {
     setOpen(false);
@@ -30,26 +30,34 @@ const GraphContent = () => {
 
   return (
     <div className="relative py-8 px-4 text-gray-700 h-[calc(100vh-134px)]">
-      {open ? (
-        <AttachedModal handleClick={handleClick}>
-          <Slide
-            slideItems={[
-              <TotalIncomingGraph key={1} name={name} data={totalData} />,
-              <CategoricalGraph
-                key={2}
-                garbageClass={"生活系"}
-                prefectures={name}
-                data={householdData}
-              />,
-              <CategoricalGraph
-                key={3}
-                garbageClass={"事業系"}
-                prefectures={name}
-                data={businessData}
-              />,
-            ]}
-          />
-        </AttachedModal>
+      {name ? (
+        <div>
+          <h4 className="pb-4 border-b border-gray-400 text-gray-700">
+            {name}の廃棄物について
+          </h4>
+          <WasteDetail wasteDate={wasteDate} />
+          {open && (
+            <AttachedModal handleClick={handleClick}>
+              <Slide
+                slideItems={[
+                  <TotalIncomingGraph key={1} name={name} data={totalData} />,
+                  <CategoricalGraph
+                    key={2}
+                    garbageClass={"生活系"}
+                    prefectures={name}
+                    data={householdData}
+                  />,
+                  <CategoricalGraph
+                    key={3}
+                    garbageClass={"事業系"}
+                    prefectures={name}
+                    data={businessData}
+                  />,
+                ]}
+              />
+            </AttachedModal>
+          )}
+        </div>
       ) : (
         <p className="mt-20 px-auto">都道府県をクリックしてください。</p>
       )}

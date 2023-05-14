@@ -38,6 +38,9 @@ const MapLayersControl = ({ factories }: Props) => {
   };
   return (
     <LayersControl position="topright" collapsed={false}>
+      <LayersControl.BaseLayer checked name="処理施設の種別">
+        <TileLayer url="" />
+      </LayersControl.BaseLayer>
       <LayersControl.Overlay checked name="焼却施設">
         <FeatureGroup pathOptions={{ color: "purple" }}>
           {factories.incinerationFacility.map((factory, index) => {

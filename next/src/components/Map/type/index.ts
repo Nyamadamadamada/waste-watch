@@ -14,28 +14,19 @@ export type LegendDictionaryStruct = {
 
 export type FactoryType = "incinerationFacility" | "bulkyWaste";
 
-export type FactoryTypeList = [
-  {
-    key: "incinerationFacility";
-    name: "焼却施設";
-  },
-  {
-    key: "bulkyWaste";
-    name: "粗大ゴミ処理施設";
-  }
-];
-
 export type Factories = { [key in FactoryType]: FactoryStruct[] };
+
+export type FactoryTypeList = { key: FactoryType; name: string }[];
 
 export type FactoryStruct = {
   factoryType: FactoryType | "";
   name: string;
-  address: string;
   coordinates: LatLngExpression;
   local_government: string;
   annual_throughput: string;
   industrial_waste: string;
   remarks: string;
+  title: string;
   resource_recovery?: string;
   waste_for_processing?: string;
   processing_method?: string;

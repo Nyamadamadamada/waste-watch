@@ -20,14 +20,16 @@ const Note = ({ note }: Props) => {
         />
       )}
       {note.link && (
-        <a
-          href={note.link.url}
-          className="font-medium mt-5 text-blue-600 dark:text-blue-500 hover:underline"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {note.link.name}
-        </a>
+        <div className="my-4">
+          <a
+            href={note.link.url}
+            className="font-medium  text-blue-600 dark:text-blue-500 hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {note.link.name}
+          </a>
+        </div>
       )}
     </div>
   );

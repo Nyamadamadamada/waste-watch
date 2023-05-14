@@ -1,5 +1,5 @@
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from "recharts";
-import Note from "./note";
+import Description from "./Description";
 import Image from "next/image";
 import AttachedModal from "@/components/attachedModal";
 import { useState } from "react";
@@ -9,17 +9,68 @@ import cn from "classnames";
 const noteText: NoteTextStruct[] = [
   {
     id: 1,
+    title: "ごみの区分",
+    description: (
+      <div>
+        収集区分は、次のものをいいます。
+        <table className="my-8">
+          <tr>
+            <th className="whitespace-nowrap p-2">可燃ごみ</th>
+            <td className="break-words px-4 py-2 ">
+              焼却施設にて中間処理することを主に目的として収集されるもの
+            </td>
+          </tr>
+          <tr>
+            <th className="whitespace-nowrap p-2">不燃ごみ</th>
+            <td className="break-words px-4 py-2 ">
+              焼却施設以外の中間処理施設にて処理する、または最終処分することを目的として収集されるもの
+            </td>
+          </tr>
+          <tr>
+            <th className="whitespace-nowrap p-2">資源ごみ</th>
+            <td className="break-words px-4 py-2 ">
+              再資源化することを目的とし収集されるもの
+            </td>
+          </tr>
+          <tr>
+            <th className="whitespace-nowrap p-2">粗大ごみ</th>
+            <td className="break-words px-4 py-2 ">
+              比較的大きなものとして上記とは別に収集されるもの
+            </td>
+          </tr>
+          <tr>
+            <th className="whitespace-nowrap p-2">その他のごみ</th>
+            <td className="break-words px-4 py-2 ">
+              有害ごみや危険ごみ等で収集されるもの
+            </td>
+          </tr>
+          <tr>
+            <th className="whitespace-nowrap p-2">混合ごみ</th>
+            <td className="break-words px-4 py-2 ">
+              可燃または不燃を問わずに収集されるもの
+            </td>
+          </tr>
+        </table>
+      </div>
+    ),
+    link: {
+      name: "日本の廃棄物処理に関する基本的な用語",
+      url: "https://www.env.go.jp/recycle/waste_tech/ippan/glossary.pdf",
+    },
+  },
+  {
+    id: 2,
     title: "リサイクル率",
     description: "1年間のごみの排出総量に対し、資源化した量の割合のことです。",
   },
   {
-    id: 2,
+    id: 3,
     title: "事業系ごみとは",
     description:
       "会社やお店などから出る事業活動に伴って生じた廃棄物ごみを事業系ごみと言います。事業系ごみは、「事業系一般廃棄物」と「産業廃棄物」があり、「事業系一般廃棄物」は認可された廃棄物回収業者に収集してもらいます。",
   },
   {
-    id: 3,
+    id: 4,
     title: "環境ラベル",
     description:
       "環境ラベルとは、商品やサービスがどのように環境負荷低減に資するかを教えてくれるマークや目じるしのことです。製品や包装などについており、環境負荷低減に資するモノやサービスを買いたいときに、参考になるマークです。",
@@ -30,7 +81,7 @@ const noteText: NoteTextStruct[] = [
     },
   },
   {
-    id: 4,
+    id: 5,
     title: "3R(スリーアール)",
     description:
       "Reduce, Reuse, Recycleの略で、廃棄物の削減、再利用、リサイクルを総合的に行うことを目的とした用語。Reduce ゴミを出さないことが最も重要度が高いとされています。",
@@ -41,7 +92,7 @@ const noteText: NoteTextStruct[] = [
     },
   },
   {
-    id: 5,
+    id: 6,
     title: "資源化量（ｔ）",
     description: "資源化量＝直接資源化量+中間処理後再生利用量+集団回収量",
     link: {
@@ -117,7 +168,7 @@ const NoteContent = () => {
       </div>
       {open && (
         <AttachedModal handleClick={handleClickClose}>
-          <Note note={activeNoteText()} />
+          <Description note={activeNoteText()} />
         </AttachedModal>
       )}
     </div>

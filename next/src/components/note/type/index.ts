@@ -1,7 +1,9 @@
+import { ReactNode } from "react";
+
 export type NoteTextStruct = {
   id: number;
   title: string;
-  description: string;
+  description: string | ReactNode;
   image?: string;
   link?: {
     name: string;

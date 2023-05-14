@@ -13,7 +13,7 @@ export const getMapFeatures = () => {
 export const getIncinerationFactories = (): FactoryStruct[] => {
   const factoryFilePath = path.join(
     process.cwd(),
-    "/data/incineration_facility.json"
+    "/data/map/incineration_facility.json"
   );
   const fileData = fs.readFileSync(factoryFilePath, "utf8");
   const jsonData = JSON.parse(fileData);
@@ -22,7 +22,7 @@ export const getIncinerationFactories = (): FactoryStruct[] => {
       factoryType: item.factory_type,
       name: item.name,
       coordinates: [item.coordinates[1], item.coordinates[0]], // 緯度・軽度の順番
-      address: item.address,
+      title: item.title,
       local_government: item.local_government,
       annual_throughput: item.annual_throughput ?? "",
       industrial_waste: item.industrial_waste ?? "",
@@ -40,7 +40,10 @@ export const getIncinerationFactories = (): FactoryStruct[] => {
 
 // 粗大ゴミ施設
 export const getBulkyWasteFactories = (): FactoryStruct[] => {
-  const factoryFilePath = path.join(process.cwd(), "/data/bulky_waste.json");
+  const factoryFilePath = path.join(
+    process.cwd(),
+    "/data/map/bulky_waste.json"
+  );
   const fileData = fs.readFileSync(factoryFilePath, "utf8");
   const jsonData = JSON.parse(fileData);
   const factories: FactoryStruct[] = jsonData.map((item: any) => {
@@ -48,7 +51,7 @@ export const getBulkyWasteFactories = (): FactoryStruct[] => {
       factoryType: "bulky_waste",
       name: item.name,
       coordinates: [item.coordinates[1], item.coordinates[0]],
-      address: item.address,
+      title: item.title,
       local_government: item.local_government,
       annual_throughput: item.annual_throughput ?? "",
       industrial_waste: item.industrial_waste ?? "",

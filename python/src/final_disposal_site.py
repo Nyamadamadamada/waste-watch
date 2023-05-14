@@ -2,7 +2,7 @@ import csv
 from get_coordinate import get_coordinate
 
 # 入力ファイル名
-input_file = "./data/incineration.csv"
+input_file = "./data/test.csv"
 # input_file = "./data/input1.csv"
 
 # 出力ファイル名
@@ -21,19 +21,19 @@ def process_csv(input_file, output_file):
             writer = csv.writer(outputcsv)
             writer.writerow(
                 [
-                    "factory_type",
                     "name",
                     "coordinates",
                     "local_government",
-                    "annual_throughput",
-                    "remarks",
-                    "industrial_waste",
+                    "fill_rate",  # 埋め立て済み割合
+                    "landfill_site",  # 埋立場所
+                    "waste_type",  # 処理対象廃棄物
+                    "total_volume",  # 全体容積(m3)
+                    "facility_status",  # 処分場の現状
                     "title",
                 ]
             )
             writer_error = csv.writer(errorfile)
 
-            # 都道府県名,地方公共団体名,施設名称,年間処理量,施設の改廃,産業廃棄物の搬入の有無
             for row in reader:
                 coordinates, title = get_coordinate(row[2], row[0])
                 if not coordinates:
@@ -41,18 +41,21 @@ def process_csv(input_file, output_file):
                     writer_error.writerow([row[2]])
                 else:
                     local_government = row[1] + "(" + row[0] + ")"
-                    annual_throughput = row[3]
-                    remarks = row[4]
-                    industrial_waste = row[5]
+                    fill_rate = row[3]
+                    landfill_site = row[4]
+                    waste_type = row[5]
+                    total_volume = row[6]
+                    facility_status = row[7]
                     writer.writerow(
                         [
-                            "incineration_facility",
                             row[2],
                             coordinates,
                             local_government,
-                            annual_throughput,
-                            remarks,
-                            industrial_waste,
+                            fill_rate,  # 埋め立て済み割合
+                            landfill_site,  # 埋立場所
+                            waste_type,  # 処理対象廃棄物
+                            total_volume,  # 全体容積(m3)
+                            facility_status,  # 処分場の現状
                             title,
                         ]
                     )

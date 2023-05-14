@@ -23,4 +23,12 @@ type TotalIncomingAmount = {
   };
 };
 
+type WasteDetail = {
+  dailyText: string;
+  businessText: string;
+  rank_total: number;
+  rank_day: number;
+  rank_recycling: number;
+};
+
 type GarbageClass = "生活系" | "事業系";

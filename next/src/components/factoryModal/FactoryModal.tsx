@@ -14,7 +14,6 @@ const FactoryModal = () => {
   }, [factory, setModalOpen]);
 
   const handleModalClose = () => {
-    console.log("くり");
     setModalOpen(false);
   };
 
@@ -23,9 +22,9 @@ const FactoryModal = () => {
       className={cn(modalOpen ? styles.overlay : "")}
       onClick={handleModalClose}
     >
-      <dialog
-        open={modalOpen}
+      <div
         className={cn(modalOpen ? styles.open : styles.factory)}
+        onClick={(e) => e.stopPropagation()}
       >
         <div className="m-6 bg-white text-gray-700">
           <div className="relative overflow-x-auto mx-4">
@@ -49,15 +48,6 @@ const FactoryModal = () => {
                     地方公共団体名
                   </th>
                   <td className="p-4">{factory.local_government}</td>
-                </tr>
-                <tr className="border-b">
-                  <th
-                    scope="row"
-                    className="p-4 font-medium  whitespace-nowrap"
-                  >
-                    住所
-                  </th>
-                  <td className="p-4">{factory.address}</td>
                 </tr>
                 <tr className="border-b">
                   <th
@@ -105,7 +95,7 @@ const FactoryModal = () => {
             height={20}
           />
         </div>
-      </dialog>
+      </div>
     </div>
   );
 };

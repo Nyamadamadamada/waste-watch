@@ -1,0 +1,284 @@
+[
+  {
+    "name": "北海道",
+    "totalRank": 8,
+    "dailyRank": 17,
+    "recyclingRank": 7
+  },
+  {
+    "name": "青森県",
+    "totalRank": 28,
+    "dailyRank": 5,
+    "recyclingRank": 42
+  },
+  {
+    "name": "岩手県",
+    "totalRank": 32,
+    "dailyRank": 28,
+    "recyclingRank": 25
+  },
+  {
+    "name": "宮城県",
+    "totalRank": 14,
+    "dailyRank": 9,
+    "recyclingRank": 36
+  },
+  {
+    "name": "秋田県",
+    "totalRank": 38,
+    "dailyRank": 7,
+    "recyclingRank": 39
+  },
+  {
+    "name": "山形県",
+    "totalRank": 37,
+    "dailyRank": 30,
+    "recyclingRank": 45
+  },
+  {
+    "name": "福島県",
+    "totalRank": 16,
+    "dailyRank": 2,
+    "recyclingRank": 46
+  },
+  {
+    "name": "茨城県",
+    "totalRank": 11,
+    "dailyRank": 12,
+    "recyclingRank": 17
+  },
+  {
+    "name": "栃木県",
+    "totalRank": 18,
+    "dailyRank": 24,
+    "recyclingRank": 34
+  },
+  {
+    "name": "群馬県",
+    "totalRank": 17,
+    "dailyRank": 6,
+    "recyclingRank": 40
+  },
+  {
+    "name": "埼玉県",
+    "totalRank": 5,
+    "dailyRank": 40,
+    "recyclingRank": 5
+  },
+  {
+    "name": "千葉県",
+    "totalRank": 6,
+    "dailyRank": 32,
+    "recyclingRank": 10
+  },
+  {
+    "name": "東京都",
+    "totalRank": 1,
+    "dailyRank": 43,
+    "recyclingRank": 6
+  },
+  {
+    "name": "神奈川県",
+    "totalRank": 3,
+    "dailyRank": 44,
+    "recyclingRank": 3
+  },
+  {
+    "name": "新潟県",
+    "totalRank": 13,
+    "dailyRank": 3,
+    "recyclingRank": 11
+  },
+  {
+    "name": "富山県",
+    "totalRank": 33,
+    "dailyRank": 1,
+    "recyclingRank": 8
+  },
+  {
+    "name": "石川県",
+    "totalRank": 36,
+    "dailyRank": 27,
+    "recyclingRank": 38
+  },
+  {
+    "name": "福井県",
+    "totalRank": 42,
+    "dailyRank": 22,
+    "recyclingRank": 43
+  },
+  {
+    "name": "山梨県",
+    "totalRank": 41,
+    "dailyRank": 11,
+    "recyclingRank": 26
+  },
+  {
+    "name": "長野県",
+    "totalRank": 22,
+    "dailyRank": 46,
+    "recyclingRank": 14
+  },
+  {
+    "name": "岐阜県",
+    "totalRank": 20,
+    "dailyRank": 38,
+    "recyclingRank": 31
+  },
+  {
+    "name": "静岡県",
+    "totalRank": 10,
+    "dailyRank": 41,
+    "recyclingRank": 23
+  },
+  {
+    "name": "愛知県",
+    "totalRank": 4,
+    "dailyRank": 31,
+    "recyclingRank": 9
+  },
+  {
+    "name": "三重県",
+    "totalRank": 21,
+    "dailyRank": 18,
+    "recyclingRank": 18
+  },
+  {
+    "name": "滋賀県",
+    "totalRank": 31,
+    "dailyRank": 45,
+    "recyclingRank": 24
+  },
+  {
+    "name": "京都府",
+    "totalRank": 15,
+    "dailyRank": 47,
+    "recyclingRank": 41
+  },
+  {
+    "name": "大阪府",
+    "totalRank": 2,
+    "dailyRank": 26,
+    "recyclingRank": 44
+  },
+  {
+    "name": "兵庫県",
+    "totalRank": 7,
+    "dailyRank": 29,
+    "recyclingRank": 37
+  },
+  {
+    "name": "奈良県",
+    "totalRank": 30,
+    "dailyRank": 35,
+    "recyclingRank": 35
+  },
+  {
+    "name": "和歌山県",
+    "totalRank": 39,
+    "dailyRank": 21,
+    "recyclingRank": 47
+  },
+  {
+    "name": "鳥取県",
+    "totalRank": 47,
+    "dailyRank": 4,
+    "recyclingRank": 2
+  },
+  {
+    "name": "島根県",
+    "totalRank": 46,
+    "dailyRank": 20,
+    "recyclingRank": 16
+  },
+  {
+    "name": "岡山県",
+    "totalRank": 19,
+    "dailyRank": 23,
+    "recyclingRank": 4
+  },
+  {
+    "name": "広島県",
+    "totalRank": 12,
+    "dailyRank": 39,
+    "recyclingRank": 20
+  },
+  {
+    "name": "山口県",
+    "totalRank": 25,
+    "dailyRank": 8,
+    "recyclingRank": 1
+  },
+  {
+    "name": "徳島県",
+    "totalRank": 44,
+    "dailyRank": 15,
+    "recyclingRank": 30
+  },
+  {
+    "name": "香川県",
+    "totalRank": 40,
+    "dailyRank": 42,
+    "recyclingRank": 21
+  },
+  {
+    "name": "愛媛県",
+    "totalRank": 29,
+    "dailyRank": 33,
+    "recyclingRank": 28
+  },
+  {
+    "name": "高知県",
+    "totalRank": 45,
+    "dailyRank": 14,
+    "recyclingRank": 13
+  },
+  {
+    "name": "福岡県",
+    "totalRank": 9,
+    "dailyRank": 19,
+    "recyclingRank": 15
+  },
+  {
+    "name": "佐賀県",
+    "totalRank": 43,
+    "dailyRank": 34,
+    "recyclingRank": 19
+  },
+  {
+    "name": "長崎県",
+    "totalRank": 27,
+    "dailyRank": 10,
+    "recyclingRank": 33
+  },
+  {
+    "name": "熊本県",
+    "totalRank": 23,
+    "dailyRank": 36,
+    "recyclingRank": 12
+  },
+  {
+    "name": "大分県",
+    "totalRank": 34,
+    "dailyRank": 16,
+    "recyclingRank": 22
+  },
+  {
+    "name": "宮崎県",
+    "totalRank": 35,
+    "dailyRank": 13,
+    "recyclingRank": 27
+  },
+  {
+    "name": "鹿児島県",
+    "totalRank": 24,
+    "dailyRank": 25,
+    "recyclingRank": 32
+  },
+  {
+    "name": "沖縄県",
+    "totalRank": 26,
+    "dailyRank": 37,
+    "recyclingRank": 29
+  }
+]

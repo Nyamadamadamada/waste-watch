@@ -50,7 +50,7 @@ export const OperationContext = createContext({
 export const FactoryContext = createContext({} as FactoryContextStruct);
 
 const Layout = ({ children }: PropsWithChildren) => {
-  const [menu, setMenu] = useState<MenuStruct>("info");
+  const [menu, setMenu] = useState<MenuStruct>("map");
   const [pref, setProf] = useState<number | "">("");
   const [operation, setOperation] = useState<OperationType | "">("total");
   const [factory, setFactory] = useState<FactoryStruct>({

@@ -22,14 +22,14 @@ export default function Home({ features, factories }: Params) {
     <div className="">
       <main className="">
         <Map features={features} factories={factories} />
+        <FactoryModal />
       </main>
-      <FactoryModal />
     </div>
   );
 }
 
 export const getStaticProps: GetStaticProps<Params> = async () => {
-  // const features = getMapFeatures();
+  const features = getMapFeatures();
   const incinerationFacility = getIncinerationFactories();
   const bulkyWaste = getBulkyWasteFactories();
   const factories: Factories = {
@@ -38,9 +38,8 @@ export const getStaticProps: GetStaticProps<Params> = async () => {
   };
   return {
     props: {
-      // features,
-      factories,
-      features: [],
+      features,
+      factories: { incinerationFacility: [], bulkyWaste: [] },
     },
   };
 };
