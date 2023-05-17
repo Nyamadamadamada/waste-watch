@@ -2,8 +2,7 @@ import csv
 from get_coordinate import get_coordinate
 
 # 入力ファイル名
-input_file = "./data/test.csv"
-# input_file = "./data/input1.csv"
+input_file = "./data/last.csv"
 
 # 出力ファイル名
 output_file = "./output/output.csv"

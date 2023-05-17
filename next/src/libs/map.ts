@@ -1,6 +1,8 @@
-import { FactoryStruct } from "@/components/Map/type";
+import { FactoryList, FactoryStruct } from "@/components/Map/type";
 import fs from "fs";
 import path from "path";
+
+const DATA_PATH = "data/map/";
 
 export const getMapFeatures = () => {
   const geoJsonFilePath = path.join(process.cwd(), "/data/mapData.json");
@@ -9,58 +11,23 @@ export const getMapFeatures = () => {
   return features;
 };
 
-// 焼却施設
-export const getIncinerationFactories = (): FactoryStruct[] => {
-  const factoryFilePath = path.join(
-    process.cwd(),
-    "/data/map/incineration_facility.json"
-  );
+export const getFactories = (facilityFile: string): FactoryList => {
+  const factoryFilePath = path.join(process.cwd(), DATA_PATH, facilityFile);
   const fileData = fs.readFileSync(factoryFilePath, "utf8");
   const jsonData = JSON.parse(fileData);
-  const factories: FactoryStruct[] = jsonData.map((item: any) => {
+  const factories: FactoryList = jsonData.map((item: any) => {
     return {
-      factoryType: item.factory_type,
       name: item.name,
       coordinates: [item.coordinates[1], item.coordinates[0]], // 緯度・軽度の順番
+      is_cluster: item.is_cluster,
+      facilities: item.facilities ?? [],
+      local_government: item.local_government ?? "",
+      fill_rate: item.fill_rate ?? "",
+      landfill_site: item.landfill_site ?? "",
+      waste_type: item.waste_type ?? "",
+      total_volume: item.total_volume ?? "",
+      facility_status: item.facility_status ?? "",
       title: item.title,
-      local_government: item.local_government,
-      annual_throughput: item.annual_throughput ?? "",
-      industrial_waste: item.industrial_waste ?? "",
-      remarks: item.remarks ?? "",
-      resource_recovery: item.resource_recovery ?? "",
-      waste_for_processing: item.waste_for_processing ?? "",
-      processing_method: item.processing_method ?? "",
-      facility_changes: item.facility_changes ?? "",
-      reuse_and_repair_features: item.reuse_and_repair_features ?? "",
-    };
-  });
-
-  return factories;
-};
-
-// 粗大ゴミ施設
-export const getBulkyWasteFactories = (): FactoryStruct[] => {
-  const factoryFilePath = path.join(
-    process.cwd(),
-    "/data/map/bulky_waste.json"
-  );
-  const fileData = fs.readFileSync(factoryFilePath, "utf8");
-  const jsonData = JSON.parse(fileData);
-  const factories: FactoryStruct[] = jsonData.map((item: any) => {
-    return {
-      factoryType: "bulky_waste",
-      name: item.name,
-      coordinates: [item.coordinates[1], item.coordinates[0]],
-      title: item.title,
-      local_government: item.local_government,
-      annual_throughput: item.annual_throughput ?? "",
-      industrial_waste: item.industrial_waste ?? "",
-      remarks: item.remarks ?? "",
-      resource_recovery: item.resource_recovery ?? "",
-      waste_for_processing: item.waste_for_processing ?? "",
-      processing_method: item.processing_method ?? "",
-      facility_changes: item.facility_changes ?? "",
-      reuse_and_repair_features: item.reuse_and_repair_features ?? "",
     };
   });
 

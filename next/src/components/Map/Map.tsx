@@ -1,10 +1,10 @@
 import dynamic from "next/dynamic";
 import { useMemo } from "react";
-import { Factories, FactoryStruct } from "./type";
+import { FactoryList, FactoryStruct } from "./type";
 
 type Props = {
   features: any;
-  factories: Factories;
+  factories: FactoryList;
 };
 
 function Map({ features, factories }: Props) {

@@ -21,11 +21,11 @@ const mapOperation: OperationStruct[] = [
     name: "リサイクル率",
     description: "様々な要因があります",
   },
-  // {
-  //   key: "facility",
-  //   name: "処理施設",
-  //   description: "廃棄物処理施設の場所と情報",
-  // },
+  {
+    key: "facility",
+    name: "最終処分場",
+    description: "最終処分場の場所と情報",
+  },
 ];
 
 const MapOperationContent = () => {
@@ -47,8 +47,8 @@ const MapOperationContent = () => {
                     id={`mapOperation_${item.key}`}
                     name={item.name}
                     value={item.key}
-                    defaultChecked={item.key === operation}
-                    onClick={() => handleClickOperation(item.key)}
+                    checked={item.key === operation}
+                    onChange={() => handleClickOperation(item.key)}
                     className="hidden peer"
                     required
                   />

@@ -54,34 +54,46 @@ const FactoryModal = () => {
                     scope="row"
                     className="p-4 font-medium  whitespace-nowrap"
                   >
-                    年間処理量
+                    埋め立て済み割合
                   </th>
-                  <td className="p-4">{factory.annual_throughput}（t/年度）</td>
+                  <td className="p-4">{factory.fill_rate}％</td>
                 </tr>
                 <tr className="border-b">
                   <th
                     scope="row"
                     className="p-4 font-medium  whitespace-nowrap"
                   >
-                    産業廃棄物の搬入の有無
+                    全体容積
                   </th>
-                  <td className="p-4">{factory.industrial_waste}</td>
+                  <td className="p-4">
+                    {Number(factory.total_volume).toLocaleString()}(m3)
+                  </td>
                 </tr>
-                {factory.remarks && (
-                  <tr className="border-b">
-                    <th
-                      scope="row"
-                      className="p-4 font-medium  whitespace-nowrap"
-                    >
-                      備考
-                    </th>
-                    <td className="p-4">{factory.remarks}</td>
-                  </tr>
-                )}
+                <tr className="border-b">
+                  <th
+                    scope="row"
+                    className="p-4 font-medium  whitespace-nowrap"
+                  >
+                    処分場の現状
+                  </th>
+                  <td className="p-4">{factory.facility_status}</td>
+                </tr>
+                <tr className="border-b">
+                  <th
+                    scope="row"
+                    className="p-4 font-medium  whitespace-nowrap"
+                  >
+                    処理対象廃棄物
+                  </th>
+                  <td className="p-4">{factory.waste_type}</td>
+                </tr>
               </tbody>
             </table>
           </div>
-          <p className="m-2 text-sm">※ピンの位置は目安です。</p>
+          <p className="m-2 text-sm text-gray-500">※ピンの位置は目安です。</p>
+          <p className="m-2 text-sm text-gray-500">
+            ※埋め立て割合は令和３年時点のデータです。
+          </p>
         </div>
         <div
           className="absolute top-0 right-0 cursor-pointer"

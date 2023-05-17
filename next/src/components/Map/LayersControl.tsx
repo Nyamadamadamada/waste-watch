@@ -9,71 +9,69 @@ import {
   Rectangle,
 } from "react-leaflet";
 import L from "leaflet";
-import { Factories, FactoryStruct } from "./type";
+import { FactoryList, FactoryStruct } from "./type";
 import { FactoryContext } from "../layout/Layout";
 import { useContext } from "react";
 
 type Props = {
-  factories: Factories;
+  factories: FactoryList;
 };
-const rectangle = [
-  [51.49, -0.08],
-  [51.5, -0.06],
-];
-const IncinerationIcon = L.icon({
-  iconUrl: "/image/map/incineration.svg",
-  iconSize: [24, 24],
+
+const FactoryIcon = L.icon({
+  iconUrl: "/image/map/factory.svg",
+  iconSize: [20, 20],
 });
-const BulkyWasteIcon = L.icon({
-  iconUrl: "/image/map/bulkyWaste.svg",
-  iconSize: [24, 24],
+const FactoryClusterIcon = L.icon({
+  iconUrl: "/image/map/factory_cluster.svg",
+  iconSize: [20, 20],
 });
 
-const MapLayersControl = ({ factories }: Props) => {
+const Markers = ({ factories }: Props) => {
   const { setFactory } = useContext(FactoryContext);
-  const handleClick = (factory: FactoryStruct) => {
-    console.log("クリック施設");
-    console.log(factory);
+  const handleClickFactory = (factory: FactoryStruct) => {
     setFactory(factory);
   };
+
   return (
-    <LayersControl position="topright" collapsed={false}>
-      <LayersControl.BaseLayer checked name="処理施設の種別">
-        <TileLayer url="" />
-      </LayersControl.BaseLayer>
-      <LayersControl.Overlay checked name="焼却施設">
-        <FeatureGroup pathOptions={{ color: "purple" }}>
-          {factories.incinerationFacility.map((factory, index) => {
-            return (
+    <div className="">
+      {factories.map((factory, index) => {
+        return (
+          <div key={index}>
+            {factory.is_cluster ? (
               <Marker
                 key={index}
                 position={factory.coordinates}
-                icon={IncinerationIcon}
-                eventHandlers={{
-                  click: () => handleClick(factory),
-                }}
-              />
-            );
-          })}
-        </FeatureGroup>
-      </LayersControl.Overlay>
-      <LayersControl.Overlay checked name="粗大ごみ処理施設">
-        <FeatureGroup pathOptions={{ color: "purple" }}>
-          {factories.bulkyWaste.map((factory, index) => {
-            return (
+                icon={FactoryClusterIcon}
+              >
+                <Popup>
+                  {factory.facilities.map((item) => {
+                    return (
+                      <div key={item.name} className="pb-1 cursor-pointer">
+                        <div
+                          className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                          onClick={() => handleClickFactory(item)}
+                        >
+                          {item.name}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </Popup>
+              </Marker>
+            ) : (
               <Marker
                 key={index}
                 position={factory.coordinates}
-                icon={BulkyWasteIcon}
+                icon={FactoryIcon}
                 eventHandlers={{
-                  click: () => handleClick(factory),
+                  click: () => handleClickFactory(factory),
                 }}
               />
-            );
-          })}
-        </FeatureGroup>
-      </LayersControl.Overlay>
-    </LayersControl>
+            )}
+          </div>
+        );
+      })}
+    </div>
   );
 };
-export default MapLayersControl;
+export default Markers;

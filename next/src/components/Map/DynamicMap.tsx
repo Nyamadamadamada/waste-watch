@@ -16,9 +16,9 @@ import markerShadow from "leaflet/dist/images/marker-shadow.png";
 import Legend from "./Legend";
 import { OperationContext } from "@/components/layout/Layout";
 import useLayerFeature from "./hooks/useLayerFeature";
-import MapLayersControl from "./LayersControl";
+import Markers from "./LayersControl";
 import { legendList } from "./constant";
-import { Factories, FactoryStruct, LegendDictionaryStruct } from "./type";
+import { FactoryList, FactoryStruct, LegendDictionaryStruct } from "./type";
 
 // ピンアイコンが表示されないため、画像を上書き
 L.Icon.Default.mergeOptions({
@@ -44,7 +44,7 @@ const geoStyle = {
 
 type Props = {
   features: any;
-  factories: Factories;
+  factories: FactoryList;
 };
 
 const DynamicMap = ({ features, factories }: Props) => {
@@ -100,9 +100,9 @@ const DynamicMap = ({ features, factories }: Props) => {
         {operation && operation !== "facility" && (
           <Legend legend={legendList[operation]} />
         )}
-        {/* {features && operation === "facility" && (
-          <MapLayersControl factories={factories} />
-        )} */}
+        {features && operation === "facility" && (
+          <Markers factories={factories} />
+        )}
       </MapContainer>
     </div>
   );

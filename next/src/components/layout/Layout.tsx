@@ -10,10 +10,7 @@ import {
 } from "react";
 import Sidebar from "@/components/sidebar";
 import { MenuStruct } from "@/components/sidebar/type";
-import Map from "@/components/Map";
-import AttachedModal from "@/components/attachedModal";
 import { FactoryStruct } from "@/components/Map/type";
-import { factory } from "typescript";
 
 type MenuContextStruct = {
   menu: MenuStruct;
@@ -54,14 +51,17 @@ const Layout = ({ children }: PropsWithChildren) => {
   const [pref, setProf] = useState<number | "">("");
   const [operation, setOperation] = useState<OperationType | "">("total");
   const [factory, setFactory] = useState<FactoryStruct>({
-    factoryType: "",
     name: "",
     title: "",
     coordinates: { lat: 0, lng: 0 },
+    is_cluster: false,
+    facilities: [],
     local_government: "",
-    annual_throughput: "",
-    industrial_waste: "",
-    remarks: "",
+    fill_rate: "",
+    landfill_site: "",
+    waste_type: "",
+    total_volume: "",
+    facility_status: "",
   });
   const [modalOpen, setModalOpen] = useState<boolean>(false);
 

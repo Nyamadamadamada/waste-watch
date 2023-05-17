@@ -1,4 +1,4 @@
-import { FactoryTypeList, LegendDictionaryStruct } from "../type";
+import { LegendDictionaryStruct } from "../type";
 
 export const legendList: LegendDictionaryStruct = {
   total: {
@@ -77,14 +77,3 @@ export const legendList: LegendDictionaryStruct = {
     list: [],
   },
 };
-
-export const factoryTypeList: FactoryTypeList = [
-  {
-    key: "incinerationFacility",
-    name: "焼却施設",
-  },
-  {
-    key: "bulkyWaste",
-    name: "粗大ゴミ処理施設",
-  },
-];
