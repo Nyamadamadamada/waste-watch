@@ -1,4 +1,4 @@
-export type InfoStruct = "" | "map" | "detail";
+export type InfoStruct = "" | "map" | "detail" | "facility";
 
 export type InfoTextStruct = {
   key: InfoStruct;

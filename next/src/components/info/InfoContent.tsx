@@ -12,13 +12,20 @@ const infoText: InfoTextStruct[] = [
     title: "マップをみてみよう",
     description:
       "色の違いから、地域によって異なる分布を俯瞰してみましょう。マップ設定からデータを切り替えることができます。",
-    image: "",
+    image: "/image/info/info1.png",
   },
   {
     key: "detail",
     title: "詳細情報をみてみよう",
     description: "各県のごみの排出量や種別など、詳細情報を確認できます。",
-    image: "",
+    image: "/image/info/info2.png",
+  },
+  {
+    key: "facility",
+    title: "最終処分場の場所と情報",
+    description:
+      "各自治体の最終処分場の情報を確認できます。新設の処分場と位置情報が取れなかった処分場はマップにない可能性があります。",
+    image: "/image/info/info3.png",
   },
 ];
 
