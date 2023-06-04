@@ -1,38 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<samp>
 
-## Getting Started
+# 廃棄物マップ WasteWatch
 
-First, run the development server:
+<a href="https://waste-watch.vercel.app/"    target="_blank" rel="noopener noreferrer">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![イカしたロゴ](./document/title_logo.png)
+</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 概要
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+ゴミの最終処分場の寿命はあと 20 年ということをご存知でしょうか。  
+環境省は「およそ 2040 年で日本全国のゴミの埋立地である、最終処分場が満杯になる」という発表を出しています。
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+ごみマップ WasteWatch は、都道府県それぞれの廃棄物の特色と最終処分場の状況を可視化し、廃棄物の分析を行えるサービスです。
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## WasteWatch の使い方
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **廃棄物の情報の特性を把握する**
+  - 色分けされた分布により、日本各地の地域特性を把握することができます
+- **県ごとの廃棄物特性を確認する**
+  - 都道府県をクリックすると、その県のごみ割合・ランキングを確認できます
+- **最終処分場の情報を確認する**
+  - 各自治体の最終処分場の埋め立て状況、対象廃棄物情報を確認できます
 
-## Learn More
+## 技術スタック
 
-To learn more about Next.js, take a look at the following resources:
+- [NextJS](https://nextjs.org/) フロント画面
+- [leaflet](https://leafletjs.com/) マップ表示
+- [recharts](https://recharts.org/en-US/) グラフ表示
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## データリンク
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[日本の廃棄物処理（令和 4 年 4 月 20 日現在）](https://www.env.go.jp/recycle/waste_tech/ippan/r2/index.html)
 
-## Deploy on Vercel
+[47 都道府県のポリゴンデータ geojson](https://japonyol.net/editor/article/47-prefectures-geojson.html)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</samp>
