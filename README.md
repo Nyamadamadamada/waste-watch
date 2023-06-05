@@ -1,10 +1,9 @@
-<samp>
-
 # 廃棄物マップ WasteWatch
 
-<a href="https://waste-watch.vercel.app/"    target="_blank" rel="noopener noreferrer">
-
-![イカしたロゴ](./document/title_logo.png)
+<a href="https://waste-watch.vercel.app/"   target="_blank" rel="noopener noreferrer" aline="center">
+<div aline="center">
+<img src="./document/title_logo.png"  width="400">
+</div>
 </a>
 
 ## 概要
@@ -34,5 +33,3 @@
 [日本の廃棄物処理（令和 4 年 4 月 20 日現在）](https://www.env.go.jp/recycle/waste_tech/ippan/r2/index.html)
 
 [47 都道府県のポリゴンデータ geojson](https://japonyol.net/editor/article/47-prefectures-geojson.html)
-
-</samp>
