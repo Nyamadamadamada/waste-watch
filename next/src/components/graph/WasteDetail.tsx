@@ -1,9 +1,6 @@
-import { aaa } from "@/libs/combert";
-
 type Props = {
   wasteDate: WasteDetail;
 };
-console.log(JSON.stringify(aaa));
 
 const WasteDetail = ({ wasteDate }: Props) => {
   return (

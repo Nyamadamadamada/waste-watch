@@ -85,6 +85,8 @@ https://docs.stadiamaps.com/themes/
 
 [アイコン](https://icooon-mono.com/)
 
+[SDGs MAGAZINE](https://sdgsmagazine.jp/2021/06/10/1825/)
+
 サイドバーのアイコンの色
 
 - 緑：#008036

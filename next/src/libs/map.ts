@@ -1,7 +1,6 @@
 import { FactoryList, FactoryStruct } from "@/components/Map/type";
 import fs from "fs";
 import path from "path";
-
 const DATA_PATH = "data/map/";
 
 export const getMapFeatures = () => {

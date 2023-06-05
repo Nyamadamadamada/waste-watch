@@ -1,7 +1,6 @@
-import React, { Dispatch, SetStateAction, useContext, useState } from "react";
-import Image from "next/image";
+import React, { SetStateAction, useContext } from "react";
 
-import GraphContent from "@/components/graph";
+import GraphContentDynamic from "@/components/graph/GraphContentDynamic";
 import Info from "@/components/info";
 import NoteContent from "@/components/note";
 import { MenuContext } from "../layout/Layout";
@@ -13,7 +12,7 @@ const SidebarContent = () => {
   return (
     <div className="mx-auto w-full">
       {menu === "map" && <MapOperationContent />}
-      {menu === "graph" && <GraphContent />}
+      {menu === "graph" && <GraphContentDynamic />}
       {menu === "note" && <NoteContent />}
       {menu === "info" && <Info />}
     </div>

@@ -9,7 +9,7 @@ const Note = ({ note }: Props) => {
   return (
     <div className="p-4">
       <h5 className="my-2 text-gray-700 text-lg">{note.title}</h5>
-      <p className="text-gray-700">{note.description}</p>
+      <div className="text-gray-700">{note.description}</div>
       {note.image && (
         <Image
           src={note.image}

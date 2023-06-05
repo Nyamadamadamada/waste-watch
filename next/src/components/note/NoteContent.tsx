@@ -14,42 +14,44 @@ const noteText: NoteTextStruct[] = [
       <div>
         収集区分は、次のものをいいます。
         <table className="my-8">
-          <tr>
-            <th className="whitespace-nowrap p-2">可燃ごみ</th>
-            <td className="break-words px-4 py-2 ">
-              焼却施設にて中間処理することを主に目的として収集されるもの
-            </td>
-          </tr>
-          <tr>
-            <th className="whitespace-nowrap p-2">不燃ごみ</th>
-            <td className="break-words px-4 py-2 ">
-              焼却施設以外の中間処理施設にて処理する、または最終処分することを目的として収集されるもの
-            </td>
-          </tr>
-          <tr>
-            <th className="whitespace-nowrap p-2">資源ごみ</th>
-            <td className="break-words px-4 py-2 ">
-              再資源化することを目的とし収集されるもの
-            </td>
-          </tr>
-          <tr>
-            <th className="whitespace-nowrap p-2">粗大ごみ</th>
-            <td className="break-words px-4 py-2 ">
-              比較的大きなものとして上記とは別に収集されるもの
-            </td>
-          </tr>
-          <tr>
-            <th className="whitespace-nowrap p-2">その他のごみ</th>
-            <td className="break-words px-4 py-2 ">
-              有害ごみや危険ごみ等で収集されるもの
-            </td>
-          </tr>
-          <tr>
-            <th className="whitespace-nowrap p-2">混合ごみ</th>
-            <td className="break-words px-4 py-2 ">
-              可燃または不燃を問わずに収集されるもの
-            </td>
-          </tr>
+          <tbody>
+            <tr>
+              <th className="whitespace-nowrap p-2">可燃ごみ</th>
+              <td className="break-words px-4 py-2 ">
+                焼却施設にて中間処理することを主に目的として収集されるもの
+              </td>
+            </tr>
+            <tr>
+              <th className="whitespace-nowrap p-2">不燃ごみ</th>
+              <td className="break-words px-4 py-2 ">
+                焼却施設以外の中間処理施設にて処理する、または最終処分することを目的として収集されるもの
+              </td>
+            </tr>
+            <tr>
+              <th className="whitespace-nowrap p-2">資源ごみ</th>
+              <td className="break-words px-4 py-2 ">
+                再資源化することを目的とし収集されるもの
+              </td>
+            </tr>
+            <tr>
+              <th className="whitespace-nowrap p-2">粗大ごみ</th>
+              <td className="break-words px-4 py-2 ">
+                比較的大きなものとして上記とは別に収集されるもの
+              </td>
+            </tr>
+            <tr>
+              <th className="whitespace-nowrap p-2">その他のごみ</th>
+              <td className="break-words px-4 py-2 ">
+                有害ごみや危険ごみ等で収集されるもの
+              </td>
+            </tr>
+            <tr>
+              <th className="whitespace-nowrap p-2">混合ごみ</th>
+              <td className="break-words px-4 py-2 ">
+                可燃または不燃を問わずに収集されるもの
+              </td>
+            </tr>
+          </tbody>
         </table>
       </div>
     ),
@@ -137,14 +139,14 @@ const NoteContent = () => {
               })}
               onClick={() => handleClickNote(note.id)}
             >
-              <p
+              <span
                 className={cn({
                   "text-md": true,
                   "text-white": activeNoteId === note.id,
                 })}
               >
                 {note.title}
-              </p>
+              </span>
               {activeNoteId === note.id ? (
                 <Image
                   src="/image/common/right_white.svg"

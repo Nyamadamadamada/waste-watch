@@ -1,13 +1,14 @@
 import dynamic from "next/dynamic";
-import { useMemo } from "react";
-import { FactoryList, FactoryStruct } from "./type";
+import { SetStateAction, useMemo, Dispatch } from "react";
+import { FactoryList } from "./type";
 
 type Props = {
   features: any;
   factories: FactoryList;
+  setOpen: Dispatch<SetStateAction<boolean>>;
 };
 
-function Map({ features, factories }: Props) {
+function Map({ features, factories, setOpen }: Props) {
   const DynamicMap = useMemo(
     () =>
       dynamic(() => import("./DynamicMap"), {
@@ -16,7 +17,9 @@ function Map({ features, factories }: Props) {
       }),
     []
   );
-  return <DynamicMap features={features} factories={factories} />;
+  return (
+    <DynamicMap features={features} factories={factories} setOpen={setOpen} />
+  );
 }
 
 export default Map;

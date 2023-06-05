@@ -7,7 +7,14 @@ import {
   LayersControl,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import { useContext, useEffect } from "react";
+import {
+  Dispatch,
+  SetStateAction,
+  useContext,
+  useEffect,
+  useState,
+} from "react";
+import Image from "next/image";
 
 import L, { Layer, LayerOptions, PathOptions } from "leaflet";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
@@ -45,9 +52,10 @@ const geoStyle = {
 type Props = {
   features: any;
   factories: FactoryList;
+  setOpen: Dispatch<SetStateAction<boolean>>;
 };
 
-const DynamicMap = ({ features, factories }: Props) => {
+const DynamicMap = ({ features, factories, setOpen }: Props) => {
   const { operation } = useContext(OperationContext);
   const { onEachFeatureTotal, onEachFeatureDay, onEachFeatureRecycling } =
     useLayerFeature();
@@ -58,7 +66,7 @@ const DynamicMap = ({ features, factories }: Props) => {
     {
       maxZoom: 20,
       attribution:
-        '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
+        '&copy; <a href="https://stadiamaps.com/" target="_blank" rel="noopener noreferrer">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/" target="_blank" rel="noopener noreferrer">OpenMapTiles</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
     }
   );
 
@@ -99,6 +107,16 @@ const DynamicMap = ({ features, factories }: Props) => {
         )}
         {operation && operation !== "facility" && (
           <Legend legend={legendList[operation]} />
+        )}
+        {operation && operation === "facility" && (
+          <button
+            className="legend bg-white px-4 py-2 text-xl"
+            onClick={() => {
+              setOpen(true);
+            }}
+          >
+            数字でみる
+          </button>
         )}
         {features && operation === "facility" && (
           <Markers factories={factories} />
