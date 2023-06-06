@@ -5,10 +5,9 @@ import { FactoryList } from "./type";
 type Props = {
   features: any;
   factories: FactoryList;
-  setOpen: Dispatch<SetStateAction<boolean>>;
 };
 
-function Map({ features, factories, setOpen }: Props) {
+function Map({ features, factories }: Props) {
   const DynamicMap = useMemo(
     () =>
       dynamic(() => import("./DynamicMap"), {
@@ -17,9 +16,7 @@ function Map({ features, factories, setOpen }: Props) {
       }),
     []
   );
-  return (
-    <DynamicMap features={features} factories={factories} setOpen={setOpen} />
-  );
+  return <DynamicMap features={features} factories={factories} />;
 }
 
 export default Map;

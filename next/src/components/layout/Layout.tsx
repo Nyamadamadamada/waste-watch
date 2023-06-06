@@ -28,7 +28,9 @@ type ModalContextStruct = {
 
 type OperationContextStruct = {
   operation: OperationType | "";
+  widthModalOpen: boolean;
   handleClickOperation: (id: OperationType) => void;
+  handleClickWidthModal: (bool: boolean) => void;
 };
 
 type FactoryContextStruct = {
@@ -64,6 +66,7 @@ const Layout = ({ children }: PropsWithChildren) => {
     facility_status: "",
   });
   const [modalOpen, setModalOpen] = useState<boolean>(false);
+  const [widthModalOpen, setWidthModalOpen] = useState<boolean>(false);
 
   const handleClickMenu = useCallback((menu: MenuStruct) => {
     setMenu(menu);
@@ -78,7 +81,14 @@ const Layout = ({ children }: PropsWithChildren) => {
   const handleClickOperation = useCallback((key: OperationType) => {
     setOperation(key);
     setModalOpen(false);
+    setWidthModalOpen(false);
   }, []);
+
+  const handleClickWidthModal = (bool: boolean) => {
+    console.log("boooo");
+    console.log(bool);
+    setWidthModalOpen(bool);
+  };
 
   const contextMenu = useMemo(
     () => ({
@@ -99,9 +109,11 @@ const Layout = ({ children }: PropsWithChildren) => {
   const contextOperation = useMemo(
     () => ({
       operation,
+      widthModalOpen,
       handleClickOperation,
+      handleClickWidthModal,
     }),
-    [operation, handleClickOperation]
+    [operation, widthModalOpen, handleClickOperation, handleClickWidthModal]
   );
 
   const contextFactory = useMemo(

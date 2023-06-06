@@ -1,13 +1,12 @@
 import { GetStaticProps } from "next";
-import Script from "next/script";
 
 import Map from "@/components/Map";
 import { getFactories, getMapFeatures } from "@/libs/map";
 import { FactoryList } from "@/components/Map/type";
 import FactoryModal from "@/components/factoryModal";
-import { useState } from "react";
-import Image from "next/image";
+import { useContext, useState } from "react";
 import BarGraphContent from "@/components/graph/BarGraphContent";
+import { OperationContext } from "@/components/layout/Layout";
 
 type Params = {
   features: [];
@@ -15,14 +14,13 @@ type Params = {
 };
 
 export default function Home({ features, factories }: Params) {
-  const [open, setOpen] = useState<boolean>(false);
-
+  const { widthModalOpen } = useContext(OperationContext);
   return (
     <div className="">
       <main className="">
-        <Map features={features} factories={factories} setOpen={setOpen} />
+        <Map features={features} factories={factories} />
         <FactoryModal />
-        {open && <BarGraphContent setOpen={setOpen} />}
+        {widthModalOpen && <BarGraphContent />}
       </main>
     </div>
   );

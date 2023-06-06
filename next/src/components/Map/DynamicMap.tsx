@@ -1,19 +1,6 @@
-import {
-  MapContainer,
-  GeoJSON,
-  TileLayer,
-  Marker,
-  Popup,
-  LayersControl,
-} from "react-leaflet";
+import { MapContainer, GeoJSON, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import {
-  Dispatch,
-  SetStateAction,
-  useContext,
-  useEffect,
-  useState,
-} from "react";
+import { useContext } from "react";
 import Image from "next/image";
 
 import L, { Layer, LayerOptions, PathOptions } from "leaflet";
@@ -25,7 +12,7 @@ import { OperationContext } from "@/components/layout/Layout";
 import useLayerFeature from "./hooks/useLayerFeature";
 import Markers from "./LayersControl";
 import { legendList } from "./constant";
-import { FactoryList, FactoryStruct, LegendDictionaryStruct } from "./type";
+import { FactoryList } from "./type";
 
 // ピンアイコンが表示されないため、画像を上書き
 L.Icon.Default.mergeOptions({
@@ -52,13 +39,13 @@ const geoStyle = {
 type Props = {
   features: any;
   factories: FactoryList;
-  setOpen: Dispatch<SetStateAction<boolean>>;
 };
 
-const DynamicMap = ({ features, factories, setOpen }: Props) => {
+const DynamicMap = ({ features, factories }: Props) => {
   const { operation } = useContext(OperationContext);
   const { onEachFeatureTotal, onEachFeatureDay, onEachFeatureRecycling } =
     useLayerFeature();
+  const { handleClickWidthModal } = useContext(OperationContext);
 
   // Style URL format in XYZ PNG format; see our documentation for more options
   L.tileLayer(
@@ -110,11 +97,16 @@ const DynamicMap = ({ features, factories, setOpen }: Props) => {
         )}
         {operation && operation === "facility" && (
           <button
-            className="legend bg-white px-4 py-2 text-xl"
-            onClick={() => {
-              setOpen(true);
-            }}
+            className=" inline-flex legend bg-white px-4 py-2 text-xl mb-10"
+            onClick={() => handleClickWidthModal(true)}
           >
+            <Image
+              src="/image/common/magnifying_glass.svg"
+              alt="icon"
+              width="0"
+              height="0"
+              className="w-7 h-7 z-10 my-auto pr-2"
+            />
             数字でみる
           </button>
         )}

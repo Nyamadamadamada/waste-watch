@@ -1,11 +1,10 @@
 import Image from "next/image";
 import BarGraphDynamic from "@/components/graph/BarGraphDynamic";
-import { Dispatch, SetStateAction } from "react";
+import { OperationContext } from "../layout/Layout";
+import { useContext } from "react";
 
-type Props = {
-  setOpen: Dispatch<SetStateAction<boolean>>;
-};
-const BarGraphContent = ({ setOpen }: Props) => {
+const BarGraphContent = () => {
+  const { handleClickWidthModal } = useContext(OperationContext);
   return (
     <div className="absolute top-0  bg-white w-[calc(100vw-400px)] h-screen overflow-y-scroll">
       <div className="w-full h-full p-4 m-auto">
@@ -16,9 +15,7 @@ const BarGraphContent = ({ setOpen }: Props) => {
       </div>
       <div
         className="absolute top-0 right-0 cursor-pointer"
-        onClick={() => {
-          setOpen(false);
-        }}
+        onClick={() => handleClickWidthModal(false)}
       >
         <Image
           src="/image/common/batu.svg"
